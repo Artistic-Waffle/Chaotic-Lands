@@ -1,0 +1,77 @@
+{
+	"file_path": "C:\\Users\\heste\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs\\Chaotic Lands\\blocks\\Copper_ore.json",
+	"file_type": "block",
+	"format_version": 1,
+	"file_uuid": "a6df162f_c4fa_47be_a1bc_44ac88b2c265",
+	"file_version": 1,
+	"cache_content": {
+		"children": [
+			{
+				"data": "1.16.200",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.200",
+					"minecraft:block": {
+						"description": {
+							"identifier": "cl:Copper_ore"
+						},
+						"components": {
+							"minecraft:destroy_time": 5,
+							"minecraft:block_light_absorption": 0,
+							"minecraft:block_light_emission": 0,
+							"minecraft:friction": 0.6,
+							"minecraft:display_name": "copper ore"
+						}
+					}
+				},
+				"key": "minecraft:block",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "cl:Copper_ore"
+							},
+							"components": {
+								"minecraft:destroy_time": 5,
+								"minecraft:block_light_absorption": 0,
+								"minecraft:block_light_emission": 0,
+								"minecraft:friction": 0.6,
+								"minecraft:display_name": "copper ore"
+							}
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "cl:Copper_ore"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "cl:Copper_ore"
+							},
+							"components": {
+								"minecraft:destroy_time": 5,
+								"minecraft:block_light_absorption": 0,
+								"minecraft:block_light_emission": 0,
+								"minecraft:friction": 0.6,
+								"minecraft:display_name": "copper ore"
+							}
+						},
+						"key": "components",
+						"is_minified": true,
+						"children": {
+							"minecraft:destroy_time": 5,
+							"minecraft:block_light_absorption": 0,
+							"minecraft:block_light_emission": 0,
+							"minecraft:friction": 0.6,
+							"minecraft:display_name": "copper ore"
+						}
+					}
+				]
+			}
+		]
+	}
+}

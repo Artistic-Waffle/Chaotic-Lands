@@ -1,0 +1,68 @@
+{
+	"block": {
+		"BP/blocks/Copper_ore.json": {
+			"identifiers": [
+				"cl:Copper_ore"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		}
+	},
+	"entity": {
+		"BP/entities/pipes.json": {
+			"events": [],
+			"bridge_core_tags": [],
+			"identifiers": [
+				"cl:pipes"
+			],
+			"animation_references": [],
+			"families": [],
+			"custom_commands": [],
+			"custom_components": []
+		}
+	},
+	"client_entity": {
+		"RP/tity/pipes.json": {
+			"identifiers": [
+				"cl:item_pipes"
+			],
+			"particle_references": [],
+			"animation_references": [],
+			"sound_references": [],
+			"texture_references": [
+				"defualt"
+			],
+			"material_references": [
+				"default"
+			],
+			"geometry_references": [
+				"default"
+			],
+			"geometry_identifiers": [
+				"default"
+			]
+		},
+		"RP/tity/pipes.entity.json": {
+			"identifiers": [
+				"cl:pipes"
+			],
+			"particle_references": [],
+			"animation_references": [],
+			"sound_references": [],
+			"texture_references": [
+				"default"
+			],
+			"material_references": [
+				"default"
+			],
+			"geometry_references": [
+				"default"
+			],
+			"geometry_identifiers": [
+				"default"
+			]
+		}
+	}
+}
