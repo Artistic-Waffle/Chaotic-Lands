@@ -1,0 +1,14 @@
+{
+	"file_path": "C:\\Users\\heste\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\games\\com.mojang\\development_resource_packs\\Chaotic RP\\textures\\item_texture.json",
+	"file_type": "item_texture",
+	"format_version": 1,
+	"file_uuid": "8555c57d_651a_4882_952e_575b79368874",
+	"file_version": 1,
+	"cache_content": {
+		"is_minified": true,
+		"children": {
+			"resource_pack_name": "Chaotic RP",
+			"texture_name": "atlas.items"
+		}
+	}
+}
