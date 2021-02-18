@@ -1,1 +1,5 @@
-[]
+//bridge-file-version: #0
+[
+	"textures/items/copper_ingot",
+	{}
+]
