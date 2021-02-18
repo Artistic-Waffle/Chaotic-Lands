@@ -15,7 +15,7 @@
 				"parent": "itemGroup.name.items"
 			},
 			"minecraft:render_offsets": "ingots",
-			"minecraft:display_name :": {
+			"minecraft:display_name": {
 				"value": "Copper Ore"
 			},
 			"minecraft:icon": {
