@@ -1,0 +1,28 @@
+{
+	"BP/blocks/ores/cobalt_ore.json": {
+		"data": {}
+	},
+	"BP/entities/player.json": {
+		"data": {}
+	},
+	"BP/animation_controllers/bridge/custom_item_behavior.json": {
+		"data": {
+			"2b167b90_bfca_408f_9fef_afe8afcf929b": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			}
+		}
+	},
+	"BP/items/copper_ingot.json": {
+		"data": {}
+	},
+	"RP/ Rp/textures/item_texture.json": {
+		"data": {}
+	}
+}

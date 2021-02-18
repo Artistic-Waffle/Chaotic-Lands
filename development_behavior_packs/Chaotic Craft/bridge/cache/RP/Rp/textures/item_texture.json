@@ -1,0 +1,59 @@
+{
+	"file_path": "C:\\Users\\heste\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\games\\com.mojang\\development_resource_packs\\Chaotic Craft Rp\\textures\\item_texture.json",
+	"file_type": "item_texture",
+	"format_version": 1,
+	"file_uuid": "a521dc9f_1db8_47b8_9243_a65a6f3184cc",
+	"file_version": 1,
+	"cache_content": {
+		"children": [
+			{
+				"data": "bridgeRP",
+				"key": "resource_pack_name"
+			},
+			{
+				"data": "atlas.items",
+				"key": "texture_name"
+			},
+			{
+				"open": {
+					"resource_pack_name": "bridgeRP",
+					"texture_name": "atlas.items",
+					"texture_data": {
+						"copper_ingot": {
+							"textures": [
+								"textures/items/copper_ingot"
+							]
+						}
+					}
+				},
+				"key": "texture_data",
+				"children": [
+					{
+						"open": {
+							"copper_ingot": {
+								"textures": [
+									"textures/items/copper_ingot"
+								]
+							}
+						},
+						"key": "copper_ingot",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/items/copper_ingot"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/items/copper_ingot"
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

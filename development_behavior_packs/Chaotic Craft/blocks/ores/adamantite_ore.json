@@ -1,0 +1,16 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.16.200",
+	"minecraft:block": {
+		"description": {
+			"identifier": "cl:adamantite_ore"
+		},
+		"components": {
+			"minecraft:destroy_time": 24,
+			"minecraft:explosion_resistance": 0.9,
+			"minecraft:loot": {},
+			"minecraft:display_name": "Adamantie ore"
+		},
+		"events": {}
+	}
+}

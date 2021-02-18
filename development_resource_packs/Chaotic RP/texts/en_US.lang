@@ -1,5 +1,0 @@
-##bridge-file-version: #0
-pack.name=Chaotic RP
-pack.description=colorful
-item.spawn_egg.entity.cl:pipes.name=Spawn Pipes
-entity.cl:pipes.name=Pipes

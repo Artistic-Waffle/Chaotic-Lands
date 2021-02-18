@@ -1,8 +1,0 @@
-{
-	"file_path": "C:\\Users\\heste\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\games\\com.mojang\\development_resource_packs\\Chaotic RP\\texts\\en_US.lang",
-	"file_type": "client_lang",
-	"format_version": 0,
-	"file_uuid": "afc86f36_6a57_47e4_92ad_20b1bf10aa00",
-	"file_version": 0,
-	"cache_content": "pack.name=Chaotic RP\r\npack.description=colorful\r\nitem.spawn_egg.entity.cl:pipes.name=Spawn Pipes\r\nentity.cl:pipes.name=Pipes"
-}

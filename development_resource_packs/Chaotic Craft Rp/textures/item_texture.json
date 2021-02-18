@@ -1,0 +1,12 @@
+//bridge-file-version: #1
+{
+	"resource_pack_name": "bridgeRP",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"copper_ingot": {
+			"textures": [
+				"textures/items/copper_ingot"
+			]
+		}
+	}
+}

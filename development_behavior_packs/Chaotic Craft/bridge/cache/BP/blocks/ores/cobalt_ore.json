@@ -1,0 +1,81 @@
+{
+	"file_path": "C:\\Users\\heste\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\games\\com.mojang\\development_behavior_packs\\Chaotic Craft\\blocks\\ores\\cobalt_ore.json",
+	"file_type": "block",
+	"format_version": 1,
+	"file_uuid": "64099392_194d_4363_8c35_b9501fe73eed",
+	"file_version": 2,
+	"cache_content": {
+		"children": [
+			{
+				"data": "1.16.200",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.200",
+					"minecraft:block": {
+						"description": {
+							"identifier": "cc:cobalt_ore"
+						},
+						"components": {
+							"minecraft:destroy_time": 4,
+							"minecraft:explosion_resistance": 8,
+							"minecraft:loot": {},
+							"minecraft:display_name": "Cobalt Ore"
+						},
+						"events": {}
+					}
+				},
+				"key": "minecraft:block",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "cc:cobalt_ore"
+							},
+							"components": {
+								"minecraft:destroy_time": 4,
+								"minecraft:explosion_resistance": 8,
+								"minecraft:loot": {},
+								"minecraft:display_name": "Cobalt Ore"
+							},
+							"events": {}
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "cc:cobalt_ore"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "cc:cobalt_ore"
+							},
+							"components": {
+								"minecraft:destroy_time": 4,
+								"minecraft:explosion_resistance": 8,
+								"minecraft:loot": {},
+								"minecraft:display_name": "Cobalt Ore"
+							},
+							"events": {}
+						},
+						"key": "components",
+						"is_minified": true,
+						"children": {
+							"minecraft:destroy_time": 4,
+							"minecraft:explosion_resistance": 8,
+							"minecraft:loot": {},
+							"minecraft:display_name": "Cobalt Ore"
+						}
+					},
+					{
+						"key": "events",
+						"is_minified": true,
+						"children": {}
+					}
+				]
+			}
+		]
+	}
+}

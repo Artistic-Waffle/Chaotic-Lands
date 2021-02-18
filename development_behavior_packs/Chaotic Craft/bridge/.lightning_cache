@@ -1,0 +1,41 @@
+{
+	"block": {
+		"BP/blocks/ores/cobalt_ore.json": {
+			"identifiers": [
+				"cc:cobalt_ore"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		}
+	},
+	"entity": {
+		"BP/entities/player.json": {
+			"events": [
+				"minecraft:gain_bad_omen",
+				"minecraft:clear_add_bad_omen",
+				"minecraft:trigger_raid",
+				"minecraft:remove_raid_trigger"
+			],
+			"bridge_core_tags": [],
+			"identifiers": [
+				"minecraft:player"
+			],
+			"animation_references": [],
+			"families": [
+				"player"
+			],
+			"custom_commands": [],
+			"custom_components": []
+		}
+	},
+	"item": {
+		"BP/items/copper_ingot.json": {
+			"identifiers": [
+				"cc:copper_ingot"
+			],
+			"custom_commands": []
+		}
+	}
+}
