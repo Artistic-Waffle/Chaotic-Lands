@@ -10,4 +10,4 @@ Notes :
 
 Problems:
   - Item textures isn't registering
-  - [Item][Warning]-item item.cc:-- requires either an icon atlasor icon texture
+  - [Item][Warning]-item item.cc:-- requires either an icon atlas or icon texture
