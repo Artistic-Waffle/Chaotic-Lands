@@ -1,11 +1,96 @@
-//bridge-file-version: #3
+//bridge-file-version: #4
 {
 	"resource_pack_name": "bridgeRP",
 	"texture_name": "atlas.items",
 	"texture_data": {
+		"adamantite_ingot": {
+			"textures": [
+				"textures/items/adamantite_ingot"
+			]
+		},
+		"amethyst_ingot": {
+			"textures": [
+				"textures/items/amethyst_ingot"
+			]
+		},
+		"black_steel_ingot": {
+			"textures": [
+				"textures/items/black_steel_ingot"
+			]
+		},
+		"brass_ingot": {
+			"textures": [
+				"textures/items/brass_ingot"
+			]
+		},
+		"cobalt_ingot": {
+			"textures": [
+				"textures/items/cobalt_ingot"
+			]
+		},
 		"copper_ingot": {
 			"textures": [
 				"textures/items/copper_ingot"
+			]
+		},
+		"electrum_ingot": {
+			"textures": [
+				"textures/items/electrum_ingot"
+			]
+		},
+		"lead_ingot": {
+			"textures": [
+				"textures/items/lead_ingot"
+			]
+		},
+		"mithril_ingot": {
+			"textures": [
+				"textures/items/mithril_ingot"
+			]
+		},
+		"nickel_ingot": {
+			"textures": [
+				"textures/items/nickel_ingot"
+			]
+		},
+		"platinum_ingot": {
+			"textures": [
+				"textures/items/platinum_ingot"
+			]
+		},
+		"silver_ingot": {
+			"textures": [
+				"textures/items/silver_ingot"
+			]
+		},
+		"steal_ingot": {
+			"textures": [
+				"textures/items/steel_ingot"
+			]
+		},
+		"tin_ingot": {
+			"textures": [
+				"textures/items/tin_ingot"
+			]
+		},
+		"titanium_ingot": {
+			"textures": [
+				"textures/items/titanium_ingot"
+			]
+		},
+		"tungsten_ingot": {
+			"textures": [
+				"textures/items/tungsten_ingot"
+			]
+		},
+		"uranium_ingot": {
+			"textures": [
+				"textures/items/uranium_ingot"
+			]
+		},
+		"zinc_ingot": {
+			"textures": [
+				"textures/items/zinc_ingot"
 			]
 		}
 	}

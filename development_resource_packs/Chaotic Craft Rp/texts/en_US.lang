@@ -1,2 +1,21 @@
+##bridge-file-version: #1
 pack.name=Chaotic Craft Rp
 pack.description=Resource Pack for Chaotic Craft
+item.cc:copper_ingot=Copper Ingot
+item.cc:adamantite_ingot=Adamantite Ingot
+item.cc:amethyst_ingot=Amethyst Ingot
+item.cc:black_steel_ingot=Black Steel Ingot
+item.cc:brass_ingot=Brass Ingot
+item.cc:cobalt_ingot=Cobalt Ingot
+item.cc:electrum_ingot=Electrum Ingot
+item.cc:lead_ingot=Lead Ingot
+item.cc:mithril_ingot=Mithril Ingot
+item.cc:nickel_ingot=Nickel Ingot
+item.cc:platinum_ingot=Platinum Ingot
+item.cc:silver_ingot=Silver Ingot
+item.cc:steal_ingot=Steal Ingot
+item.cc:tin_ingot=Tin Ingot
+item.cc:titanium_ingot=Titanium Ingot
+item.cc:tungsten_ingot=Tungsten Ingot
+item.cc:uranium_ingot=Uranium Ingot
+item.cc:zinc_ingot=Zinc Ingot
