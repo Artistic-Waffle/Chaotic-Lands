@@ -10,7 +10,7 @@ Working in Progress :
 
 Notes :
   - New namespace is cc:
-  - need to convert item/block into new Name space
+  - need to convert block/ores into new Name space
 
 Problems :
   - [Item][Warning]-item item.cc:copper_ingot requires either an icon atlas or icon texture
