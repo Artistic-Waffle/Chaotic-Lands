@@ -1,6 +1,6 @@
-//bridge-file-version: #0
+//bridge-file-version: #2
 {
-	"format_version": "1.16.200",
+	"format_version": "1.16.0",
 	"minecraft:block": {
 		"description": {
 			"identifier": "cc:aluminum_ore"
@@ -8,8 +8,6 @@
 		"components": {
 			"minecraft:destroy_time": 4,
 			"minecraft:explosion_resistance": 0.3,
-			"minecraft:display_name": "tin ore",
-			"minecraft:loot": {},
 			"minecraft:flammable": {
 				"burn_odds": 50,
 				"flame_odds": 0

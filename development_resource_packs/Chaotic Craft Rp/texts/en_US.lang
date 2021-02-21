@@ -1,4 +1,4 @@
-##bridge-file-version: #2
+##bridge-file-version: #3
 pack.name=Chaotic Craft Rp
 pack.description=Resource Pack for Chaotic Craft
 item.cc:copper_ingot=Copper Ingot
@@ -13,7 +13,7 @@ item.cc:mithril_ingot=Mithril Ingot
 item.cc:nickel_ingot=Nickel Ingot
 item.cc:platinum_ingot=Platinum Ingot
 item.cc:silver_ingot=Silver Ingot
-item.cc:steal_ingot=Steal Ingot
+item.cc:steel_ingot=Steel Ingot
 item.cc:tin_ingot=Tin Ingot
 item.cc:titanium_ingot=Titanium Ingot
 item.cc:tungsten_ingot=Tungsten Ingot
@@ -42,7 +42,7 @@ tile.cc:platinum_block.name=Platinum Block
 tile.cc:platinum_ore.name=Platinum Ore
 tile.cc:silver_block.name=Silver Block
 tile.cc:silver_ore.name=Silver Ore
-tile.cc:steal_block.name=Steal Block
+tile.cc:steel_block.name=Steel Block
 tile.cc:tin_block.name=Tin Block
 tile.cc:tin_ore.name=Tin Ore
 tile.cc:titanium_block.name=Titanium Block

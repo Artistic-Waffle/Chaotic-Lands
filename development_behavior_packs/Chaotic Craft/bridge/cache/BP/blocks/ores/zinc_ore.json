@@ -3,16 +3,16 @@
 	"file_type": "block",
 	"format_version": 1,
 	"file_uuid": "9a66c184_e77f_4ba7_acf0_4a77a7c46091",
-	"file_version": 1,
+	"file_version": 2,
 	"cache_content": {
 		"children": [
 			{
-				"data": "1.16.200",
+				"data": "1.16.0",
 				"key": "format_version"
 			},
 			{
 				"open": {
-					"format_version": "1.16.200",
+					"format_version": "1.16.0",
 					"minecraft:block": {
 						"description": {
 							"identifier": "cc:zinc_ore"
@@ -23,9 +23,7 @@
 								"burn_odds": 50,
 								"flame_odds": 0
 							},
-							"minecraft:explosion_resistance": 0.3,
-							"minecraft:loot": {},
-							"minecraft:display_name": "zinc ore"
+							"minecraft:explosion_resistance": 0.3
 						},
 						"events": {}
 					}
@@ -43,9 +41,7 @@
 									"burn_odds": 50,
 									"flame_odds": 0
 								},
-								"minecraft:explosion_resistance": 0.3,
-								"minecraft:loot": {},
-								"minecraft:display_name": "zinc ore"
+								"minecraft:explosion_resistance": 0.3
 							},
 							"events": {}
 						},
@@ -66,9 +62,7 @@
 									"burn_odds": 50,
 									"flame_odds": 0
 								},
-								"minecraft:explosion_resistance": 0.3,
-								"minecraft:loot": {},
-								"minecraft:display_name": "zinc ore"
+								"minecraft:explosion_resistance": 0.3
 							},
 							"events": {}
 						},
@@ -80,9 +74,7 @@
 								"burn_odds": 50,
 								"flame_odds": 0
 							},
-							"minecraft:explosion_resistance": 0.3,
-							"minecraft:loot": {},
-							"minecraft:display_name": "zinc ore"
+							"minecraft:explosion_resistance": 0.3
 						}
 					},
 					{

@@ -1,0 +1,89 @@
+{
+	"file_path": "C:\\Users\\heste\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\games\\com.mojang\\development_behavior_packs\\Chaotic Craft\\blocks\\ores\\aluminum_ore.json",
+	"file_type": "block",
+	"format_version": 1,
+	"file_uuid": "8364058e_7787_4533_a469_4f40a1b36b39",
+	"file_version": 2,
+	"cache_content": {
+		"children": [
+			{
+				"data": "1.16.0",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.0",
+					"minecraft:block": {
+						"description": {
+							"identifier": "cc:aluminum_ore"
+						},
+						"components": {
+							"minecraft:destroy_time": 4,
+							"minecraft:explosion_resistance": 0.3,
+							"minecraft:flammable": {
+								"burn_odds": 50,
+								"flame_odds": 0
+							}
+						},
+						"events": {}
+					}
+				},
+				"key": "minecraft:block",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "cc:aluminum_ore"
+							},
+							"components": {
+								"minecraft:destroy_time": 4,
+								"minecraft:explosion_resistance": 0.3,
+								"minecraft:flammable": {
+									"burn_odds": 50,
+									"flame_odds": 0
+								}
+							},
+							"events": {}
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "cc:aluminum_ore"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "cc:aluminum_ore"
+							},
+							"components": {
+								"minecraft:destroy_time": 4,
+								"minecraft:explosion_resistance": 0.3,
+								"minecraft:flammable": {
+									"burn_odds": 50,
+									"flame_odds": 0
+								}
+							},
+							"events": {}
+						},
+						"key": "components",
+						"is_minified": true,
+						"children": {
+							"minecraft:destroy_time": 4,
+							"minecraft:explosion_resistance": 0.3,
+							"minecraft:flammable": {
+								"burn_odds": 50,
+								"flame_odds": 0
+							}
+						}
+					},
+					{
+						"key": "events",
+						"is_minified": true,
+						"children": {}
+					}
+				]
+			}
+		]
+	}
+}

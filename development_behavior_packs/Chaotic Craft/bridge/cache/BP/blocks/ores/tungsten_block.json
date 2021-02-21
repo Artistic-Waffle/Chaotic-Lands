@@ -3,24 +3,23 @@
 	"file_type": "block",
 	"format_version": 1,
 	"file_uuid": "3842060a_b504_447c_89db_015af6b6b66b",
-	"file_version": 0,
+	"file_version": 1,
 	"cache_content": {
 		"children": [
 			{
-				"data": "1.16.200",
+				"data": "1.16.0",
 				"key": "format_version"
 			},
 			{
 				"open": {
-					"format_version": "1.16.200",
+					"format_version": "1.16.0",
 					"minecraft:block": {
 						"description": {
 							"identifier": "cc:tungsten_block"
 						},
 						"components": {
 							"minecraft:destroy_time": 20,
-							"minecraft:explosion_resistance": 18,
-							"minecraft:loot": {}
+							"minecraft:explosion_resistance": 18
 						}
 					}
 				},
@@ -33,8 +32,7 @@
 							},
 							"components": {
 								"minecraft:destroy_time": 20,
-								"minecraft:explosion_resistance": 18,
-								"minecraft:loot": {}
+								"minecraft:explosion_resistance": 18
 							}
 						},
 						"key": "description",
@@ -50,16 +48,14 @@
 							},
 							"components": {
 								"minecraft:destroy_time": 20,
-								"minecraft:explosion_resistance": 18,
-								"minecraft:loot": {}
+								"minecraft:explosion_resistance": 18
 							}
 						},
 						"key": "components",
 						"is_minified": true,
 						"children": {
 							"minecraft:destroy_time": 20,
-							"minecraft:explosion_resistance": 18,
-							"minecraft:loot": {}
+							"minecraft:explosion_resistance": 18
 						}
 					}
 				]

@@ -196,6 +196,16 @@
 						}
 					}
 				}
+			},
+			"4691e3ee_3323_4c6f_a826_5eeb8d83bba7": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
 			}
 		}
 	},
@@ -319,9 +329,6 @@
 	"BP/blocks/ores/silver_ore.json": {
 		"data": {}
 	},
-	"BP/blocks/ores/steal_block.json": {
-		"data": {}
-	},
 	"BP/blocks/ores/tungsten_ore.json": {
 		"data": {}
 	},
@@ -359,6 +366,27 @@
 		"data": {}
 	},
 	"BP/items/aluminum_ingot.json": {
+		"data": {}
+	},
+	"RP/ Rp/textures/terrain_texture.json": {
+		"data": {}
+	},
+	"BP/blocks/machines/crushing_table.json": {
+		"data": {}
+	},
+	"BP/blocks/ores/aluminum_ore.json": {
+		"data": {}
+	},
+	"BP/blocks/ores/aluminum_block.json": {
+		"data": {}
+	},
+	"BP/blocks/ores/steel_block.json": {
+		"data": {}
+	},
+	"BP/blocks/ores/bronze_block.json": {
+		"data": {}
+	},
+	"BP/items/bronze_ingot.json": {
 		"data": {}
 	}
 }

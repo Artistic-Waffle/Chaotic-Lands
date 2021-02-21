@@ -3,12 +3,12 @@
 	"file_type": "block",
 	"format_version": 1,
 	"file_uuid": "6d8b690f_570c_44fe_b427_e83581e2fb1b",
-	"file_version": 1,
+	"file_version": 2,
 	"cache_content": {
 		"children": [
 			{
 				"open": {
-					"format_version": "1.16.200",
+					"format_version": "1.16.0",
 					"minecraft:block": {
 						"description": {
 							"identifier": "cc:brass_block"
@@ -19,7 +19,6 @@
 							"minecraft:block_light_emission": 0,
 							"minecraft:friction": 0.6,
 							"minecraft:explosion_resistance": 3,
-							"minecraft:loot": {},
 							"minecraft:breathability": "solid",
 							"minecraft:flammable": {
 								"burn_odds": 50,
@@ -28,12 +27,12 @@
 						}
 					}
 				},
-				"data": "1.16.200",
+				"data": "1.16.0",
 				"key": "format_version"
 			},
 			{
 				"open": {
-					"format_version": "1.16.200",
+					"format_version": "1.16.0",
 					"minecraft:block": {
 						"description": {
 							"identifier": "cc:brass_block"
@@ -44,7 +43,6 @@
 							"minecraft:block_light_emission": 0,
 							"minecraft:friction": 0.6,
 							"minecraft:explosion_resistance": 3,
-							"minecraft:loot": {},
 							"minecraft:breathability": "solid",
 							"minecraft:flammable": {
 								"burn_odds": 50,
@@ -66,7 +64,6 @@
 								"minecraft:block_light_emission": 0,
 								"minecraft:friction": 0.6,
 								"minecraft:explosion_resistance": 3,
-								"minecraft:loot": {},
 								"minecraft:breathability": "solid",
 								"minecraft:flammable": {
 									"burn_odds": 50,
@@ -91,7 +88,6 @@
 								"minecraft:block_light_emission": 0,
 								"minecraft:friction": 0.6,
 								"minecraft:explosion_resistance": 3,
-								"minecraft:loot": {},
 								"minecraft:breathability": "solid",
 								"minecraft:flammable": {
 									"burn_odds": 50,
@@ -107,7 +103,6 @@
 							"minecraft:block_light_emission": 0,
 							"minecraft:friction": 0.6,
 							"minecraft:explosion_resistance": 3,
-							"minecraft:loot": {},
 							"minecraft:breathability": "solid",
 							"minecraft:flammable": {
 								"burn_odds": 50,

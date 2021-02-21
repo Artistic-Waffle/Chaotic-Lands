@@ -3,16 +3,16 @@
 	"file_type": "block",
 	"format_version": 1,
 	"file_uuid": "0caf6a45_1c5d_4efb_bc19_f573fb33bfcd",
-	"file_version": 1,
+	"file_version": 2,
 	"cache_content": {
 		"children": [
 			{
-				"data": "1.16.200",
+				"data": "1.16.0",
 				"key": "format_version"
 			},
 			{
 				"open": {
-					"format_version": "1.16.200",
+					"format_version": "1.16.0",
 					"minecraft:block": {
 						"description": {
 							"identifier": "cc:silver_ore"
@@ -20,12 +20,10 @@
 						"components": {
 							"minecraft:destroy_time": 5,
 							"minecraft:explosion_resistance": 4,
-							"minecraft:loot": {},
 							"minecraft:flammable": {
 								"burn_odds": 50,
 								"flame_odds": 0
-							},
-							"minecraft:display_name": "Silver Ore"
+							}
 						},
 						"events": {}
 					}
@@ -40,12 +38,10 @@
 							"components": {
 								"minecraft:destroy_time": 5,
 								"minecraft:explosion_resistance": 4,
-								"minecraft:loot": {},
 								"minecraft:flammable": {
 									"burn_odds": 50,
 									"flame_odds": 0
-								},
-								"minecraft:display_name": "Silver Ore"
+								}
 							},
 							"events": {}
 						},
@@ -63,12 +59,10 @@
 							"components": {
 								"minecraft:destroy_time": 5,
 								"minecraft:explosion_resistance": 4,
-								"minecraft:loot": {},
 								"minecraft:flammable": {
 									"burn_odds": 50,
 									"flame_odds": 0
-								},
-								"minecraft:display_name": "Silver Ore"
+								}
 							},
 							"events": {}
 						},
@@ -77,12 +71,10 @@
 						"children": {
 							"minecraft:destroy_time": 5,
 							"minecraft:explosion_resistance": 4,
-							"minecraft:loot": {},
 							"minecraft:flammable": {
 								"burn_odds": 50,
 								"flame_odds": 0
-							},
-							"minecraft:display_name": "Silver Ore"
+							}
 						}
 					},
 					{

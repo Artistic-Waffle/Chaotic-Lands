@@ -3,24 +3,35 @@
 	"file_type": "block",
 	"format_version": 1,
 	"file_uuid": "0cd1afe9_580a_4178_9ca4_d6b658212f48",
-	"file_version": 0,
+	"file_version": 1,
 	"cache_content": {
 		"children": [
 			{
-				"data": "1.16.200",
-				"key": "format_version"
-			},
-			{
 				"open": {
-					"format_version": "1.16.200",
+					"format_version": "1.16.0",
 					"minecraft:block": {
 						"description": {
 							"identifier": "cc:lead_block"
 						},
 						"components": {
 							"minecraft:destroy_time": 4,
-							"minecraft:explosion_resistance": 4,
-							"minecraft:loot": {}
+							"minecraft:explosion_resistance": 4
+						}
+					}
+				},
+				"data": "1.16.0",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.0",
+					"minecraft:block": {
+						"description": {
+							"identifier": "cc:lead_block"
+						},
+						"components": {
+							"minecraft:destroy_time": 4,
+							"minecraft:explosion_resistance": 4
 						}
 					}
 				},
@@ -33,8 +44,7 @@
 							},
 							"components": {
 								"minecraft:destroy_time": 4,
-								"minecraft:explosion_resistance": 4,
-								"minecraft:loot": {}
+								"minecraft:explosion_resistance": 4
 							}
 						},
 						"key": "description",
@@ -50,16 +60,14 @@
 							},
 							"components": {
 								"minecraft:destroy_time": 4,
-								"minecraft:explosion_resistance": 4,
-								"minecraft:loot": {}
+								"minecraft:explosion_resistance": 4
 							}
 						},
 						"key": "components",
 						"is_minified": true,
 						"children": {
 							"minecraft:destroy_time": 4,
-							"minecraft:explosion_resistance": 4,
-							"minecraft:loot": {}
+							"minecraft:explosion_resistance": 4
 						}
 					}
 				]

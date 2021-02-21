@@ -3,16 +3,12 @@
 	"file_type": "block",
 	"format_version": 1,
 	"file_uuid": "7d7e53da_ac07_48f7_9a31_625508677797",
-	"file_version": 2,
+	"file_version": 3,
 	"cache_content": {
 		"children": [
 			{
-				"data": "1.16.200",
-				"key": "format_version"
-			},
-			{
 				"open": {
-					"format_version": "1.16.200",
+					"format_version": "1.16.0",
 					"minecraft:block": {
 						"description": {
 							"identifier": "cc:copper_block"
@@ -23,7 +19,31 @@
 							"minecraft:block_light_emission": 0,
 							"minecraft:friction": 0.6,
 							"minecraft:explosion_resistance": 1.2,
-							"minecraft:loot": {},
+							"minecraft:breathability": "solid",
+							"minecraft:flammable": {
+								"burn_odds": 50,
+								"flame_odds": 0
+							}
+						},
+						"events": {}
+					}
+				},
+				"data": "1.16.0",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.0",
+					"minecraft:block": {
+						"description": {
+							"identifier": "cc:copper_block"
+						},
+						"components": {
+							"minecraft:destroy_time": 7,
+							"minecraft:block_light_absorption": 0,
+							"minecraft:block_light_emission": 0,
+							"minecraft:friction": 0.6,
+							"minecraft:explosion_resistance": 1.2,
 							"minecraft:breathability": "solid",
 							"minecraft:flammable": {
 								"burn_odds": 50,
@@ -46,7 +66,6 @@
 								"minecraft:block_light_emission": 0,
 								"minecraft:friction": 0.6,
 								"minecraft:explosion_resistance": 1.2,
-								"minecraft:loot": {},
 								"minecraft:breathability": "solid",
 								"minecraft:flammable": {
 									"burn_odds": 50,
@@ -72,7 +91,6 @@
 								"minecraft:block_light_emission": 0,
 								"minecraft:friction": 0.6,
 								"minecraft:explosion_resistance": 1.2,
-								"minecraft:loot": {},
 								"minecraft:breathability": "solid",
 								"minecraft:flammable": {
 									"burn_odds": 50,
@@ -89,7 +107,6 @@
 							"minecraft:block_light_emission": 0,
 							"minecraft:friction": 0.6,
 							"minecraft:explosion_resistance": 1.2,
-							"minecraft:loot": {},
 							"minecraft:breathability": "solid",
 							"minecraft:flammable": {
 								"burn_odds": 50,

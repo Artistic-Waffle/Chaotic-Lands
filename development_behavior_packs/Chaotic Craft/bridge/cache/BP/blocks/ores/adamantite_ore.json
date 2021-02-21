@@ -3,24 +3,23 @@
 	"file_type": "block",
 	"format_version": 1,
 	"file_uuid": "ad059936_ed45_4a99_ae8c_96453174c9be",
-	"file_version": 2,
+	"file_version": 4,
 	"cache_content": {
 		"children": [
 			{
-				"data": "1.16.200",
+				"data": "1.16.0",
 				"key": "format_version"
 			},
 			{
 				"open": {
-					"format_version": "1.16.200",
+					"format_version": "1.16.0",
 					"minecraft:block": {
 						"description": {
 							"identifier": "cc:adamantite_ore"
 						},
 						"components": {
 							"minecraft:destroy_time": 24,
-							"minecraft:explosion_resistance": 20,
-							"minecraft:loot": {}
+							"minecraft:explosion_resistance": 20
 						},
 						"events": {}
 					}
@@ -34,8 +33,7 @@
 							},
 							"components": {
 								"minecraft:destroy_time": 24,
-								"minecraft:explosion_resistance": 20,
-								"minecraft:loot": {}
+								"minecraft:explosion_resistance": 20
 							},
 							"events": {}
 						},
@@ -52,8 +50,7 @@
 							},
 							"components": {
 								"minecraft:destroy_time": 24,
-								"minecraft:explosion_resistance": 20,
-								"minecraft:loot": {}
+								"minecraft:explosion_resistance": 20
 							},
 							"events": {}
 						},
@@ -61,8 +58,7 @@
 						"is_minified": true,
 						"children": {
 							"minecraft:destroy_time": 24,
-							"minecraft:explosion_resistance": 20,
-							"minecraft:loot": {}
+							"minecraft:explosion_resistance": 20
 						}
 					},
 					{

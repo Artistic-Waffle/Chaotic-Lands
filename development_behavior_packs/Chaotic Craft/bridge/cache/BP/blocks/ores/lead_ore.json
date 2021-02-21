@@ -3,16 +3,12 @@
 	"file_type": "block",
 	"format_version": 1,
 	"file_uuid": "c2b71678_3b44_4998_99a8_8c1a5522a1a5",
-	"file_version": 1,
+	"file_version": 2,
 	"cache_content": {
 		"children": [
 			{
-				"data": "1.16.200",
-				"key": "format_version"
-			},
-			{
 				"open": {
-					"format_version": "1.16.200",
+					"format_version": "1.16.0",
 					"minecraft:block": {
 						"description": {
 							"identifier": "cc:lead_ore"
@@ -23,8 +19,28 @@
 							"minecraft:flammable": {
 								"burn_odds": 50,
 								"flame_odds": 0
-							},
-							"minecraft:loot": {}
+							}
+						},
+						"events": {}
+					}
+				},
+				"data": "1.16.0",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.0",
+					"minecraft:block": {
+						"description": {
+							"identifier": "cc:lead_ore"
+						},
+						"components": {
+							"minecraft:destroy_time": 3,
+							"minecraft:explosion_resistance": 2,
+							"minecraft:flammable": {
+								"burn_odds": 50,
+								"flame_odds": 0
+							}
 						},
 						"events": {}
 					}
@@ -42,8 +58,7 @@
 								"minecraft:flammable": {
 									"burn_odds": 50,
 									"flame_odds": 0
-								},
-								"minecraft:loot": {}
+								}
 							},
 							"events": {}
 						},
@@ -64,8 +79,7 @@
 								"minecraft:flammable": {
 									"burn_odds": 50,
 									"flame_odds": 0
-								},
-								"minecraft:loot": {}
+								}
 							},
 							"events": {}
 						},
@@ -77,8 +91,7 @@
 							"minecraft:flammable": {
 								"burn_odds": 50,
 								"flame_odds": 0
-							},
-							"minecraft:loot": {}
+							}
 						}
 					},
 					{

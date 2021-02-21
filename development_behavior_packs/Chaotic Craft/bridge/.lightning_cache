@@ -73,7 +73,7 @@
 		},
 		"BP/blocks/ores/brass_block.json": {
 			"identifiers": [
-				"cc:brass_block"
+				"cc:bronze_block"
 			],
 			"events": [],
 			"recipe_tags": [],
@@ -197,15 +197,6 @@
 			"custom_commands": [],
 			"custom_components": []
 		},
-		"BP/blocks/ores/steal_block.json": {
-			"identifiers": [
-				"cc:steal_block"
-			],
-			"events": [],
-			"recipe_tags": [],
-			"custom_commands": [],
-			"custom_components": []
-		},
 		"BP/blocks/ores/tungsten_ore.json": {
 			"identifiers": [
 				"cc:tungsten_ore"
@@ -304,6 +295,51 @@
 			"recipe_tags": [],
 			"custom_commands": [],
 			"custom_components": []
+		},
+		"BP/blocks/machines/crushing_table.json": {
+			"identifiers": [
+				"cc:crushing_table"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/ores/aluminum_ore.json": {
+			"identifiers": [
+				"cc:aluminum_ore"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/ores/aluminum_block.json": {
+			"identifiers": [
+				"cc:aluminum_block"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/ores/steel_block.json": {
+			"identifiers": [
+				"cc:steel_block"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/ores/bronze_block.json": {
+			"identifiers": [
+				"cc:bronze_block"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
 		}
 	},
 	"entity": {
@@ -347,7 +383,7 @@
 		},
 		"BP/items/brass_ingot.json": {
 			"identifiers": [
-				"cc:brass_ingot"
+				"cc:bronze_ingot"
 			],
 			"custom_commands": []
 		},
@@ -438,6 +474,12 @@
 		"BP/items/aluminum_ingot.json": {
 			"identifiers": [
 				"cc:aluminum_ingot"
+			],
+			"custom_commands": []
+		},
+		"BP/items/bronze_ingot.json": {
+			"identifiers": [
+				"cc:bronze_ingot"
 			],
 			"custom_commands": []
 		}

@@ -3,25 +3,23 @@
 	"file_type": "block",
 	"format_version": 1,
 	"file_uuid": "8f62fe51_9ac3_44fb_af14_0c4d02fea334",
-	"file_version": 1,
+	"file_version": 2,
 	"cache_content": {
 		"children": [
 			{
-				"data": "1.16.200",
+				"data": "1.16.0",
 				"key": "format_version"
 			},
 			{
 				"open": {
-					"format_version": "1.16.200",
+					"format_version": "1.16.0",
 					"minecraft:block": {
 						"description": {
 							"identifier": "cc:uranium_ore"
 						},
 						"components": {
 							"minecraft:destroy_time": 30,
-							"minecraft:explosion_resistance": 30,
-							"minecraft:loot": {},
-							"minecraft:display_name": "Uranium Ore"
+							"minecraft:explosion_resistance": 30
 						},
 						"events": {}
 					}
@@ -35,9 +33,7 @@
 							},
 							"components": {
 								"minecraft:destroy_time": 30,
-								"minecraft:explosion_resistance": 30,
-								"minecraft:loot": {},
-								"minecraft:display_name": "Uranium Ore"
+								"minecraft:explosion_resistance": 30
 							},
 							"events": {}
 						},
@@ -54,9 +50,7 @@
 							},
 							"components": {
 								"minecraft:destroy_time": 30,
-								"minecraft:explosion_resistance": 30,
-								"minecraft:loot": {},
-								"minecraft:display_name": "Uranium Ore"
+								"minecraft:explosion_resistance": 30
 							},
 							"events": {}
 						},
@@ -64,9 +58,7 @@
 						"is_minified": true,
 						"children": {
 							"minecraft:destroy_time": 30,
-							"minecraft:explosion_resistance": 30,
-							"minecraft:loot": {},
-							"minecraft:display_name": "Uranium Ore"
+							"minecraft:explosion_resistance": 30
 						}
 					},
 					{

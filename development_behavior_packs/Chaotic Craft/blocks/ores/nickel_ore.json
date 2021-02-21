@@ -1,15 +1,13 @@
-//bridge-file-version: #1
+//bridge-file-version: #2
 {
-	"format_version": "1.16.200",
+	"format_version": "1.16.0",
 	"minecraft:block": {
 		"description": {
 			"identifier": "cc:nickel_ore"
 		},
 		"components": {
 			"minecraft:destroy_time": 4,
-			"minecraft:explosion_resistance": 3,
-			"minecraft:loot": {},
-			"minecraft:display_name": "Nickel ore"
+			"minecraft:explosion_resistance": 3
 		},
 		"events": {}
 	}

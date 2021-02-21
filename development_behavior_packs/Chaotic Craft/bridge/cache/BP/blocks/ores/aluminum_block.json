@@ -1,0 +1,73 @@
+{
+	"file_path": "C:\\Users\\heste\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\games\\com.mojang\\development_behavior_packs\\Chaotic Craft\\blocks\\ores\\aluminum_block.json",
+	"file_type": "block",
+	"format_version": 1,
+	"file_uuid": "6674196e_1738_43d6_b5eb_f026a7df86b8",
+	"file_version": 1,
+	"cache_content": {
+		"children": [
+			{
+				"data": "1.16.0",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.0",
+					"minecraft:block": {
+						"description": {
+							"identifier": "cc:aluminum_block"
+						},
+						"components": {
+							"minecraft:destroy_time": 4,
+							"minecraft:explosion_resistance": 4
+						},
+						"events": {}
+					}
+				},
+				"key": "minecraft:block",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "cc:aluminum_block"
+							},
+							"components": {
+								"minecraft:destroy_time": 4,
+								"minecraft:explosion_resistance": 4
+							},
+							"events": {}
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "cc:aluminum_block"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "cc:aluminum_block"
+							},
+							"components": {
+								"minecraft:destroy_time": 4,
+								"minecraft:explosion_resistance": 4
+							},
+							"events": {}
+						},
+						"key": "components",
+						"is_minified": true,
+						"children": {
+							"minecraft:destroy_time": 4,
+							"minecraft:explosion_resistance": 4
+						}
+					},
+					{
+						"key": "events",
+						"is_minified": true,
+						"children": {}
+					}
+				]
+			}
+		]
+	}
+}

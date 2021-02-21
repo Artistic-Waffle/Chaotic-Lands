@@ -3,25 +3,23 @@
 	"file_type": "block",
 	"format_version": 1,
 	"file_uuid": "02fecb11_b4e0_4471_9f67_5dc5ece13a47",
-	"file_version": 1,
+	"file_version": 2,
 	"cache_content": {
 		"children": [
 			{
-				"data": "1.16.200",
+				"data": "1.16.0",
 				"key": "format_version"
 			},
 			{
 				"open": {
-					"format_version": "1.16.200",
+					"format_version": "1.16.0",
 					"minecraft:block": {
 						"description": {
 							"identifier": "cc:tungsten_ore"
 						},
 						"components": {
 							"minecraft:destroy_time": 18,
-							"minecraft:explosion_resistance": 16,
-							"minecraft:loot": {},
-							"minecraft:display_name": "Tungsten ore"
+							"minecraft:explosion_resistance": 16
 						},
 						"events": {}
 					}
@@ -35,9 +33,7 @@
 							},
 							"components": {
 								"minecraft:destroy_time": 18,
-								"minecraft:explosion_resistance": 16,
-								"minecraft:loot": {},
-								"minecraft:display_name": "Tungsten ore"
+								"minecraft:explosion_resistance": 16
 							},
 							"events": {}
 						},
@@ -54,9 +50,7 @@
 							},
 							"components": {
 								"minecraft:destroy_time": 18,
-								"minecraft:explosion_resistance": 16,
-								"minecraft:loot": {},
-								"minecraft:display_name": "Tungsten ore"
+								"minecraft:explosion_resistance": 16
 							},
 							"events": {}
 						},
@@ -64,9 +58,7 @@
 						"is_minified": true,
 						"children": {
 							"minecraft:destroy_time": 18,
-							"minecraft:explosion_resistance": 16,
-							"minecraft:loot": {},
-							"minecraft:display_name": "Tungsten ore"
+							"minecraft:explosion_resistance": 16
 						}
 					},
 					{

@@ -1,6 +1,6 @@
-//bridge-file-version: #2
+//bridge-file-version: #3
 {
-	"format_version": "1.16.200",
+	"format_version": "1.16.0",
 	"minecraft:block": {
 		"description": {
 			"identifier": "cc:copper_block"
@@ -11,7 +11,6 @@
 			"minecraft:block_light_emission": 0,
 			"minecraft:friction": 0.6,
 			"minecraft:explosion_resistance": 1.2,
-			"minecraft:loot": {},
 			"minecraft:breathability": "solid",
 			"minecraft:flammable": {
 				"burn_odds": 50,

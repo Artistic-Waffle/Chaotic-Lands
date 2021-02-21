@@ -3,16 +3,16 @@
 	"file_type": "block",
 	"format_version": 1,
 	"file_uuid": "4848da5b_acc3_455a_91fb_1818a9c10509",
-	"file_version": 2,
+	"file_version": 3,
 	"cache_content": {
 		"children": [
 			{
-				"data": "1.16.200",
+				"data": "1.16.0",
 				"key": "format_version"
 			},
 			{
 				"open": {
-					"format_version": "1.16.200",
+					"format_version": "1.16.0",
 					"minecraft:block": {
 						"description": {
 							"identifier": "cc:amethyst_ore"
@@ -23,7 +23,6 @@
 							"minecraft:block_light_emission": 0,
 							"minecraft:friction": 0.6,
 							"minecraft:explosion_resistance": 10,
-							"minecraft:loot": {},
 							"minecraft:breathability": "solid",
 							"minecraft:flammable": {
 								"burn_odds": 50,
@@ -46,7 +45,6 @@
 								"minecraft:block_light_emission": 0,
 								"minecraft:friction": 0.6,
 								"minecraft:explosion_resistance": 10,
-								"minecraft:loot": {},
 								"minecraft:breathability": "solid",
 								"minecraft:flammable": {
 									"burn_odds": 50,
@@ -72,7 +70,6 @@
 								"minecraft:block_light_emission": 0,
 								"minecraft:friction": 0.6,
 								"minecraft:explosion_resistance": 10,
-								"minecraft:loot": {},
 								"minecraft:breathability": "solid",
 								"minecraft:flammable": {
 									"burn_odds": 50,
@@ -89,7 +86,6 @@
 							"minecraft:block_light_emission": 0,
 							"minecraft:friction": 0.6,
 							"minecraft:explosion_resistance": 10,
-							"minecraft:loot": {},
 							"minecraft:breathability": "solid",
 							"minecraft:flammable": {
 								"burn_odds": 50,

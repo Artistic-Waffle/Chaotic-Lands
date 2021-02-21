@@ -3,24 +3,23 @@
 	"file_type": "block",
 	"format_version": 1,
 	"file_uuid": "44222d95_db45_4e9a_b61d_405f4b2a4856",
-	"file_version": 0,
+	"file_version": 1,
 	"cache_content": {
 		"children": [
 			{
-				"data": "1.16.200",
+				"data": "1.16.0",
 				"key": "format_version"
 			},
 			{
 				"open": {
-					"format_version": "1.16.200",
+					"format_version": "1.16.0",
 					"minecraft:block": {
 						"description": {
 							"identifier": "cc:silver_block"
 						},
 						"components": {
 							"minecraft:destroy_time": 6,
-							"minecraft:explosion_resistance": 6,
-							"minecraft:loot": {}
+							"minecraft:explosion_resistance": 6
 						}
 					}
 				},
@@ -33,8 +32,7 @@
 							},
 							"components": {
 								"minecraft:destroy_time": 6,
-								"minecraft:explosion_resistance": 6,
-								"minecraft:loot": {}
+								"minecraft:explosion_resistance": 6
 							}
 						},
 						"key": "description",
@@ -50,16 +48,14 @@
 							},
 							"components": {
 								"minecraft:destroy_time": 6,
-								"minecraft:explosion_resistance": 6,
-								"minecraft:loot": {}
+								"minecraft:explosion_resistance": 6
 							}
 						},
 						"key": "components",
 						"is_minified": true,
 						"children": {
 							"minecraft:destroy_time": 6,
-							"minecraft:explosion_resistance": 6,
-							"minecraft:loot": {}
+							"minecraft:explosion_resistance": 6
 						}
 					}
 				]

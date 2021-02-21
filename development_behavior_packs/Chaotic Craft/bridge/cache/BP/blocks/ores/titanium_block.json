@@ -3,24 +3,23 @@
 	"file_type": "block",
 	"format_version": 1,
 	"file_uuid": "5744b7df_9e9c_403f_a4cb_80a0c8dc9d68",
-	"file_version": 0,
+	"file_version": 1,
 	"cache_content": {
 		"children": [
 			{
-				"data": "1.16.200",
+				"data": "1.16.0",
 				"key": "format_version"
 			},
 			{
 				"open": {
-					"format_version": "1.16.200",
+					"format_version": "1.16.0",
 					"minecraft:block": {
 						"description": {
 							"identifier": "cc:titanium_block"
 						},
 						"components": {
 							"minecraft:destroy_time": 24,
-							"minecraft:explosion_resistance": 20,
-							"minecraft:loot": {}
+							"minecraft:explosion_resistance": 20
 						}
 					}
 				},
@@ -33,8 +32,7 @@
 							},
 							"components": {
 								"minecraft:destroy_time": 24,
-								"minecraft:explosion_resistance": 20,
-								"minecraft:loot": {}
+								"minecraft:explosion_resistance": 20
 							}
 						},
 						"key": "description",
@@ -50,16 +48,14 @@
 							},
 							"components": {
 								"minecraft:destroy_time": 24,
-								"minecraft:explosion_resistance": 20,
-								"minecraft:loot": {}
+								"minecraft:explosion_resistance": 20
 							}
 						},
 						"key": "components",
 						"is_minified": true,
 						"children": {
 							"minecraft:destroy_time": 24,
-							"minecraft:explosion_resistance": 20,
-							"minecraft:loot": {}
+							"minecraft:explosion_resistance": 20
 						}
 					}
 				]

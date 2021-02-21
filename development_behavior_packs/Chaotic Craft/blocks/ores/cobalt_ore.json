@@ -1,14 +1,13 @@
-//bridge-file-version: #3
+//bridge-file-version: #4
 {
-	"format_version": "1.16.200",
+	"format_version": "1.16.0",
 	"minecraft:block": {
 		"description": {
 			"identifier": "cc:cobalt_ore"
 		},
 		"components": {
 			"minecraft:destroy_time": 4,
-			"minecraft:explosion_resistance": 8,
-			"minecraft:loot": {}
+			"minecraft:explosion_resistance": 8
 		},
 		"events": {}
 	}

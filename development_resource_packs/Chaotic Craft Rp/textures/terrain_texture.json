@@ -1,7 +1,120 @@
+//bridge-file-version: #2
 {
-  "resource_pack_name": "bridgeRP",
-  "texture_name": "atlas.terrain",
-  "padding": 8,
-  "num_mip_levels": 4,
-  "texture_data": {}
+	"resource_pack_name": "bridgeRP",
+	"texture_name": "atlas.terrain",
+	"padding": 8,
+	"num_mip_levels": 4,
+	"texture_data": {
+		"crushing_table": {
+			"textures": "textures/blocks/crushing_table"
+		},
+		"adamantite_block": {
+			"textures": "textures/blocks/adamantite_block"
+		},
+		"adamantite_ore": {
+			"textures": "textures/blocks/adamantite_ore"
+		},
+		"aluminum_block": {
+			"textures": "textures/blocks/aluminum_block"
+		},
+		"aluminum_ore": {
+			"textures": "textures/blocks/aluminum_ore"
+		},
+		"amethyst_block": {
+			"textures": "textures/blocks/amethyst_block"
+		},
+		"amethyst_ore": {
+			"textures": "textures/blocks/amethyst_ore"
+		},
+		"black_steel_block": {
+			"textures": "textures/blocks/black_steel_block"
+		},
+		"brass_block": {
+			"textures": "textures/blocks/brass_block"
+		},
+		"bronze_block": {
+			"textures": "textures/blocks/bronze_block"
+		},
+		"cobalt_block": {
+			"textures": "textures/blocks/cobalt_block"
+		},
+		"cobalt_ore": {
+			"textures": "textures/blocks/cobalt_ore"
+		},
+		"copper_block": {
+			"textures": "textures/blocks/copper_block"
+		},
+		"copper_ore": {
+			"textures": "textures/blocks/cobalt_ore"
+		},
+		"electrum_block": {
+			"textures": "textures/blocks/electrum_block"
+		},
+		"electrum_ore": {
+			"textures": "textures/blocks/electrum_ore"
+		},
+		"lead_block": {
+			"textures": "textures/blocks/lead_block"
+		},
+		"lead_ore": {
+			"textures": "textures/blocks/lead_ore"
+		},
+		"mythril_block": {
+			"textures": "textures/blocks/mythril_block"
+		},
+		"mythril_ore": {
+			"textures": "textures/blocks/mythril_ore"
+		},
+		"nickel_block": {
+			"textures": "textures/blocks/nickel_block"
+		},
+		"nickel_ore": {
+			"textures": "textures/blocks/nickel_ore"
+		},
+		"platinum_block": {
+			"textures": "textures/blocks/platinum_block"
+		},
+		"platinum_ore": {
+			"textures": "textures/blocks/platinum_ore"
+		},
+		"silver_block": {
+			"textures": "textures/blocks/silver_block"
+		},
+		"silver_ore": {
+			"textures": "textures/blocks/silver_ore"
+		},
+		"steel_block": {
+			"textures": "textures/blocks/steel_block"
+		},
+		"tin_block": {
+			"textures": "textures/blocks/tin_block"
+		},
+		"tin_ore": {
+			"textures": "textures/blocks/tin_ore"
+		},
+		"titanium_block": {
+			"textures": "textures/blocks/titanium_block"
+		},
+		"titanium_ore": {
+			"textures": "textures/blocks/titanium_ore"
+		},
+		"tungsten_block": {
+			"textures": "textures/blocks/tungsten_block"
+		},
+		"tungsten_ore": {
+			"textures": "textures/blocks/tungsten_ore"
+		},
+		"uranium_block": {
+			"textures": "textures/blocks/uranium_block"
+		},
+		"uranium_ore": {
+			"textures": "textures/blocks/uranium_ore"
+		},
+		"zinc_block": {
+			"textures": "textures/blocks/zinc_block"
+		},
+		"zinc_ore": {
+			"textures": "textures/blocks/zinc_ore"
+		}
+	}
 }

@@ -3,12 +3,12 @@
 	"file_type": "block",
 	"format_version": 1,
 	"file_uuid": "949d6c72_d81c_4f0f_bb49_7d8a15d01183",
-	"file_version": 1,
+	"file_version": 2,
 	"cache_content": {
 		"children": [
 			{
 				"open": {
-					"format_version": "1.16.200",
+					"format_version": "1.16.0",
 					"minecraft:block": {
 						"description": {
 							"identifier": "cc:black_steel_block"
@@ -19,7 +19,6 @@
 							"minecraft:block_light_emission": 0,
 							"minecraft:friction": 16,
 							"minecraft:explosion_resistance": 0.3,
-							"minecraft:loot": {},
 							"minecraft:breathability": "solid",
 							"minecraft:flammable": {
 								"burn_odds": 50,
@@ -28,12 +27,12 @@
 						}
 					}
 				},
-				"data": "1.16.200",
+				"data": "1.16.0",
 				"key": "format_version"
 			},
 			{
 				"open": {
-					"format_version": "1.16.200",
+					"format_version": "1.16.0",
 					"minecraft:block": {
 						"description": {
 							"identifier": "cc:black_steel_block"
@@ -44,7 +43,6 @@
 							"minecraft:block_light_emission": 0,
 							"minecraft:friction": 16,
 							"minecraft:explosion_resistance": 0.3,
-							"minecraft:loot": {},
 							"minecraft:breathability": "solid",
 							"minecraft:flammable": {
 								"burn_odds": 50,
@@ -66,7 +64,6 @@
 								"minecraft:block_light_emission": 0,
 								"minecraft:friction": 16,
 								"minecraft:explosion_resistance": 0.3,
-								"minecraft:loot": {},
 								"minecraft:breathability": "solid",
 								"minecraft:flammable": {
 									"burn_odds": 50,
@@ -91,7 +88,6 @@
 								"minecraft:block_light_emission": 0,
 								"minecraft:friction": 16,
 								"minecraft:explosion_resistance": 0.3,
-								"minecraft:loot": {},
 								"minecraft:breathability": "solid",
 								"minecraft:flammable": {
 									"burn_odds": 50,
@@ -107,7 +103,6 @@
 							"minecraft:block_light_emission": 0,
 							"minecraft:friction": 16,
 							"minecraft:explosion_resistance": 0.3,
-							"minecraft:loot": {},
 							"minecraft:breathability": "solid",
 							"minecraft:flammable": {
 								"burn_odds": 50,

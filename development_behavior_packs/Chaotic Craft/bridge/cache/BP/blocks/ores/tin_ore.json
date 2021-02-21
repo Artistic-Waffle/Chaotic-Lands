@@ -3,25 +3,23 @@
 	"file_type": "block",
 	"format_version": 1,
 	"file_uuid": "b1e55688_7b31_418b_ad97_280f505ceaf5",
-	"file_version": 1,
+	"file_version": 2,
 	"cache_content": {
 		"children": [
 			{
-				"data": "1.16.200",
+				"data": "1.16.0",
 				"key": "format_version"
 			},
 			{
 				"open": {
-					"format_version": "1.16.200",
+					"format_version": "1.16.0",
 					"minecraft:block": {
 						"description": {
 							"identifier": "cc:tin_ore"
 						},
 						"components": {
 							"minecraft:destroy_time": 3,
-							"minecraft:explosion_resistance": 3,
-							"minecraft:display_name": "tin ore",
-							"minecraft:loot": {}
+							"minecraft:explosion_resistance": 3
 						},
 						"events": {}
 					}
@@ -35,9 +33,7 @@
 							},
 							"components": {
 								"minecraft:destroy_time": 3,
-								"minecraft:explosion_resistance": 3,
-								"minecraft:display_name": "tin ore",
-								"minecraft:loot": {}
+								"minecraft:explosion_resistance": 3
 							},
 							"events": {}
 						},
@@ -54,9 +50,7 @@
 							},
 							"components": {
 								"minecraft:destroy_time": 3,
-								"minecraft:explosion_resistance": 3,
-								"minecraft:display_name": "tin ore",
-								"minecraft:loot": {}
+								"minecraft:explosion_resistance": 3
 							},
 							"events": {}
 						},
@@ -64,9 +58,7 @@
 						"is_minified": true,
 						"children": {
 							"minecraft:destroy_time": 3,
-							"minecraft:explosion_resistance": 3,
-							"minecraft:display_name": "tin ore",
-							"minecraft:loot": {}
+							"minecraft:explosion_resistance": 3
 						}
 					},
 					{
