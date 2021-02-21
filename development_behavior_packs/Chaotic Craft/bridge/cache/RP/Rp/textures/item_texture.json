@@ -3,7 +3,7 @@
 	"file_type": "item_texture",
 	"format_version": 1,
 	"file_uuid": "a521dc9f_1db8_47b8_9243_a65a6f3184cc",
-	"file_version": 1,
+	"file_version": 7,
 	"cache_content": {
 		"children": [
 			{
@@ -19,10 +19,88 @@
 					"resource_pack_name": "bridgeRP",
 					"texture_name": "atlas.items",
 					"texture_data": {
+						"adamantite_ingot": {
+							"textures": "textures/items/adamantite_ingot"
+						},
+						"amethyst_ingot": {
+							"textures": "textures/items/amethyst_ingot"
+						},
+						"black_steel_ingot": {
+							"textures": "textures/items/black_steel_ingot"
+						},
+						"brass_ingot": {
+							"textures": "textures/items/brass_ingot"
+						},
+						"cobalt_ingot": {
+							"textures": "textures/items/cobalt_ingot"
+						},
 						"copper_ingot": {
 							"textures": [
 								"textures/items/copper_ingot"
 							]
+						},
+						"electrum_ingot": {
+							"textures": [
+								"textures/items/electrum_ingot"
+							]
+						},
+						"lead_ingot": {
+							"textures": [
+								"textures/items/lead_ingot"
+							]
+						},
+						"mithril_ingot": {
+							"textures": [
+								"textures/items/mithril_ingot"
+							]
+						},
+						"nickel_ingot": {
+							"textures": [
+								"textures/items/nickel_ingot"
+							]
+						},
+						"platinum_ingot": {
+							"textures": [
+								"textures/items/platinum_ingot"
+							]
+						},
+						"silver_ingot": {
+							"textures": [
+								"textures/items/silver_ingot"
+							]
+						},
+						"steal_ingot": {
+							"textures": [
+								"textures/items/steel_ingot"
+							]
+						},
+						"tin_ingot": {
+							"textures": [
+								"textures/items/tin_ingot"
+							]
+						},
+						"titanium_ingot": {
+							"textures": [
+								"textures/items/titanium_ingot"
+							]
+						},
+						"tungsten_ingot": {
+							"textures": [
+								"textures/items/tungsten_ingot"
+							]
+						},
+						"uranium_ingot": {
+							"textures": [
+								"textures/items/uranium_ingot"
+							]
+						},
+						"zinc_ingot": {
+							"textures": [
+								"textures/items/zinc_ingot"
+							]
+						},
+						"aluminum_ingot": {
+							"textures": "textures/items/aluminum_ingot"
 						}
 					}
 				},
@@ -30,10 +108,548 @@
 				"children": [
 					{
 						"open": {
+							"adamantite_ingot": {
+								"textures": "textures/items/adamantite_ingot"
+							},
+							"amethyst_ingot": {
+								"textures": "textures/items/amethyst_ingot"
+							},
+							"black_steel_ingot": {
+								"textures": "textures/items/black_steel_ingot"
+							},
+							"brass_ingot": {
+								"textures": "textures/items/brass_ingot"
+							},
+							"cobalt_ingot": {
+								"textures": "textures/items/cobalt_ingot"
+							},
 							"copper_ingot": {
 								"textures": [
 									"textures/items/copper_ingot"
 								]
+							},
+							"electrum_ingot": {
+								"textures": [
+									"textures/items/electrum_ingot"
+								]
+							},
+							"lead_ingot": {
+								"textures": [
+									"textures/items/lead_ingot"
+								]
+							},
+							"mithril_ingot": {
+								"textures": [
+									"textures/items/mithril_ingot"
+								]
+							},
+							"nickel_ingot": {
+								"textures": [
+									"textures/items/nickel_ingot"
+								]
+							},
+							"platinum_ingot": {
+								"textures": [
+									"textures/items/platinum_ingot"
+								]
+							},
+							"silver_ingot": {
+								"textures": [
+									"textures/items/silver_ingot"
+								]
+							},
+							"steal_ingot": {
+								"textures": [
+									"textures/items/steel_ingot"
+								]
+							},
+							"tin_ingot": {
+								"textures": [
+									"textures/items/tin_ingot"
+								]
+							},
+							"titanium_ingot": {
+								"textures": [
+									"textures/items/titanium_ingot"
+								]
+							},
+							"tungsten_ingot": {
+								"textures": [
+									"textures/items/tungsten_ingot"
+								]
+							},
+							"uranium_ingot": {
+								"textures": [
+									"textures/items/uranium_ingot"
+								]
+							},
+							"zinc_ingot": {
+								"textures": [
+									"textures/items/zinc_ingot"
+								]
+							},
+							"aluminum_ingot": {
+								"textures": "textures/items/aluminum_ingot"
+							}
+						},
+						"key": "adamantite_ingot",
+						"is_minified": true,
+						"children": {
+							"textures": "textures/items/adamantite_ingot"
+						}
+					},
+					{
+						"open": {
+							"adamantite_ingot": {
+								"textures": "textures/items/adamantite_ingot"
+							},
+							"amethyst_ingot": {
+								"textures": "textures/items/amethyst_ingot"
+							},
+							"black_steel_ingot": {
+								"textures": "textures/items/black_steel_ingot"
+							},
+							"brass_ingot": {
+								"textures": "textures/items/brass_ingot"
+							},
+							"cobalt_ingot": {
+								"textures": "textures/items/cobalt_ingot"
+							},
+							"copper_ingot": {
+								"textures": [
+									"textures/items/copper_ingot"
+								]
+							},
+							"electrum_ingot": {
+								"textures": [
+									"textures/items/electrum_ingot"
+								]
+							},
+							"lead_ingot": {
+								"textures": [
+									"textures/items/lead_ingot"
+								]
+							},
+							"mithril_ingot": {
+								"textures": [
+									"textures/items/mithril_ingot"
+								]
+							},
+							"nickel_ingot": {
+								"textures": [
+									"textures/items/nickel_ingot"
+								]
+							},
+							"platinum_ingot": {
+								"textures": [
+									"textures/items/platinum_ingot"
+								]
+							},
+							"silver_ingot": {
+								"textures": [
+									"textures/items/silver_ingot"
+								]
+							},
+							"steal_ingot": {
+								"textures": [
+									"textures/items/steel_ingot"
+								]
+							},
+							"tin_ingot": {
+								"textures": [
+									"textures/items/tin_ingot"
+								]
+							},
+							"titanium_ingot": {
+								"textures": [
+									"textures/items/titanium_ingot"
+								]
+							},
+							"tungsten_ingot": {
+								"textures": [
+									"textures/items/tungsten_ingot"
+								]
+							},
+							"uranium_ingot": {
+								"textures": [
+									"textures/items/uranium_ingot"
+								]
+							},
+							"zinc_ingot": {
+								"textures": [
+									"textures/items/zinc_ingot"
+								]
+							},
+							"aluminum_ingot": {
+								"textures": "textures/items/aluminum_ingot"
+							}
+						},
+						"key": "amethyst_ingot",
+						"is_minified": true,
+						"children": {
+							"textures": "textures/items/amethyst_ingot"
+						}
+					},
+					{
+						"open": {
+							"adamantite_ingot": {
+								"textures": "textures/items/adamantite_ingot"
+							},
+							"amethyst_ingot": {
+								"textures": "textures/items/amethyst_ingot"
+							},
+							"black_steel_ingot": {
+								"textures": "textures/items/black_steel_ingot"
+							},
+							"brass_ingot": {
+								"textures": "textures/items/brass_ingot"
+							},
+							"cobalt_ingot": {
+								"textures": "textures/items/cobalt_ingot"
+							},
+							"copper_ingot": {
+								"textures": [
+									"textures/items/copper_ingot"
+								]
+							},
+							"electrum_ingot": {
+								"textures": [
+									"textures/items/electrum_ingot"
+								]
+							},
+							"lead_ingot": {
+								"textures": [
+									"textures/items/lead_ingot"
+								]
+							},
+							"mithril_ingot": {
+								"textures": [
+									"textures/items/mithril_ingot"
+								]
+							},
+							"nickel_ingot": {
+								"textures": [
+									"textures/items/nickel_ingot"
+								]
+							},
+							"platinum_ingot": {
+								"textures": [
+									"textures/items/platinum_ingot"
+								]
+							},
+							"silver_ingot": {
+								"textures": [
+									"textures/items/silver_ingot"
+								]
+							},
+							"steal_ingot": {
+								"textures": [
+									"textures/items/steel_ingot"
+								]
+							},
+							"tin_ingot": {
+								"textures": [
+									"textures/items/tin_ingot"
+								]
+							},
+							"titanium_ingot": {
+								"textures": [
+									"textures/items/titanium_ingot"
+								]
+							},
+							"tungsten_ingot": {
+								"textures": [
+									"textures/items/tungsten_ingot"
+								]
+							},
+							"uranium_ingot": {
+								"textures": [
+									"textures/items/uranium_ingot"
+								]
+							},
+							"zinc_ingot": {
+								"textures": [
+									"textures/items/zinc_ingot"
+								]
+							},
+							"aluminum_ingot": {
+								"textures": "textures/items/aluminum_ingot"
+							}
+						},
+						"key": "black_steel_ingot",
+						"is_minified": true,
+						"children": {
+							"textures": "textures/items/black_steel_ingot"
+						}
+					},
+					{
+						"open": {
+							"adamantite_ingot": {
+								"textures": "textures/items/adamantite_ingot"
+							},
+							"amethyst_ingot": {
+								"textures": "textures/items/amethyst_ingot"
+							},
+							"black_steel_ingot": {
+								"textures": "textures/items/black_steel_ingot"
+							},
+							"brass_ingot": {
+								"textures": "textures/items/brass_ingot"
+							},
+							"cobalt_ingot": {
+								"textures": "textures/items/cobalt_ingot"
+							},
+							"copper_ingot": {
+								"textures": [
+									"textures/items/copper_ingot"
+								]
+							},
+							"electrum_ingot": {
+								"textures": [
+									"textures/items/electrum_ingot"
+								]
+							},
+							"lead_ingot": {
+								"textures": [
+									"textures/items/lead_ingot"
+								]
+							},
+							"mithril_ingot": {
+								"textures": [
+									"textures/items/mithril_ingot"
+								]
+							},
+							"nickel_ingot": {
+								"textures": [
+									"textures/items/nickel_ingot"
+								]
+							},
+							"platinum_ingot": {
+								"textures": [
+									"textures/items/platinum_ingot"
+								]
+							},
+							"silver_ingot": {
+								"textures": [
+									"textures/items/silver_ingot"
+								]
+							},
+							"steal_ingot": {
+								"textures": [
+									"textures/items/steel_ingot"
+								]
+							},
+							"tin_ingot": {
+								"textures": [
+									"textures/items/tin_ingot"
+								]
+							},
+							"titanium_ingot": {
+								"textures": [
+									"textures/items/titanium_ingot"
+								]
+							},
+							"tungsten_ingot": {
+								"textures": [
+									"textures/items/tungsten_ingot"
+								]
+							},
+							"uranium_ingot": {
+								"textures": [
+									"textures/items/uranium_ingot"
+								]
+							},
+							"zinc_ingot": {
+								"textures": [
+									"textures/items/zinc_ingot"
+								]
+							},
+							"aluminum_ingot": {
+								"textures": "textures/items/aluminum_ingot"
+							}
+						},
+						"key": "brass_ingot",
+						"is_minified": true,
+						"children": {
+							"textures": "textures/items/brass_ingot"
+						}
+					},
+					{
+						"open": {
+							"adamantite_ingot": {
+								"textures": "textures/items/adamantite_ingot"
+							},
+							"amethyst_ingot": {
+								"textures": "textures/items/amethyst_ingot"
+							},
+							"black_steel_ingot": {
+								"textures": "textures/items/black_steel_ingot"
+							},
+							"brass_ingot": {
+								"textures": "textures/items/brass_ingot"
+							},
+							"cobalt_ingot": {
+								"textures": "textures/items/cobalt_ingot"
+							},
+							"copper_ingot": {
+								"textures": [
+									"textures/items/copper_ingot"
+								]
+							},
+							"electrum_ingot": {
+								"textures": [
+									"textures/items/electrum_ingot"
+								]
+							},
+							"lead_ingot": {
+								"textures": [
+									"textures/items/lead_ingot"
+								]
+							},
+							"mithril_ingot": {
+								"textures": [
+									"textures/items/mithril_ingot"
+								]
+							},
+							"nickel_ingot": {
+								"textures": [
+									"textures/items/nickel_ingot"
+								]
+							},
+							"platinum_ingot": {
+								"textures": [
+									"textures/items/platinum_ingot"
+								]
+							},
+							"silver_ingot": {
+								"textures": [
+									"textures/items/silver_ingot"
+								]
+							},
+							"steal_ingot": {
+								"textures": [
+									"textures/items/steel_ingot"
+								]
+							},
+							"tin_ingot": {
+								"textures": [
+									"textures/items/tin_ingot"
+								]
+							},
+							"titanium_ingot": {
+								"textures": [
+									"textures/items/titanium_ingot"
+								]
+							},
+							"tungsten_ingot": {
+								"textures": [
+									"textures/items/tungsten_ingot"
+								]
+							},
+							"uranium_ingot": {
+								"textures": [
+									"textures/items/uranium_ingot"
+								]
+							},
+							"zinc_ingot": {
+								"textures": [
+									"textures/items/zinc_ingot"
+								]
+							},
+							"aluminum_ingot": {
+								"textures": "textures/items/aluminum_ingot"
+							}
+						},
+						"key": "cobalt_ingot",
+						"is_minified": true,
+						"children": {
+							"textures": "textures/items/cobalt_ingot"
+						}
+					},
+					{
+						"open": {
+							"adamantite_ingot": {
+								"textures": "textures/items/adamantite_ingot"
+							},
+							"amethyst_ingot": {
+								"textures": "textures/items/amethyst_ingot"
+							},
+							"black_steel_ingot": {
+								"textures": "textures/items/black_steel_ingot"
+							},
+							"brass_ingot": {
+								"textures": "textures/items/brass_ingot"
+							},
+							"cobalt_ingot": {
+								"textures": "textures/items/cobalt_ingot"
+							},
+							"copper_ingot": {
+								"textures": [
+									"textures/items/copper_ingot"
+								]
+							},
+							"electrum_ingot": {
+								"textures": [
+									"textures/items/electrum_ingot"
+								]
+							},
+							"lead_ingot": {
+								"textures": [
+									"textures/items/lead_ingot"
+								]
+							},
+							"mithril_ingot": {
+								"textures": [
+									"textures/items/mithril_ingot"
+								]
+							},
+							"nickel_ingot": {
+								"textures": [
+									"textures/items/nickel_ingot"
+								]
+							},
+							"platinum_ingot": {
+								"textures": [
+									"textures/items/platinum_ingot"
+								]
+							},
+							"silver_ingot": {
+								"textures": [
+									"textures/items/silver_ingot"
+								]
+							},
+							"steal_ingot": {
+								"textures": [
+									"textures/items/steel_ingot"
+								]
+							},
+							"tin_ingot": {
+								"textures": [
+									"textures/items/tin_ingot"
+								]
+							},
+							"titanium_ingot": {
+								"textures": [
+									"textures/items/titanium_ingot"
+								]
+							},
+							"tungsten_ingot": {
+								"textures": [
+									"textures/items/tungsten_ingot"
+								]
+							},
+							"uranium_ingot": {
+								"textures": [
+									"textures/items/uranium_ingot"
+								]
+							},
+							"zinc_ingot": {
+								"textures": [
+									"textures/items/zinc_ingot"
+								]
+							},
+							"aluminum_ingot": {
+								"textures": "textures/items/aluminum_ingot"
 							}
 						},
 						"key": "copper_ingot",
@@ -51,6 +667,1322 @@
 								]
 							}
 						]
+					},
+					{
+						"open": {
+							"adamantite_ingot": {
+								"textures": "textures/items/adamantite_ingot"
+							},
+							"amethyst_ingot": {
+								"textures": "textures/items/amethyst_ingot"
+							},
+							"black_steel_ingot": {
+								"textures": "textures/items/black_steel_ingot"
+							},
+							"brass_ingot": {
+								"textures": "textures/items/brass_ingot"
+							},
+							"cobalt_ingot": {
+								"textures": "textures/items/cobalt_ingot"
+							},
+							"copper_ingot": {
+								"textures": [
+									"textures/items/copper_ingot"
+								]
+							},
+							"electrum_ingot": {
+								"textures": [
+									"textures/items/electrum_ingot"
+								]
+							},
+							"lead_ingot": {
+								"textures": [
+									"textures/items/lead_ingot"
+								]
+							},
+							"mithril_ingot": {
+								"textures": [
+									"textures/items/mithril_ingot"
+								]
+							},
+							"nickel_ingot": {
+								"textures": [
+									"textures/items/nickel_ingot"
+								]
+							},
+							"platinum_ingot": {
+								"textures": [
+									"textures/items/platinum_ingot"
+								]
+							},
+							"silver_ingot": {
+								"textures": [
+									"textures/items/silver_ingot"
+								]
+							},
+							"steal_ingot": {
+								"textures": [
+									"textures/items/steel_ingot"
+								]
+							},
+							"tin_ingot": {
+								"textures": [
+									"textures/items/tin_ingot"
+								]
+							},
+							"titanium_ingot": {
+								"textures": [
+									"textures/items/titanium_ingot"
+								]
+							},
+							"tungsten_ingot": {
+								"textures": [
+									"textures/items/tungsten_ingot"
+								]
+							},
+							"uranium_ingot": {
+								"textures": [
+									"textures/items/uranium_ingot"
+								]
+							},
+							"zinc_ingot": {
+								"textures": [
+									"textures/items/zinc_ingot"
+								]
+							},
+							"aluminum_ingot": {
+								"textures": "textures/items/aluminum_ingot"
+							}
+						},
+						"key": "electrum_ingot",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/items/electrum_ingot"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/items/electrum_ingot"
+								]
+							}
+						]
+					},
+					{
+						"open": {
+							"adamantite_ingot": {
+								"textures": "textures/items/adamantite_ingot"
+							},
+							"amethyst_ingot": {
+								"textures": "textures/items/amethyst_ingot"
+							},
+							"black_steel_ingot": {
+								"textures": "textures/items/black_steel_ingot"
+							},
+							"brass_ingot": {
+								"textures": "textures/items/brass_ingot"
+							},
+							"cobalt_ingot": {
+								"textures": "textures/items/cobalt_ingot"
+							},
+							"copper_ingot": {
+								"textures": [
+									"textures/items/copper_ingot"
+								]
+							},
+							"electrum_ingot": {
+								"textures": [
+									"textures/items/electrum_ingot"
+								]
+							},
+							"lead_ingot": {
+								"textures": [
+									"textures/items/lead_ingot"
+								]
+							},
+							"mithril_ingot": {
+								"textures": [
+									"textures/items/mithril_ingot"
+								]
+							},
+							"nickel_ingot": {
+								"textures": [
+									"textures/items/nickel_ingot"
+								]
+							},
+							"platinum_ingot": {
+								"textures": [
+									"textures/items/platinum_ingot"
+								]
+							},
+							"silver_ingot": {
+								"textures": [
+									"textures/items/silver_ingot"
+								]
+							},
+							"steal_ingot": {
+								"textures": [
+									"textures/items/steel_ingot"
+								]
+							},
+							"tin_ingot": {
+								"textures": [
+									"textures/items/tin_ingot"
+								]
+							},
+							"titanium_ingot": {
+								"textures": [
+									"textures/items/titanium_ingot"
+								]
+							},
+							"tungsten_ingot": {
+								"textures": [
+									"textures/items/tungsten_ingot"
+								]
+							},
+							"uranium_ingot": {
+								"textures": [
+									"textures/items/uranium_ingot"
+								]
+							},
+							"zinc_ingot": {
+								"textures": [
+									"textures/items/zinc_ingot"
+								]
+							},
+							"aluminum_ingot": {
+								"textures": "textures/items/aluminum_ingot"
+							}
+						},
+						"key": "lead_ingot",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/items/lead_ingot"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/items/lead_ingot"
+								]
+							}
+						]
+					},
+					{
+						"open": {
+							"adamantite_ingot": {
+								"textures": "textures/items/adamantite_ingot"
+							},
+							"amethyst_ingot": {
+								"textures": "textures/items/amethyst_ingot"
+							},
+							"black_steel_ingot": {
+								"textures": "textures/items/black_steel_ingot"
+							},
+							"brass_ingot": {
+								"textures": "textures/items/brass_ingot"
+							},
+							"cobalt_ingot": {
+								"textures": "textures/items/cobalt_ingot"
+							},
+							"copper_ingot": {
+								"textures": [
+									"textures/items/copper_ingot"
+								]
+							},
+							"electrum_ingot": {
+								"textures": [
+									"textures/items/electrum_ingot"
+								]
+							},
+							"lead_ingot": {
+								"textures": [
+									"textures/items/lead_ingot"
+								]
+							},
+							"mithril_ingot": {
+								"textures": [
+									"textures/items/mithril_ingot"
+								]
+							},
+							"nickel_ingot": {
+								"textures": [
+									"textures/items/nickel_ingot"
+								]
+							},
+							"platinum_ingot": {
+								"textures": [
+									"textures/items/platinum_ingot"
+								]
+							},
+							"silver_ingot": {
+								"textures": [
+									"textures/items/silver_ingot"
+								]
+							},
+							"steal_ingot": {
+								"textures": [
+									"textures/items/steel_ingot"
+								]
+							},
+							"tin_ingot": {
+								"textures": [
+									"textures/items/tin_ingot"
+								]
+							},
+							"titanium_ingot": {
+								"textures": [
+									"textures/items/titanium_ingot"
+								]
+							},
+							"tungsten_ingot": {
+								"textures": [
+									"textures/items/tungsten_ingot"
+								]
+							},
+							"uranium_ingot": {
+								"textures": [
+									"textures/items/uranium_ingot"
+								]
+							},
+							"zinc_ingot": {
+								"textures": [
+									"textures/items/zinc_ingot"
+								]
+							},
+							"aluminum_ingot": {
+								"textures": "textures/items/aluminum_ingot"
+							}
+						},
+						"key": "mithril_ingot",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/items/mithril_ingot"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/items/mithril_ingot"
+								]
+							}
+						]
+					},
+					{
+						"open": {
+							"adamantite_ingot": {
+								"textures": "textures/items/adamantite_ingot"
+							},
+							"amethyst_ingot": {
+								"textures": "textures/items/amethyst_ingot"
+							},
+							"black_steel_ingot": {
+								"textures": "textures/items/black_steel_ingot"
+							},
+							"brass_ingot": {
+								"textures": "textures/items/brass_ingot"
+							},
+							"cobalt_ingot": {
+								"textures": "textures/items/cobalt_ingot"
+							},
+							"copper_ingot": {
+								"textures": [
+									"textures/items/copper_ingot"
+								]
+							},
+							"electrum_ingot": {
+								"textures": [
+									"textures/items/electrum_ingot"
+								]
+							},
+							"lead_ingot": {
+								"textures": [
+									"textures/items/lead_ingot"
+								]
+							},
+							"mithril_ingot": {
+								"textures": [
+									"textures/items/mithril_ingot"
+								]
+							},
+							"nickel_ingot": {
+								"textures": [
+									"textures/items/nickel_ingot"
+								]
+							},
+							"platinum_ingot": {
+								"textures": [
+									"textures/items/platinum_ingot"
+								]
+							},
+							"silver_ingot": {
+								"textures": [
+									"textures/items/silver_ingot"
+								]
+							},
+							"steal_ingot": {
+								"textures": [
+									"textures/items/steel_ingot"
+								]
+							},
+							"tin_ingot": {
+								"textures": [
+									"textures/items/tin_ingot"
+								]
+							},
+							"titanium_ingot": {
+								"textures": [
+									"textures/items/titanium_ingot"
+								]
+							},
+							"tungsten_ingot": {
+								"textures": [
+									"textures/items/tungsten_ingot"
+								]
+							},
+							"uranium_ingot": {
+								"textures": [
+									"textures/items/uranium_ingot"
+								]
+							},
+							"zinc_ingot": {
+								"textures": [
+									"textures/items/zinc_ingot"
+								]
+							},
+							"aluminum_ingot": {
+								"textures": "textures/items/aluminum_ingot"
+							}
+						},
+						"key": "nickel_ingot",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/items/nickel_ingot"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/items/nickel_ingot"
+								]
+							}
+						]
+					},
+					{
+						"open": {
+							"adamantite_ingot": {
+								"textures": "textures/items/adamantite_ingot"
+							},
+							"amethyst_ingot": {
+								"textures": "textures/items/amethyst_ingot"
+							},
+							"black_steel_ingot": {
+								"textures": "textures/items/black_steel_ingot"
+							},
+							"brass_ingot": {
+								"textures": "textures/items/brass_ingot"
+							},
+							"cobalt_ingot": {
+								"textures": "textures/items/cobalt_ingot"
+							},
+							"copper_ingot": {
+								"textures": [
+									"textures/items/copper_ingot"
+								]
+							},
+							"electrum_ingot": {
+								"textures": [
+									"textures/items/electrum_ingot"
+								]
+							},
+							"lead_ingot": {
+								"textures": [
+									"textures/items/lead_ingot"
+								]
+							},
+							"mithril_ingot": {
+								"textures": [
+									"textures/items/mithril_ingot"
+								]
+							},
+							"nickel_ingot": {
+								"textures": [
+									"textures/items/nickel_ingot"
+								]
+							},
+							"platinum_ingot": {
+								"textures": [
+									"textures/items/platinum_ingot"
+								]
+							},
+							"silver_ingot": {
+								"textures": [
+									"textures/items/silver_ingot"
+								]
+							},
+							"steal_ingot": {
+								"textures": [
+									"textures/items/steel_ingot"
+								]
+							},
+							"tin_ingot": {
+								"textures": [
+									"textures/items/tin_ingot"
+								]
+							},
+							"titanium_ingot": {
+								"textures": [
+									"textures/items/titanium_ingot"
+								]
+							},
+							"tungsten_ingot": {
+								"textures": [
+									"textures/items/tungsten_ingot"
+								]
+							},
+							"uranium_ingot": {
+								"textures": [
+									"textures/items/uranium_ingot"
+								]
+							},
+							"zinc_ingot": {
+								"textures": [
+									"textures/items/zinc_ingot"
+								]
+							},
+							"aluminum_ingot": {
+								"textures": "textures/items/aluminum_ingot"
+							}
+						},
+						"key": "platinum_ingot",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/items/platinum_ingot"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/items/platinum_ingot"
+								]
+							}
+						]
+					},
+					{
+						"open": {
+							"adamantite_ingot": {
+								"textures": "textures/items/adamantite_ingot"
+							},
+							"amethyst_ingot": {
+								"textures": "textures/items/amethyst_ingot"
+							},
+							"black_steel_ingot": {
+								"textures": "textures/items/black_steel_ingot"
+							},
+							"brass_ingot": {
+								"textures": "textures/items/brass_ingot"
+							},
+							"cobalt_ingot": {
+								"textures": "textures/items/cobalt_ingot"
+							},
+							"copper_ingot": {
+								"textures": [
+									"textures/items/copper_ingot"
+								]
+							},
+							"electrum_ingot": {
+								"textures": [
+									"textures/items/electrum_ingot"
+								]
+							},
+							"lead_ingot": {
+								"textures": [
+									"textures/items/lead_ingot"
+								]
+							},
+							"mithril_ingot": {
+								"textures": [
+									"textures/items/mithril_ingot"
+								]
+							},
+							"nickel_ingot": {
+								"textures": [
+									"textures/items/nickel_ingot"
+								]
+							},
+							"platinum_ingot": {
+								"textures": [
+									"textures/items/platinum_ingot"
+								]
+							},
+							"silver_ingot": {
+								"textures": [
+									"textures/items/silver_ingot"
+								]
+							},
+							"steal_ingot": {
+								"textures": [
+									"textures/items/steel_ingot"
+								]
+							},
+							"tin_ingot": {
+								"textures": [
+									"textures/items/tin_ingot"
+								]
+							},
+							"titanium_ingot": {
+								"textures": [
+									"textures/items/titanium_ingot"
+								]
+							},
+							"tungsten_ingot": {
+								"textures": [
+									"textures/items/tungsten_ingot"
+								]
+							},
+							"uranium_ingot": {
+								"textures": [
+									"textures/items/uranium_ingot"
+								]
+							},
+							"zinc_ingot": {
+								"textures": [
+									"textures/items/zinc_ingot"
+								]
+							},
+							"aluminum_ingot": {
+								"textures": "textures/items/aluminum_ingot"
+							}
+						},
+						"key": "silver_ingot",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/items/silver_ingot"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/items/silver_ingot"
+								]
+							}
+						]
+					},
+					{
+						"open": {
+							"adamantite_ingot": {
+								"textures": "textures/items/adamantite_ingot"
+							},
+							"amethyst_ingot": {
+								"textures": "textures/items/amethyst_ingot"
+							},
+							"black_steel_ingot": {
+								"textures": "textures/items/black_steel_ingot"
+							},
+							"brass_ingot": {
+								"textures": "textures/items/brass_ingot"
+							},
+							"cobalt_ingot": {
+								"textures": "textures/items/cobalt_ingot"
+							},
+							"copper_ingot": {
+								"textures": [
+									"textures/items/copper_ingot"
+								]
+							},
+							"electrum_ingot": {
+								"textures": [
+									"textures/items/electrum_ingot"
+								]
+							},
+							"lead_ingot": {
+								"textures": [
+									"textures/items/lead_ingot"
+								]
+							},
+							"mithril_ingot": {
+								"textures": [
+									"textures/items/mithril_ingot"
+								]
+							},
+							"nickel_ingot": {
+								"textures": [
+									"textures/items/nickel_ingot"
+								]
+							},
+							"platinum_ingot": {
+								"textures": [
+									"textures/items/platinum_ingot"
+								]
+							},
+							"silver_ingot": {
+								"textures": [
+									"textures/items/silver_ingot"
+								]
+							},
+							"steal_ingot": {
+								"textures": [
+									"textures/items/steel_ingot"
+								]
+							},
+							"tin_ingot": {
+								"textures": [
+									"textures/items/tin_ingot"
+								]
+							},
+							"titanium_ingot": {
+								"textures": [
+									"textures/items/titanium_ingot"
+								]
+							},
+							"tungsten_ingot": {
+								"textures": [
+									"textures/items/tungsten_ingot"
+								]
+							},
+							"uranium_ingot": {
+								"textures": [
+									"textures/items/uranium_ingot"
+								]
+							},
+							"zinc_ingot": {
+								"textures": [
+									"textures/items/zinc_ingot"
+								]
+							},
+							"aluminum_ingot": {
+								"textures": "textures/items/aluminum_ingot"
+							}
+						},
+						"key": "steal_ingot",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/items/steel_ingot"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/items/steel_ingot"
+								]
+							}
+						]
+					},
+					{
+						"open": {
+							"adamantite_ingot": {
+								"textures": "textures/items/adamantite_ingot"
+							},
+							"amethyst_ingot": {
+								"textures": "textures/items/amethyst_ingot"
+							},
+							"black_steel_ingot": {
+								"textures": "textures/items/black_steel_ingot"
+							},
+							"brass_ingot": {
+								"textures": "textures/items/brass_ingot"
+							},
+							"cobalt_ingot": {
+								"textures": "textures/items/cobalt_ingot"
+							},
+							"copper_ingot": {
+								"textures": [
+									"textures/items/copper_ingot"
+								]
+							},
+							"electrum_ingot": {
+								"textures": [
+									"textures/items/electrum_ingot"
+								]
+							},
+							"lead_ingot": {
+								"textures": [
+									"textures/items/lead_ingot"
+								]
+							},
+							"mithril_ingot": {
+								"textures": [
+									"textures/items/mithril_ingot"
+								]
+							},
+							"nickel_ingot": {
+								"textures": [
+									"textures/items/nickel_ingot"
+								]
+							},
+							"platinum_ingot": {
+								"textures": [
+									"textures/items/platinum_ingot"
+								]
+							},
+							"silver_ingot": {
+								"textures": [
+									"textures/items/silver_ingot"
+								]
+							},
+							"steal_ingot": {
+								"textures": [
+									"textures/items/steel_ingot"
+								]
+							},
+							"tin_ingot": {
+								"textures": [
+									"textures/items/tin_ingot"
+								]
+							},
+							"titanium_ingot": {
+								"textures": [
+									"textures/items/titanium_ingot"
+								]
+							},
+							"tungsten_ingot": {
+								"textures": [
+									"textures/items/tungsten_ingot"
+								]
+							},
+							"uranium_ingot": {
+								"textures": [
+									"textures/items/uranium_ingot"
+								]
+							},
+							"zinc_ingot": {
+								"textures": [
+									"textures/items/zinc_ingot"
+								]
+							},
+							"aluminum_ingot": {
+								"textures": "textures/items/aluminum_ingot"
+							}
+						},
+						"key": "tin_ingot",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/items/tin_ingot"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/items/tin_ingot"
+								]
+							}
+						]
+					},
+					{
+						"open": {
+							"adamantite_ingot": {
+								"textures": "textures/items/adamantite_ingot"
+							},
+							"amethyst_ingot": {
+								"textures": "textures/items/amethyst_ingot"
+							},
+							"black_steel_ingot": {
+								"textures": "textures/items/black_steel_ingot"
+							},
+							"brass_ingot": {
+								"textures": "textures/items/brass_ingot"
+							},
+							"cobalt_ingot": {
+								"textures": "textures/items/cobalt_ingot"
+							},
+							"copper_ingot": {
+								"textures": [
+									"textures/items/copper_ingot"
+								]
+							},
+							"electrum_ingot": {
+								"textures": [
+									"textures/items/electrum_ingot"
+								]
+							},
+							"lead_ingot": {
+								"textures": [
+									"textures/items/lead_ingot"
+								]
+							},
+							"mithril_ingot": {
+								"textures": [
+									"textures/items/mithril_ingot"
+								]
+							},
+							"nickel_ingot": {
+								"textures": [
+									"textures/items/nickel_ingot"
+								]
+							},
+							"platinum_ingot": {
+								"textures": [
+									"textures/items/platinum_ingot"
+								]
+							},
+							"silver_ingot": {
+								"textures": [
+									"textures/items/silver_ingot"
+								]
+							},
+							"steal_ingot": {
+								"textures": [
+									"textures/items/steel_ingot"
+								]
+							},
+							"tin_ingot": {
+								"textures": [
+									"textures/items/tin_ingot"
+								]
+							},
+							"titanium_ingot": {
+								"textures": [
+									"textures/items/titanium_ingot"
+								]
+							},
+							"tungsten_ingot": {
+								"textures": [
+									"textures/items/tungsten_ingot"
+								]
+							},
+							"uranium_ingot": {
+								"textures": [
+									"textures/items/uranium_ingot"
+								]
+							},
+							"zinc_ingot": {
+								"textures": [
+									"textures/items/zinc_ingot"
+								]
+							},
+							"aluminum_ingot": {
+								"textures": "textures/items/aluminum_ingot"
+							}
+						},
+						"key": "titanium_ingot",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/items/titanium_ingot"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/items/titanium_ingot"
+								]
+							}
+						]
+					},
+					{
+						"open": {
+							"adamantite_ingot": {
+								"textures": "textures/items/adamantite_ingot"
+							},
+							"amethyst_ingot": {
+								"textures": "textures/items/amethyst_ingot"
+							},
+							"black_steel_ingot": {
+								"textures": "textures/items/black_steel_ingot"
+							},
+							"brass_ingot": {
+								"textures": "textures/items/brass_ingot"
+							},
+							"cobalt_ingot": {
+								"textures": "textures/items/cobalt_ingot"
+							},
+							"copper_ingot": {
+								"textures": [
+									"textures/items/copper_ingot"
+								]
+							},
+							"electrum_ingot": {
+								"textures": [
+									"textures/items/electrum_ingot"
+								]
+							},
+							"lead_ingot": {
+								"textures": [
+									"textures/items/lead_ingot"
+								]
+							},
+							"mithril_ingot": {
+								"textures": [
+									"textures/items/mithril_ingot"
+								]
+							},
+							"nickel_ingot": {
+								"textures": [
+									"textures/items/nickel_ingot"
+								]
+							},
+							"platinum_ingot": {
+								"textures": [
+									"textures/items/platinum_ingot"
+								]
+							},
+							"silver_ingot": {
+								"textures": [
+									"textures/items/silver_ingot"
+								]
+							},
+							"steal_ingot": {
+								"textures": [
+									"textures/items/steel_ingot"
+								]
+							},
+							"tin_ingot": {
+								"textures": [
+									"textures/items/tin_ingot"
+								]
+							},
+							"titanium_ingot": {
+								"textures": [
+									"textures/items/titanium_ingot"
+								]
+							},
+							"tungsten_ingot": {
+								"textures": [
+									"textures/items/tungsten_ingot"
+								]
+							},
+							"uranium_ingot": {
+								"textures": [
+									"textures/items/uranium_ingot"
+								]
+							},
+							"zinc_ingot": {
+								"textures": [
+									"textures/items/zinc_ingot"
+								]
+							},
+							"aluminum_ingot": {
+								"textures": "textures/items/aluminum_ingot"
+							}
+						},
+						"key": "tungsten_ingot",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/items/tungsten_ingot"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/items/tungsten_ingot"
+								]
+							}
+						]
+					},
+					{
+						"open": {
+							"adamantite_ingot": {
+								"textures": "textures/items/adamantite_ingot"
+							},
+							"amethyst_ingot": {
+								"textures": "textures/items/amethyst_ingot"
+							},
+							"black_steel_ingot": {
+								"textures": "textures/items/black_steel_ingot"
+							},
+							"brass_ingot": {
+								"textures": "textures/items/brass_ingot"
+							},
+							"cobalt_ingot": {
+								"textures": "textures/items/cobalt_ingot"
+							},
+							"copper_ingot": {
+								"textures": [
+									"textures/items/copper_ingot"
+								]
+							},
+							"electrum_ingot": {
+								"textures": [
+									"textures/items/electrum_ingot"
+								]
+							},
+							"lead_ingot": {
+								"textures": [
+									"textures/items/lead_ingot"
+								]
+							},
+							"mithril_ingot": {
+								"textures": [
+									"textures/items/mithril_ingot"
+								]
+							},
+							"nickel_ingot": {
+								"textures": [
+									"textures/items/nickel_ingot"
+								]
+							},
+							"platinum_ingot": {
+								"textures": [
+									"textures/items/platinum_ingot"
+								]
+							},
+							"silver_ingot": {
+								"textures": [
+									"textures/items/silver_ingot"
+								]
+							},
+							"steal_ingot": {
+								"textures": [
+									"textures/items/steel_ingot"
+								]
+							},
+							"tin_ingot": {
+								"textures": [
+									"textures/items/tin_ingot"
+								]
+							},
+							"titanium_ingot": {
+								"textures": [
+									"textures/items/titanium_ingot"
+								]
+							},
+							"tungsten_ingot": {
+								"textures": [
+									"textures/items/tungsten_ingot"
+								]
+							},
+							"uranium_ingot": {
+								"textures": [
+									"textures/items/uranium_ingot"
+								]
+							},
+							"zinc_ingot": {
+								"textures": [
+									"textures/items/zinc_ingot"
+								]
+							},
+							"aluminum_ingot": {
+								"textures": "textures/items/aluminum_ingot"
+							}
+						},
+						"key": "uranium_ingot",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/items/uranium_ingot"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/items/uranium_ingot"
+								]
+							}
+						]
+					},
+					{
+						"open": {
+							"adamantite_ingot": {
+								"textures": "textures/items/adamantite_ingot"
+							},
+							"amethyst_ingot": {
+								"textures": "textures/items/amethyst_ingot"
+							},
+							"black_steel_ingot": {
+								"textures": "textures/items/black_steel_ingot"
+							},
+							"brass_ingot": {
+								"textures": "textures/items/brass_ingot"
+							},
+							"cobalt_ingot": {
+								"textures": "textures/items/cobalt_ingot"
+							},
+							"copper_ingot": {
+								"textures": [
+									"textures/items/copper_ingot"
+								]
+							},
+							"electrum_ingot": {
+								"textures": [
+									"textures/items/electrum_ingot"
+								]
+							},
+							"lead_ingot": {
+								"textures": [
+									"textures/items/lead_ingot"
+								]
+							},
+							"mithril_ingot": {
+								"textures": [
+									"textures/items/mithril_ingot"
+								]
+							},
+							"nickel_ingot": {
+								"textures": [
+									"textures/items/nickel_ingot"
+								]
+							},
+							"platinum_ingot": {
+								"textures": [
+									"textures/items/platinum_ingot"
+								]
+							},
+							"silver_ingot": {
+								"textures": [
+									"textures/items/silver_ingot"
+								]
+							},
+							"steal_ingot": {
+								"textures": [
+									"textures/items/steel_ingot"
+								]
+							},
+							"tin_ingot": {
+								"textures": [
+									"textures/items/tin_ingot"
+								]
+							},
+							"titanium_ingot": {
+								"textures": [
+									"textures/items/titanium_ingot"
+								]
+							},
+							"tungsten_ingot": {
+								"textures": [
+									"textures/items/tungsten_ingot"
+								]
+							},
+							"uranium_ingot": {
+								"textures": [
+									"textures/items/uranium_ingot"
+								]
+							},
+							"zinc_ingot": {
+								"textures": [
+									"textures/items/zinc_ingot"
+								]
+							},
+							"aluminum_ingot": {
+								"textures": "textures/items/aluminum_ingot"
+							}
+						},
+						"key": "zinc_ingot",
+						"children": [
+							{
+								"open": {
+									"textures": [
+										"textures/items/zinc_ingot"
+									]
+								},
+								"key": "textures",
+								"is_minified": true,
+								"children": [
+									"textures/items/zinc_ingot"
+								]
+							}
+						]
+					},
+					{
+						"open": {
+							"adamantite_ingot": {
+								"textures": "textures/items/adamantite_ingot"
+							},
+							"amethyst_ingot": {
+								"textures": "textures/items/amethyst_ingot"
+							},
+							"black_steel_ingot": {
+								"textures": "textures/items/black_steel_ingot"
+							},
+							"brass_ingot": {
+								"textures": "textures/items/brass_ingot"
+							},
+							"cobalt_ingot": {
+								"textures": "textures/items/cobalt_ingot"
+							},
+							"copper_ingot": {
+								"textures": [
+									"textures/items/copper_ingot"
+								]
+							},
+							"electrum_ingot": {
+								"textures": [
+									"textures/items/electrum_ingot"
+								]
+							},
+							"lead_ingot": {
+								"textures": [
+									"textures/items/lead_ingot"
+								]
+							},
+							"mithril_ingot": {
+								"textures": [
+									"textures/items/mithril_ingot"
+								]
+							},
+							"nickel_ingot": {
+								"textures": [
+									"textures/items/nickel_ingot"
+								]
+							},
+							"platinum_ingot": {
+								"textures": [
+									"textures/items/platinum_ingot"
+								]
+							},
+							"silver_ingot": {
+								"textures": [
+									"textures/items/silver_ingot"
+								]
+							},
+							"steal_ingot": {
+								"textures": [
+									"textures/items/steel_ingot"
+								]
+							},
+							"tin_ingot": {
+								"textures": [
+									"textures/items/tin_ingot"
+								]
+							},
+							"titanium_ingot": {
+								"textures": [
+									"textures/items/titanium_ingot"
+								]
+							},
+							"tungsten_ingot": {
+								"textures": [
+									"textures/items/tungsten_ingot"
+								]
+							},
+							"uranium_ingot": {
+								"textures": [
+									"textures/items/uranium_ingot"
+								]
+							},
+							"zinc_ingot": {
+								"textures": [
+									"textures/items/zinc_ingot"
+								]
+							},
+							"aluminum_ingot": {
+								"textures": "textures/items/aluminum_ingot"
+							}
+						},
+						"key": "aluminum_ingot",
+						"is_minified": true,
+						"children": {
+							"textures": "textures/items/aluminum_ingot"
+						}
 					}
 				]
 			}

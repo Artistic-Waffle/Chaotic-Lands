@@ -1,0 +1,69 @@
+{
+	"file_path": "C:\\Users\\heste\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\games\\com.mojang\\development_behavior_packs\\Chaotic Craft\\blocks\\ores\\adamantite_block.json",
+	"file_type": "block",
+	"format_version": 1,
+	"file_uuid": "69d4c6de_1fa5_4bd8_a07a_22caf352d100",
+	"file_version": 0,
+	"cache_content": {
+		"children": [
+			{
+				"data": "1.16.200",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.200",
+					"minecraft:block": {
+						"description": {
+							"identifier": "cc:adamantite_block"
+						},
+						"components": {
+							"minecraft:destroy_time": 26,
+							"minecraft:explosion_resistance": 20,
+							"minecraft:loot": {}
+						}
+					}
+				},
+				"key": "minecraft:block",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "cc:adamantite_block"
+							},
+							"components": {
+								"minecraft:destroy_time": 26,
+								"minecraft:explosion_resistance": 20,
+								"minecraft:loot": {}
+							}
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "cc:adamantite_block"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "cc:adamantite_block"
+							},
+							"components": {
+								"minecraft:destroy_time": 26,
+								"minecraft:explosion_resistance": 20,
+								"minecraft:loot": {}
+							}
+						},
+						"key": "components",
+						"is_minified": true,
+						"children": {
+							"minecraft:destroy_time": 26,
+							"minecraft:explosion_resistance": 20,
+							"minecraft:loot": {}
+						}
+					}
+				]
+			}
+		]
+	}
+}

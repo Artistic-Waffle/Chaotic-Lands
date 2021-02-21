@@ -1,13 +1,13 @@
-//bridge-file-version: #0
+//bridge-file-version: #1
 {
 	"format_version": "1.16.200",
 	"minecraft:block": {
 		"description": {
-			"identifier": "cl:titanium_ore"
+			"identifier": "cc:titanium_ore"
 		},
 		"components": {
-			"minecraft:destroy_time": 15,
-			"minecraft:explosion_resistance": 15,
+			"minecraft:destroy_time": 22,
+			"minecraft:explosion_resistance": 20,
 			"minecraft:loot": {},
 			"minecraft:display_name": "Titanium ore"
 		},

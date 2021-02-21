@@ -1,0 +1,8 @@
+{
+	"file_path": "C:\\Users\\heste\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\games\\com.mojang\\development_resource_packs\\Chaotic Craft Rp\\texts\\en_US.lang",
+	"file_type": "client_lang",
+	"format_version": 0,
+	"file_uuid": "335a22c4_a035_41d8_8c2b_7c440ee91507",
+	"file_version": 1,
+	"cache_content": "pack.name=Chaotic Craft Rp\r\npack.description=Resource Pack for Chaotic Craft\r\nitem.cc:copper_ingot=Copper Ingot\r\nitem.cc:adamantite_ingot=Adamantite Ingot\r\nitem.cc:amethyst_ingot=Amethyst Ingot\r\nitem.cc:black_steel_ingot=Black Steel Ingot\r\nitem.cc:brass_ingot=Brass Ingot\r\nitem.cc:cobalt_ingot=Cobalt Ingot\r\nitem.cc:electrum_ingot=Electrum Ingot\r\nitem.cc:lead_ingot=Lead Ingot\r\nitem.cc:mithril_ingot=Mithril Ingot\r\nitem.cc:nickel_ingot=Nickel Ingot\r\nitem.cc:platinum_ingot=Platinum Ingot\r\nitem.cc:silver_ingot=Silver Ingot\r\nitem.cc:steal_ingot=Steal Ingot\r\nitem.cc:tin_ingot=Tin Ingot\r\nitem.cc:titanium_ingot=Titanium Ingot\r\nitem.cc:tungsten_ingot=Tungsten Ingot\r\nitem.cc:uranium_ingot=Uranium Ingot\r\nitem.cc:zinc_ingot=Zinc Ingot\r\n"
+}

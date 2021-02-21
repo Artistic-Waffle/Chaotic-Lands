@@ -1,0 +1,69 @@
+{
+	"file_path": "C:\\Users\\heste\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\games\\com.mojang\\development_behavior_packs\\Chaotic Craft\\blocks\\ores\\tin_block.json",
+	"file_type": "block",
+	"format_version": 1,
+	"file_uuid": "02f43c8a_758a_45a9_b4c0_af1d7ba80bfd",
+	"file_version": 0,
+	"cache_content": {
+		"children": [
+			{
+				"data": "1.16.200",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.200",
+					"minecraft:block": {
+						"description": {
+							"identifier": "cc:tin_block"
+						},
+						"components": {
+							"minecraft:destroy_time": 4,
+							"minecraft:explosion_resistance": 3,
+							"minecraft:loot": {}
+						}
+					}
+				},
+				"key": "minecraft:block",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "cc:tin_block"
+							},
+							"components": {
+								"minecraft:destroy_time": 4,
+								"minecraft:explosion_resistance": 3,
+								"minecraft:loot": {}
+							}
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "cc:tin_block"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "cc:tin_block"
+							},
+							"components": {
+								"minecraft:destroy_time": 4,
+								"minecraft:explosion_resistance": 3,
+								"minecraft:loot": {}
+							}
+						},
+						"key": "components",
+						"is_minified": true,
+						"children": {
+							"minecraft:destroy_time": 4,
+							"minecraft:explosion_resistance": 3,
+							"minecraft:loot": {}
+						}
+					}
+				]
+			}
+		]
+	}
+}

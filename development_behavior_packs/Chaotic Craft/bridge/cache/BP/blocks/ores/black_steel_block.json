@@ -1,0 +1,122 @@
+{
+	"file_path": "C:\\Users\\heste\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\games\\com.mojang\\development_behavior_packs\\Chaotic Craft\\blocks\\ores\\black_steel_block.json",
+	"file_type": "block",
+	"format_version": 1,
+	"file_uuid": "949d6c72_d81c_4f0f_bb49_7d8a15d01183",
+	"file_version": 1,
+	"cache_content": {
+		"children": [
+			{
+				"open": {
+					"format_version": "1.16.200",
+					"minecraft:block": {
+						"description": {
+							"identifier": "cc:black_steel_block"
+						},
+						"components": {
+							"minecraft:destroy_time": 32,
+							"minecraft:block_light_absorption": 0,
+							"minecraft:block_light_emission": 0,
+							"minecraft:friction": 16,
+							"minecraft:explosion_resistance": 0.3,
+							"minecraft:loot": {},
+							"minecraft:breathability": "solid",
+							"minecraft:flammable": {
+								"burn_odds": 50,
+								"flame_odds": 0
+							}
+						}
+					}
+				},
+				"data": "1.16.200",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.200",
+					"minecraft:block": {
+						"description": {
+							"identifier": "cc:black_steel_block"
+						},
+						"components": {
+							"minecraft:destroy_time": 32,
+							"minecraft:block_light_absorption": 0,
+							"minecraft:block_light_emission": 0,
+							"minecraft:friction": 16,
+							"minecraft:explosion_resistance": 0.3,
+							"minecraft:loot": {},
+							"minecraft:breathability": "solid",
+							"minecraft:flammable": {
+								"burn_odds": 50,
+								"flame_odds": 0
+							}
+						}
+					}
+				},
+				"key": "minecraft:block",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "cc:black_steel_block"
+							},
+							"components": {
+								"minecraft:destroy_time": 32,
+								"minecraft:block_light_absorption": 0,
+								"minecraft:block_light_emission": 0,
+								"minecraft:friction": 16,
+								"minecraft:explosion_resistance": 0.3,
+								"minecraft:loot": {},
+								"minecraft:breathability": "solid",
+								"minecraft:flammable": {
+									"burn_odds": 50,
+									"flame_odds": 0
+								}
+							}
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "cc:black_steel_block"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "cc:black_steel_block"
+							},
+							"components": {
+								"minecraft:destroy_time": 32,
+								"minecraft:block_light_absorption": 0,
+								"minecraft:block_light_emission": 0,
+								"minecraft:friction": 16,
+								"minecraft:explosion_resistance": 0.3,
+								"minecraft:loot": {},
+								"minecraft:breathability": "solid",
+								"minecraft:flammable": {
+									"burn_odds": 50,
+									"flame_odds": 0
+								}
+							}
+						},
+						"key": "components",
+						"is_minified": true,
+						"children": {
+							"minecraft:destroy_time": 32,
+							"minecraft:block_light_absorption": 0,
+							"minecraft:block_light_emission": 0,
+							"minecraft:friction": 16,
+							"minecraft:explosion_resistance": 0.3,
+							"minecraft:loot": {},
+							"minecraft:breathability": "solid",
+							"minecraft:flammable": {
+								"burn_odds": 50,
+								"flame_odds": 0
+							}
+						}
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,101 @@
+{
+	"file_path": "C:\\Users\\heste\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\games\\com.mojang\\development_behavior_packs\\Chaotic Craft\\blocks\\ores\\amethyst_block.json",
+	"file_type": "block",
+	"format_version": 1,
+	"file_uuid": "968617c8_ddf1_4a88_b3da_5fd6524c89df",
+	"file_version": 0,
+	"cache_content": {
+		"children": [
+			{
+				"data": "1.16.200",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.200",
+					"minecraft:block": {
+						"description": {
+							"identifier": "cc:amethyst_block"
+						},
+						"components": {
+							"minecraft:destroy_time": 7,
+							"minecraft:block_light_absorption": 0,
+							"minecraft:block_light_emission": 0,
+							"minecraft:friction": 0.6,
+							"minecraft:explosion_resistance": 13,
+							"minecraft:loot": {},
+							"minecraft:breathability": "solid",
+							"minecraft:flammable": {
+								"burn_odds": 50,
+								"flame_odds": 0
+							}
+						}
+					}
+				},
+				"key": "minecraft:block",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "cc:amethyst_block"
+							},
+							"components": {
+								"minecraft:destroy_time": 7,
+								"minecraft:block_light_absorption": 0,
+								"minecraft:block_light_emission": 0,
+								"minecraft:friction": 0.6,
+								"minecraft:explosion_resistance": 13,
+								"minecraft:loot": {},
+								"minecraft:breathability": "solid",
+								"minecraft:flammable": {
+									"burn_odds": 50,
+									"flame_odds": 0
+								}
+							}
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "cc:amethyst_block"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "cc:amethyst_block"
+							},
+							"components": {
+								"minecraft:destroy_time": 7,
+								"minecraft:block_light_absorption": 0,
+								"minecraft:block_light_emission": 0,
+								"minecraft:friction": 0.6,
+								"minecraft:explosion_resistance": 13,
+								"minecraft:loot": {},
+								"minecraft:breathability": "solid",
+								"minecraft:flammable": {
+									"burn_odds": 50,
+									"flame_odds": 0
+								}
+							}
+						},
+						"key": "components",
+						"is_minified": true,
+						"children": {
+							"minecraft:destroy_time": 7,
+							"minecraft:block_light_absorption": 0,
+							"minecraft:block_light_emission": 0,
+							"minecraft:friction": 0.6,
+							"minecraft:explosion_resistance": 13,
+							"minecraft:loot": {},
+							"minecraft:breathability": "solid",
+							"minecraft:flammable": {
+								"burn_odds": 50,
+								"flame_odds": 0
+							}
+						}
+					}
+				]
+			}
+		]
+	}
+}

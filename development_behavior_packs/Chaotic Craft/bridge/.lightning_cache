@@ -1,8 +1,304 @@
 {
+	"animation_controller": {
+		"BP/animation_controllers/bridge/custom_item_behavior.json": {
+			"ids": [
+				"controller.animation.bridge_custom_item_behavior"
+			],
+			"custom_commands": []
+		}
+	},
 	"block": {
 		"BP/blocks/ores/cobalt_ore.json": {
 			"identifiers": [
 				"cc:cobalt_ore"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/ores/adamantite_ore.json": {
+			"identifiers": [
+				"cc:adamantite_ore"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/ores/copper_ore.json": {
+			"identifiers": [
+				"cc:copper_ore"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/ores/copper_block.json": {
+			"identifiers": [
+				"cc:copper_block"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/ores/amethyst_block.json": {
+			"identifiers": [
+				"cc:amethyst_block"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/ores/amethyst_ore.json": {
+			"identifiers": [
+				"cc:amethyst_ore"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/ores/black_steel_block.json": {
+			"identifiers": [
+				"cc:black_steel_block"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/ores/brass_block.json": {
+			"identifiers": [
+				"cc:brass_block"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/ores/cobalt_block.json": {
+			"identifiers": [
+				"cc:cobalt_block"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/ores/electrum_block.json": {
+			"identifiers": [
+				"cc:electrum_block"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/ores/electrum_ore.json": {
+			"identifiers": [
+				"cc:electrum_ore"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/ores/lead_ore.json": {
+			"identifiers": [
+				"cc:lead_ore"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/ores/lead_block.json": {
+			"identifiers": [
+				"cc:lead_block"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/ores/mithril_ore.json": {
+			"identifiers": [
+				"cc:mithril_ore"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/ores/mithril_block.json": {
+			"identifiers": [
+				"cc:mithril_block"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/ores/nickel_block.json": {
+			"identifiers": [
+				"cc:nickel_block"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/ores/nickel_ore.json": {
+			"identifiers": [
+				"cc:nickel_ore"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/ores/platinum_ore.json": {
+			"identifiers": [
+				"cc:platinum_ore"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/ores/platinum_block.json": {
+			"identifiers": [
+				"cc:platinum_block"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/ores/silver_block.json": {
+			"identifiers": [
+				"cc:silver_block"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/ores/silver_ore.json": {
+			"identifiers": [
+				"cc:silver_ore"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/ores/steal_block.json": {
+			"identifiers": [
+				"cc:steal_block"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/ores/tungsten_ore.json": {
+			"identifiers": [
+				"cc:tungsten_ore"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/ores/tungsten_block.json": {
+			"identifiers": [
+				"cc:tungsten_block"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/ores/titanium_block.json": {
+			"identifiers": [
+				"cc:titanium_block"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/ores/titanium_ore.json": {
+			"identifiers": [
+				"cc:titanium_ore"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/ores/tin_ore.json": {
+			"identifiers": [
+				"cc:tin_ore"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/ores/tin_block.json": {
+			"identifiers": [
+				"cc:tin_block"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/ores/uranium_block.json": {
+			"identifiers": [
+				"cc:uranium_block"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/ores/uranium_ore.json": {
+			"identifiers": [
+				"cc:uranium_ore"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/ores/zinc_block.json": {
+			"identifiers": [
+				"cc:zinc_block"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/ores/zinc_ore.json": {
+			"identifiers": [
+				"cc:zinc_ore"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/ores/adamantite_block.json": {
+			"identifiers": [
+				"cc:adamantite_block"
 			],
 			"events": [],
 			"recipe_tags": [],
@@ -31,11 +327,124 @@
 		}
 	},
 	"item": {
-		"BP/items/copper_ingot.json": {
+		"BP/items/adamantite_ingot.json": {
 			"identifiers": [
-				"cc:copper_ingot"
+				"cc:adamantite_ingot"
 			],
 			"custom_commands": []
+		},
+		"BP/items/amethyst_ingot.json": {
+			"identifiers": [
+				"cc:amethyst_ingot"
+			],
+			"custom_commands": []
+		},
+		"BP/items/black_steel_ingot.json": {
+			"identifiers": [
+				"cc:black_steel_ingot"
+			],
+			"custom_commands": []
+		},
+		"BP/items/brass_ingot.json": {
+			"identifiers": [
+				"cc:brass_ingot"
+			],
+			"custom_commands": []
+		},
+		"BP/items/cobalt_ingot.json": {
+			"identifiers": [
+				"cc:cobalt_ingot"
+			],
+			"custom_commands": []
+		},
+		"BP/items/copper_ingot.json": {
+			"identifiers": [
+				"cc::copper_ingot"
+			],
+			"custom_commands": []
+		},
+		"BP/items/electrum_ingot.json": {
+			"identifiers": [
+				"cc:electrum_ingot"
+			],
+			"custom_commands": []
+		},
+		"BP/items/lead_ingot.json": {
+			"identifiers": [
+				"cc:lead_ingot"
+			],
+			"custom_commands": []
+		},
+		"BP/items/mithril_ingot.json": {
+			"identifiers": [
+				"cc:mithril_ingot"
+			],
+			"custom_commands": []
+		},
+		"BP/items/nickel_ingot.json": {
+			"identifiers": [
+				"cc:nickel_ingot"
+			],
+			"custom_commands": []
+		},
+		"BP/items/platinum_ingot.json": {
+			"identifiers": [
+				"cc:platinum_ingot"
+			],
+			"custom_commands": []
+		},
+		"BP/items/silver_ingot.json": {
+			"identifiers": [
+				"cc:silver_ingot"
+			],
+			"custom_commands": []
+		},
+		"BP/items/steal_ingot.json": {
+			"identifiers": [
+				"cc:steal_ingot"
+			],
+			"custom_commands": []
+		},
+		"BP/items/tin_ingot.json": {
+			"identifiers": [
+				"cc:tin_ingot"
+			],
+			"custom_commands": []
+		},
+		"BP/items/titanium_ingot.json": {
+			"identifiers": [
+				"cc:titanium_ingot"
+			],
+			"custom_commands": []
+		},
+		"BP/items/tungsten_ingot.json": {
+			"identifiers": [
+				"cc:tungsten_ingot"
+			],
+			"custom_commands": []
+		},
+		"BP/items/uranium_ingot.json": {
+			"identifiers": [
+				"cc:uranium_ingot"
+			],
+			"custom_commands": []
+		},
+		"BP/items/zinc_ingot.json": {
+			"identifiers": [
+				"cc:zinc_ingot"
+			],
+			"custom_commands": []
+		},
+		"BP/items/aluminum_ingot.json": {
+			"identifiers": [
+				"cc:aluminum_ingot"
+			],
+			"custom_commands": []
+		}
+	},
+	"sound_definition": {
+		"RP/ Rp/sounds/sound_definitions.json": {
+			"ids": []
 		}
 	}
 }

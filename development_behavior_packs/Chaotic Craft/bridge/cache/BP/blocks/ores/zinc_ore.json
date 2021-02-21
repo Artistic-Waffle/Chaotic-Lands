@@ -1,0 +1,97 @@
+{
+	"file_path": "C:\\Users\\heste\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\games\\com.mojang\\development_behavior_packs\\Chaotic Craft\\blocks\\ores\\zinc_ore.json",
+	"file_type": "block",
+	"format_version": 1,
+	"file_uuid": "9a66c184_e77f_4ba7_acf0_4a77a7c46091",
+	"file_version": 1,
+	"cache_content": {
+		"children": [
+			{
+				"data": "1.16.200",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.200",
+					"minecraft:block": {
+						"description": {
+							"identifier": "cc:zinc_ore"
+						},
+						"components": {
+							"minecraft:destroy_time": 1.5,
+							"minecraft:flammable": {
+								"burn_odds": 50,
+								"flame_odds": 0
+							},
+							"minecraft:explosion_resistance": 0.3,
+							"minecraft:loot": {},
+							"minecraft:display_name": "zinc ore"
+						},
+						"events": {}
+					}
+				},
+				"key": "minecraft:block",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "cc:zinc_ore"
+							},
+							"components": {
+								"minecraft:destroy_time": 1.5,
+								"minecraft:flammable": {
+									"burn_odds": 50,
+									"flame_odds": 0
+								},
+								"minecraft:explosion_resistance": 0.3,
+								"minecraft:loot": {},
+								"minecraft:display_name": "zinc ore"
+							},
+							"events": {}
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "cc:zinc_ore"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "cc:zinc_ore"
+							},
+							"components": {
+								"minecraft:destroy_time": 1.5,
+								"minecraft:flammable": {
+									"burn_odds": 50,
+									"flame_odds": 0
+								},
+								"minecraft:explosion_resistance": 0.3,
+								"minecraft:loot": {},
+								"minecraft:display_name": "zinc ore"
+							},
+							"events": {}
+						},
+						"key": "components",
+						"is_minified": true,
+						"children": {
+							"minecraft:destroy_time": 1.5,
+							"minecraft:flammable": {
+								"burn_odds": 50,
+								"flame_odds": 0
+							},
+							"minecraft:explosion_resistance": 0.3,
+							"minecraft:loot": {},
+							"minecraft:display_name": "zinc ore"
+						}
+					},
+					{
+						"key": "events",
+						"is_minified": true,
+						"children": {}
+					}
+				]
+			}
+		]
+	}
+}

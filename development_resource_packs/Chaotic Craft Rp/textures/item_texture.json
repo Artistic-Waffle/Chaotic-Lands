@@ -1,4 +1,4 @@
-//bridge-file-version: #5
+//bridge-file-version: #7
 {
 	"resource_pack_name": "bridgeRP",
 	"texture_name": "atlas.items",
@@ -56,6 +56,9 @@
 		},
 		"zinc_ingot": {
 			"textures": "textures/items/zinc_ingot"
+		},
+		"aluminum_ingot": {
+			"textures": "textures/items/aluminum_ingot"
 		}
 	}
 }

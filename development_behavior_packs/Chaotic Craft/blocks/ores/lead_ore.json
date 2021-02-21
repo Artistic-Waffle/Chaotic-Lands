@@ -1,19 +1,18 @@
-//bridge-file-version: #0
+//bridge-file-version: #1
 {
 	"format_version": "1.16.200",
 	"minecraft:block": {
 		"description": {
-			"identifier": "cl:lead_ore"
+			"identifier": "cc:lead_ore"
 		},
 		"components": {
-			"minecraft:destroy_time": 2,
-			"minecraft:explosion_resistance": 0.2,
+			"minecraft:destroy_time": 3,
+			"minecraft:explosion_resistance": 2,
 			"minecraft:flammable": {
 				"burn_odds": 50,
 				"flame_odds": 0
 			},
-			"minecraft:loot": {},
-			"minecraft:display_name": "Lead Ore"
+			"minecraft:loot": {}
 		},
 		"events": {}
 	}

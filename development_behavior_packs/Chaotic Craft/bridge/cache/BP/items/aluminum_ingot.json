@@ -1,0 +1,121 @@
+{
+	"file_path": "C:\\Users\\heste\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\games\\com.mojang\\development_behavior_packs\\Chaotic Craft\\items\\aluminum_ingot.json",
+	"file_type": "item",
+	"format_version": 1,
+	"file_uuid": "84dd6448_f5c9_4254_8725_0ad708bc61ed",
+	"file_version": 0,
+	"cache_content": {
+		"children": [
+			{
+				"data": "1.16.100",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.100",
+					"minecraft:item": {
+						"description": {
+							"identifier": "cc:aluminum_ingot",
+							"category": "items"
+						},
+						"components": {
+							"minecraft:icon": {
+								"texture": "aluminum_ingot"
+							},
+							"minecraft:max_stack_size": 64,
+							"minecraft:should_despawn": true,
+							"minecraft:hand_equipped": false,
+							"minecraft:can_destroy_in_creative": false
+						},
+						"events": {}
+					}
+				},
+				"key": "minecraft:item",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "cc:aluminum_ingot",
+								"category": "items"
+							},
+							"components": {
+								"minecraft:icon": {
+									"texture": "aluminum_ingot"
+								},
+								"minecraft:max_stack_size": 64,
+								"minecraft:should_despawn": true,
+								"minecraft:hand_equipped": false,
+								"minecraft:can_destroy_in_creative": false
+							},
+							"events": {}
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "cc:aluminum_ingot",
+							"category": "items"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "cc:aluminum_ingot",
+								"category": "items"
+							},
+							"components": {
+								"minecraft:icon": {
+									"texture": "aluminum_ingot"
+								},
+								"minecraft:max_stack_size": 64,
+								"minecraft:should_despawn": true,
+								"minecraft:hand_equipped": false,
+								"minecraft:can_destroy_in_creative": false
+							},
+							"events": {}
+						},
+						"key": "components",
+						"children": [
+							{
+								"open": {
+									"minecraft:icon": {
+										"texture": "aluminum_ingot"
+									},
+									"minecraft:max_stack_size": 64,
+									"minecraft:should_despawn": true,
+									"minecraft:hand_equipped": false,
+									"minecraft:can_destroy_in_creative": false
+								},
+								"key": "minecraft:icon",
+								"is_minified": true,
+								"children": {
+									"texture": "aluminum_ingot"
+								}
+							},
+							{
+								"data": "64",
+								"key": "minecraft:max_stack_size"
+							},
+							{
+								"data": "true",
+								"key": "minecraft:should_despawn"
+							},
+							{
+								"data": "false",
+								"key": "minecraft:hand_equipped"
+							},
+							{
+								"data": "false",
+								"key": "minecraft:can_destroy_in_creative"
+							}
+						]
+					},
+					{
+						"key": "events",
+						"is_minified": true,
+						"children": {}
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,13 +1,13 @@
-//bridge-file-version: #0
+//bridge-file-version: #1
 {
 	"format_version": "1.16.200",
 	"minecraft:block": {
 		"description": {
-			"identifier": "cl:uranium_ore"
+			"identifier": "cc:uranium_ore"
 		},
 		"components": {
-			"minecraft:destroy_time": 12,
-			"minecraft:explosion_resistance": 12,
+			"minecraft:destroy_time": 30,
+			"minecraft:explosion_resistance": 30,
 			"minecraft:loot": {},
 			"minecraft:display_name": "Uranium Ore"
 		},

@@ -1,0 +1,122 @@
+{
+	"file_path": "C:\\Users\\heste\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\games\\com.mojang\\development_behavior_packs\\Chaotic Craft\\blocks\\ores\\brass_block.json",
+	"file_type": "block",
+	"format_version": 1,
+	"file_uuid": "6d8b690f_570c_44fe_b427_e83581e2fb1b",
+	"file_version": 1,
+	"cache_content": {
+		"children": [
+			{
+				"open": {
+					"format_version": "1.16.200",
+					"minecraft:block": {
+						"description": {
+							"identifier": "cc:brass_block"
+						},
+						"components": {
+							"minecraft:destroy_time": 9,
+							"minecraft:block_light_absorption": 0,
+							"minecraft:block_light_emission": 0,
+							"minecraft:friction": 0.6,
+							"minecraft:explosion_resistance": 3,
+							"minecraft:loot": {},
+							"minecraft:breathability": "solid",
+							"minecraft:flammable": {
+								"burn_odds": 50,
+								"flame_odds": 0
+							}
+						}
+					}
+				},
+				"data": "1.16.200",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.200",
+					"minecraft:block": {
+						"description": {
+							"identifier": "cc:brass_block"
+						},
+						"components": {
+							"minecraft:destroy_time": 9,
+							"minecraft:block_light_absorption": 0,
+							"minecraft:block_light_emission": 0,
+							"minecraft:friction": 0.6,
+							"minecraft:explosion_resistance": 3,
+							"minecraft:loot": {},
+							"minecraft:breathability": "solid",
+							"minecraft:flammable": {
+								"burn_odds": 50,
+								"flame_odds": 0
+							}
+						}
+					}
+				},
+				"key": "minecraft:block",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "cc:brass_block"
+							},
+							"components": {
+								"minecraft:destroy_time": 9,
+								"minecraft:block_light_absorption": 0,
+								"minecraft:block_light_emission": 0,
+								"minecraft:friction": 0.6,
+								"minecraft:explosion_resistance": 3,
+								"minecraft:loot": {},
+								"minecraft:breathability": "solid",
+								"minecraft:flammable": {
+									"burn_odds": 50,
+									"flame_odds": 0
+								}
+							}
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "cc:brass_block"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "cc:brass_block"
+							},
+							"components": {
+								"minecraft:destroy_time": 9,
+								"minecraft:block_light_absorption": 0,
+								"minecraft:block_light_emission": 0,
+								"minecraft:friction": 0.6,
+								"minecraft:explosion_resistance": 3,
+								"minecraft:loot": {},
+								"minecraft:breathability": "solid",
+								"minecraft:flammable": {
+									"burn_odds": 50,
+									"flame_odds": 0
+								}
+							}
+						},
+						"key": "components",
+						"is_minified": true,
+						"children": {
+							"minecraft:destroy_time": 9,
+							"minecraft:block_light_absorption": 0,
+							"minecraft:block_light_emission": 0,
+							"minecraft:friction": 0.6,
+							"minecraft:explosion_resistance": 3,
+							"minecraft:loot": {},
+							"minecraft:breathability": "solid",
+							"minecraft:flammable": {
+								"burn_odds": 50,
+								"flame_odds": 0
+							}
+						}
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,81 @@
+{
+	"file_path": "C:\\Users\\heste\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\games\\com.mojang\\development_behavior_packs\\Chaotic Craft\\blocks\\ores\\nickel_ore.json",
+	"file_type": "block",
+	"format_version": 1,
+	"file_uuid": "5392d394_d241_4804_b913_31dfd50313b5",
+	"file_version": 1,
+	"cache_content": {
+		"children": [
+			{
+				"data": "1.16.200",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.200",
+					"minecraft:block": {
+						"description": {
+							"identifier": "cc:nickel_ore"
+						},
+						"components": {
+							"minecraft:destroy_time": 4,
+							"minecraft:explosion_resistance": 3,
+							"minecraft:loot": {},
+							"minecraft:display_name": "Nickel ore"
+						},
+						"events": {}
+					}
+				},
+				"key": "minecraft:block",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "cc:nickel_ore"
+							},
+							"components": {
+								"minecraft:destroy_time": 4,
+								"minecraft:explosion_resistance": 3,
+								"minecraft:loot": {},
+								"minecraft:display_name": "Nickel ore"
+							},
+							"events": {}
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "cc:nickel_ore"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "cc:nickel_ore"
+							},
+							"components": {
+								"minecraft:destroy_time": 4,
+								"minecraft:explosion_resistance": 3,
+								"minecraft:loot": {},
+								"minecraft:display_name": "Nickel ore"
+							},
+							"events": {}
+						},
+						"key": "components",
+						"is_minified": true,
+						"children": {
+							"minecraft:destroy_time": 4,
+							"minecraft:explosion_resistance": 3,
+							"minecraft:loot": {},
+							"minecraft:display_name": "Nickel ore"
+						}
+					},
+					{
+						"key": "events",
+						"is_minified": true,
+						"children": {}
+					}
+				]
+			}
+		]
+	}
+}

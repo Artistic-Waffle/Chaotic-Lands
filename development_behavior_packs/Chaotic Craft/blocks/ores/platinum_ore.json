@@ -1,13 +1,13 @@
-//bridge-file-version: #0
+//bridge-file-version: #1
 {
 	"format_version": "1.16.200",
 	"minecraft:block": {
 		"description": {
-			"identifier": "cl:platinum_ore"
+			"identifier": "cc:platinum_ore"
 		},
 		"components": {
-			"minecraft:destroy_time": 4,
-			"minecraft:explosion_resistance": 0.5,
+			"minecraft:destroy_time": 12,
+			"minecraft:explosion_resistance": 8,
 			"minecraft:loot": {},
 			"minecraft:display_name": "Platinum ore"
 		},

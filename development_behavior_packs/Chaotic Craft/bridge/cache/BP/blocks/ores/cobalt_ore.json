@@ -3,7 +3,7 @@
 	"file_type": "block",
 	"format_version": 1,
 	"file_uuid": "64099392_194d_4363_8c35_b9501fe73eed",
-	"file_version": 2,
+	"file_version": 3,
 	"cache_content": {
 		"children": [
 			{
@@ -20,8 +20,7 @@
 						"components": {
 							"minecraft:destroy_time": 4,
 							"minecraft:explosion_resistance": 8,
-							"minecraft:loot": {},
-							"minecraft:display_name": "Cobalt Ore"
+							"minecraft:loot": {}
 						},
 						"events": {}
 					}
@@ -36,8 +35,7 @@
 							"components": {
 								"minecraft:destroy_time": 4,
 								"minecraft:explosion_resistance": 8,
-								"minecraft:loot": {},
-								"minecraft:display_name": "Cobalt Ore"
+								"minecraft:loot": {}
 							},
 							"events": {}
 						},
@@ -55,8 +53,7 @@
 							"components": {
 								"minecraft:destroy_time": 4,
 								"minecraft:explosion_resistance": 8,
-								"minecraft:loot": {},
-								"minecraft:display_name": "Cobalt Ore"
+								"minecraft:loot": {}
 							},
 							"events": {}
 						},
@@ -65,8 +62,7 @@
 						"children": {
 							"minecraft:destroy_time": 4,
 							"minecraft:explosion_resistance": 8,
-							"minecraft:loot": {},
-							"minecraft:display_name": "Cobalt Ore"
+							"minecraft:loot": {}
 						}
 					},
 					{

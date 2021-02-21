@@ -2,59 +2,49 @@
 	"file_path": "C:\\Users\\heste\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\games\\com.mojang\\development_behavior_packs\\Chaotic Craft\\items\\copper_ingot.json",
 	"file_type": "item",
 	"format_version": 1,
-	"file_uuid": "2b167b90_bfca_408f_9fef_afe8afcf929b",
-	"file_version": 3,
+	"file_uuid": "e1b21fa7_227c_4cdc_940c_f578f9c28cd7",
+	"file_version": 0,
 	"cache_content": {
 		"children": [
 			{
 				"open": {
-					"format_version": "1.16.200",
+					"format_version": "1.16.100",
 					"minecraft:item": {
 						"description": {
-							"identifier": "cc:copper_ingot",
+							"identifier": "cc::copper_ingot",
 							"category": "items"
 						},
 						"components": {
-							"minecraft:max_stack_size": 64,
-							"minecraft:hand_equipped": false,
-							"minecraft:should_despawn": true,
 							"minecraft:icon": {
 								"texture": "copper_ingot"
 							},
-							"minecraft:display_name": "Copper Ingot",
-							"minecraft:can_destroy_in_creative": true,
-							"minecraft:creative_category": {
-								"parent": "itemGroup.name.items"
-							}
-						},
-						"events": {}
+							"minecraft:max_stack_size": 64,
+							"minecraft:should_despawn": true,
+							"minecraft:hand_equipped": false,
+							"minecraft:can_destroy_in_creative": false
+						}
 					}
 				},
-				"data": "1.16.200",
+				"data": "1.16.100",
 				"key": "format_version"
 			},
 			{
 				"open": {
-					"format_version": "1.16.200",
+					"format_version": "1.16.100",
 					"minecraft:item": {
 						"description": {
-							"identifier": "cc:copper_ingot",
+							"identifier": "cc::copper_ingot",
 							"category": "items"
 						},
 						"components": {
-							"minecraft:max_stack_size": 64,
-							"minecraft:hand_equipped": false,
-							"minecraft:should_despawn": true,
 							"minecraft:icon": {
 								"texture": "copper_ingot"
 							},
-							"minecraft:display_name": "Copper Ingot",
-							"minecraft:can_destroy_in_creative": true,
-							"minecraft:creative_category": {
-								"parent": "itemGroup.name.items"
-							}
-						},
-						"events": {}
+							"minecraft:max_stack_size": 64,
+							"minecraft:should_despawn": true,
+							"minecraft:hand_equipped": false,
+							"minecraft:can_destroy_in_creative": false
+						}
 					}
 				},
 				"key": "minecraft:item",
@@ -62,79 +52,53 @@
 					{
 						"open": {
 							"description": {
-								"identifier": "cc:copper_ingot",
+								"identifier": "cc::copper_ingot",
 								"category": "items"
 							},
 							"components": {
-								"minecraft:max_stack_size": 64,
-								"minecraft:hand_equipped": false,
-								"minecraft:should_despawn": true,
 								"minecraft:icon": {
 									"texture": "copper_ingot"
 								},
-								"minecraft:display_name": "Copper Ingot",
-								"minecraft:can_destroy_in_creative": true,
-								"minecraft:creative_category": {
-									"parent": "itemGroup.name.items"
-								}
-							},
-							"events": {}
+								"minecraft:max_stack_size": 64,
+								"minecraft:should_despawn": true,
+								"minecraft:hand_equipped": false,
+								"minecraft:can_destroy_in_creative": false
+							}
 						},
 						"key": "description",
 						"is_minified": true,
 						"children": {
-							"identifier": "cc:copper_ingot",
+							"identifier": "cc::copper_ingot",
 							"category": "items"
 						}
 					},
 					{
 						"open": {
 							"description": {
-								"identifier": "cc:copper_ingot",
+								"identifier": "cc::copper_ingot",
 								"category": "items"
 							},
 							"components": {
-								"minecraft:max_stack_size": 64,
-								"minecraft:hand_equipped": false,
-								"minecraft:should_despawn": true,
 								"minecraft:icon": {
 									"texture": "copper_ingot"
 								},
-								"minecraft:display_name": "Copper Ingot",
-								"minecraft:can_destroy_in_creative": true,
-								"minecraft:creative_category": {
-									"parent": "itemGroup.name.items"
-								}
-							},
-							"events": {}
+								"minecraft:max_stack_size": 64,
+								"minecraft:should_despawn": true,
+								"minecraft:hand_equipped": false,
+								"minecraft:can_destroy_in_creative": false
+							}
 						},
 						"key": "components",
 						"children": [
 							{
-								"data": "64",
-								"key": "minecraft:max_stack_size"
-							},
-							{
-								"data": "false",
-								"key": "minecraft:hand_equipped"
-							},
-							{
-								"data": "true",
-								"key": "minecraft:should_despawn"
-							},
-							{
 								"open": {
-									"minecraft:max_stack_size": 64,
-									"minecraft:hand_equipped": false,
-									"minecraft:should_despawn": true,
 									"minecraft:icon": {
 										"texture": "copper_ingot"
 									},
-									"minecraft:display_name": "Copper Ingot",
-									"minecraft:can_destroy_in_creative": true,
-									"minecraft:creative_category": {
-										"parent": "itemGroup.name.items"
-									}
+									"minecraft:max_stack_size": 64,
+									"minecraft:should_despawn": true,
+									"minecraft:hand_equipped": false,
+									"minecraft:can_destroy_in_creative": false
 								},
 								"key": "minecraft:icon",
 								"is_minified": true,
@@ -143,46 +107,22 @@
 								}
 							},
 							{
-								"data": "Copper Ingot",
-								"key": "minecraft:display_name"
+								"data": "64",
+								"key": "minecraft:max_stack_size"
 							},
 							{
 								"data": "true",
-								"key": "minecraft:can_destroy_in_creative"
+								"key": "minecraft:should_despawn"
 							},
 							{
-								"key": "minecraft:creative_category",
-								"is_minified": true,
-								"children": {
-									"parent": "itemGroup.name.items"
-								}
+								"data": "false",
+								"key": "minecraft:hand_equipped"
+							},
+							{
+								"data": "false",
+								"key": "minecraft:can_destroy_in_creative"
 							}
 						]
-					},
-					{
-						"open": {
-							"description": {
-								"identifier": "cc:copper_ingot",
-								"category": "items"
-							},
-							"components": {
-								"minecraft:max_stack_size": 64,
-								"minecraft:hand_equipped": false,
-								"minecraft:should_despawn": true,
-								"minecraft:icon": {
-									"texture": "copper_ingot"
-								},
-								"minecraft:display_name": "Copper Ingot",
-								"minecraft:can_destroy_in_creative": true,
-								"minecraft:creative_category": {
-									"parent": "itemGroup.name.items"
-								}
-							},
-							"events": {}
-						},
-						"key": "events",
-						"is_minified": true,
-						"children": {}
 					}
 				]
 			}

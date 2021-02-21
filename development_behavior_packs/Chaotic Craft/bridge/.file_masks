@@ -7,7 +7,187 @@
 	},
 	"BP/animation_controllers/bridge/custom_item_behavior.json": {
 		"data": {
-			"2b167b90_bfca_408f_9fef_afe8afcf929b": {
+			"e1b21fa7_227c_4cdc_940c_f578f9c28cd7": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"39abbcbe_38bc_4e96_a252_077e3ba94048": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"d445e544_1372_4e71_9a61_5daac023c702": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"6d3fc3f3_158b_4156_b356_d09fbde7ac0c": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"c0962a02_5666_403a_8c39_14e55ea75b58": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"132a2c14_1994_4ec1_b578_f485c26caf01": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"bee5fa01_58c7_4561_8862_b6fee545ce82": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"343acea4_4006_4edc_9414_dddab8fc44f6": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"97c4ec3c_995d_4365_b8ee_99ca1c941833": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"e872d5bd_61e1_47ef_ac22_8a4375a4cfb1": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"13683603_2a94_4fb8_a4ec_720894962439": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"0658a78d_4299_4223_8be0_ce07b7c425e0": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"3dc8c1e6_ebca_4f7a_aedf_fba4e803f978": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"ed5d85a5_132e_4cb4_bfe7_6fe070a0f176": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"3858bb0c_4c3d_45af_b561_95aa3131c19c": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"2e46bc90_8736_40bc_b2c1_d6b261302bb3": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"e1627823_18a3_4d20_a608_9cc85465f3fe": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"24b5efaf_dbb3_41cc_9e0f_bba51f388950": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"84dd6448_f5c9_4254_8725_0ad708bc61ed": {
 				"format_version": "1.10.0",
 				"animation_controllers": {
 					"controller.animation.bridge_custom_item_behavior": {
@@ -19,10 +199,166 @@
 			}
 		}
 	},
+	"RP/ Rp/textures/item_texture.json": {
+		"data": {}
+	},
+	"RP/ Rp/textures/textures_list.json": {
+		"data": {}
+	},
 	"BP/items/copper_ingot.json": {
 		"data": {}
 	},
-	"RP/ Rp/textures/item_texture.json": {
+	"BP/items/adamantite_ingot.json": {
+		"data": {}
+	},
+	"BP/items/amethyst_ingot.json": {
+		"data": {}
+	},
+	"BP/items/black_steel_ingot.json": {
+		"data": {}
+	},
+	"BP/items/brass_ingot.json": {
+		"data": {}
+	},
+	"BP/items/cobalt_ingot.json": {
+		"data": {}
+	},
+	"BP/items/electrum_ingot.json": {
+		"data": {}
+	},
+	"BP/items/lead_ingot.json": {
+		"data": {}
+	},
+	"BP/items/mithril_ingot.json": {
+		"data": {}
+	},
+	"BP/items/nickel_ingot.json": {
+		"data": {}
+	},
+	"BP/items/platinum_ingot.json": {
+		"data": {}
+	},
+	"BP/items/silver_ingot.json": {
+		"data": {}
+	},
+	"BP/items/steal_ingot.json": {
+		"data": {}
+	},
+	"BP/items/tin_ingot.json": {
+		"data": {}
+	},
+	"BP/items/titanium_ingot.json": {
+		"data": {}
+	},
+	"BP/items/tungsten_ingot.json": {
+		"data": {}
+	},
+	"BP/items/uranium_ingot.json": {
+		"data": {}
+	},
+	"BP/items/zinc_ingot.json": {
+		"data": {}
+	},
+	"BP/blocks/ores/adamantite_ore.json": {
+		"data": {}
+	},
+	"BP/blocks/ores/copper_ore.json": {
+		"data": {}
+	},
+	"BP/blocks/ores/copper_block.json": {
+		"data": {}
+	},
+	"BP/blocks/ores/amethyst_block.json": {
+		"data": {}
+	},
+	"BP/blocks/ores/amethyst_ore.json": {
+		"data": {}
+	},
+	"BP/blocks/ores/black_steel_block.json": {
+		"data": {}
+	},
+	"BP/blocks/ores/brass_block.json": {
+		"data": {}
+	},
+	"BP/blocks/ores/cobalt_block.json": {
+		"data": {}
+	},
+	"BP/blocks/ores/electrum_block.json": {
+		"data": {}
+	},
+	"BP/blocks/ores/electrum_ore.json": {
+		"data": {}
+	},
+	"BP/blocks/ores/lead_ore.json": {
+		"data": {}
+	},
+	"BP/blocks/ores/lead_block.json": {
+		"data": {}
+	},
+	"BP/blocks/ores/mithril_ore.json": {
+		"data": {}
+	},
+	"BP/blocks/ores/mithril_block.json": {
+		"data": {}
+	},
+	"BP/blocks/ores/nickel_block.json": {
+		"data": {}
+	},
+	"BP/blocks/ores/nickel_ore.json": {
+		"data": {}
+	},
+	"BP/blocks/ores/platinum_ore.json": {
+		"data": {}
+	},
+	"BP/blocks/ores/platinum_block.json": {
+		"data": {}
+	},
+	"BP/blocks/ores/silver_block.json": {
+		"data": {}
+	},
+	"BP/blocks/ores/silver_ore.json": {
+		"data": {}
+	},
+	"BP/blocks/ores/steal_block.json": {
+		"data": {}
+	},
+	"BP/blocks/ores/tungsten_ore.json": {
+		"data": {}
+	},
+	"BP/blocks/ores/tungsten_block.json": {
+		"data": {}
+	},
+	"BP/blocks/ores/titanium_block.json": {
+		"data": {}
+	},
+	"BP/blocks/ores/titanium_ore.json": {
+		"data": {}
+	},
+	"BP/blocks/ores/tin_ore.json": {
+		"data": {}
+	},
+	"BP/blocks/ores/tin_block.json": {
+		"data": {}
+	},
+	"BP/blocks/ores/uranium_block.json": {
+		"data": {}
+	},
+	"BP/blocks/ores/uranium_ore.json": {
+		"data": {}
+	},
+	"BP/blocks/ores/zinc_block.json": {
+		"data": {}
+	},
+	"BP/blocks/ores/zinc_ore.json": {
+		"data": {}
+	},
+	"BP/blocks/ores/adamantite_block.json": {
+		"data": {}
+	},
+	"RP/ Rp/blocks.json": {
+		"data": {}
+	},
+	"BP/items/aluminum_ingot.json": {
 		"data": {}
 	}
 }

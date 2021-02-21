@@ -1,0 +1,77 @@
+{
+	"file_path": "C:\\Users\\heste\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\games\\com.mojang\\development_behavior_packs\\Chaotic Craft\\blocks\\ores\\electrum_ore.json",
+	"file_type": "block",
+	"format_version": 1,
+	"file_uuid": "3f5cd601_d244_4d1d_95b2_7a6b9d2a13b5",
+	"file_version": 1,
+	"cache_content": {
+		"children": [
+			{
+				"data": "1.16.200",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.200",
+					"minecraft:block": {
+						"description": {
+							"identifier": "cc:electrum_ore"
+						},
+						"components": {
+							"minecraft:destroy_time": 6,
+							"minecraft:explosion_resistance": 6,
+							"minecraft:loot": {}
+						},
+						"events": {}
+					}
+				},
+				"key": "minecraft:block",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "cc:electrum_ore"
+							},
+							"components": {
+								"minecraft:destroy_time": 6,
+								"minecraft:explosion_resistance": 6,
+								"minecraft:loot": {}
+							},
+							"events": {}
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "cc:electrum_ore"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "cc:electrum_ore"
+							},
+							"components": {
+								"minecraft:destroy_time": 6,
+								"minecraft:explosion_resistance": 6,
+								"minecraft:loot": {}
+							},
+							"events": {}
+						},
+						"key": "components",
+						"is_minified": true,
+						"children": {
+							"minecraft:destroy_time": 6,
+							"minecraft:explosion_resistance": 6,
+							"minecraft:loot": {}
+						}
+					},
+					{
+						"key": "events",
+						"is_minified": true,
+						"children": {}
+					}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,81 @@
+{
+	"file_path": "C:\\Users\\heste\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\games\\com.mojang\\development_behavior_packs\\Chaotic Craft\\blocks\\ores\\mithril_ore.json",
+	"file_type": "block",
+	"format_version": 1,
+	"file_uuid": "984a957d_705e_427b_b082_73c75ca09b6d",
+	"file_version": 1,
+	"cache_content": {
+		"children": [
+			{
+				"data": "1.16.200",
+				"key": "format_version"
+			},
+			{
+				"open": {
+					"format_version": "1.16.200",
+					"minecraft:block": {
+						"description": {
+							"identifier": "cc:mithril_ore"
+						},
+						"components": {
+							"minecraft:destroy_time": 12,
+							"minecraft:explosion_resistance": 9,
+							"minecraft:loot": {},
+							"minecraft:display_name": "Mithril ore"
+						},
+						"events": {}
+					}
+				},
+				"key": "minecraft:block",
+				"children": [
+					{
+						"open": {
+							"description": {
+								"identifier": "cc:mithril_ore"
+							},
+							"components": {
+								"minecraft:destroy_time": 12,
+								"minecraft:explosion_resistance": 9,
+								"minecraft:loot": {},
+								"minecraft:display_name": "Mithril ore"
+							},
+							"events": {}
+						},
+						"key": "description",
+						"is_minified": true,
+						"children": {
+							"identifier": "cc:mithril_ore"
+						}
+					},
+					{
+						"open": {
+							"description": {
+								"identifier": "cc:mithril_ore"
+							},
+							"components": {
+								"minecraft:destroy_time": 12,
+								"minecraft:explosion_resistance": 9,
+								"minecraft:loot": {},
+								"minecraft:display_name": "Mithril ore"
+							},
+							"events": {}
+						},
+						"key": "components",
+						"is_minified": true,
+						"children": {
+							"minecraft:destroy_time": 12,
+							"minecraft:explosion_resistance": 9,
+							"minecraft:loot": {},
+							"minecraft:display_name": "Mithril ore"
+						}
+					},
+					{
+						"key": "events",
+						"is_minified": true,
+						"children": {}
+					}
+				]
+			}
+		]
+	}
+}
