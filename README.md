@@ -2,15 +2,22 @@
 
 Updates :
   - Restarted Resouce and Behavior pack
-  - Item textures working mostly
+  - Item textures working
+  - Added Crushing Table - not functional yet
 
 Working in Progress :
-  -  Ore & block 
+  -  Ore & block texture 
   -  cc:copper_ingot
+  -  Gears
+  -  Plates
+  -  Adding functionality to Crushing Table
+  -  Hammer
 
 Notes :
-  - New namespace is cc:
-  - need to convert block/ores into new Name space
+  - minecraft:display_name is bugged 
+  - Have part 1 done by Friday 26, 2021 for alpha testing
+  - add bronze to texture list
 
 Problems :
-  - [Item][Warning]-item item.cc:copper_ingot requires either an icon atlas or icon texture
+  - Block textures are not rendering 
+  - Copper Ingot name not registering
