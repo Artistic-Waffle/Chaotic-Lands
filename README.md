@@ -2,22 +2,23 @@
 
 Updates :
   - Restarted Resouce and Behavior pack
-  - Item textures working
+  - Item & Blocks textures working ✔
   - Added Crushing Table - not functional yet
 
 Working in Progress :
-  -  Ore & block texture 
-  -  cc:copper_ingot
+  -  Ore & block texture ✔
+  -  Block and items names
   -  Gears
   -  Plates
   -  Adding functionality to Crushing Table
   -  Hammer
+  -  Animations
 
 Notes :
   - minecraft:display_name is bugged 
   - Have part 1 done by Friday 26, 2021 for alpha testing
-  - add bronze to texture list
+  - Crushing Table rendering is darkened near blocks
 
 Problems :
-  - Block textures are not rendering 
-  - Copper Ingot name not registering
+  - Some block names are not rendering 
+  - Copper Ingot & Mythril Ingot/block names not registering
