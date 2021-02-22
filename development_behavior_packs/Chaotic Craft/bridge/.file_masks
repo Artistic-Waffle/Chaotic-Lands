@@ -305,12 +305,6 @@
 	"BP/blocks/ores/lead_block.json": {
 		"data": {}
 	},
-	"BP/blocks/ores/mithril_ore.json": {
-		"data": {}
-	},
-	"BP/blocks/ores/mithril_block.json": {
-		"data": {}
-	},
 	"BP/blocks/ores/nickel_block.json": {
 		"data": {}
 	},
@@ -387,6 +381,12 @@
 		"data": {}
 	},
 	"BP/items/bronze_ingot.json": {
+		"data": {}
+	},
+	"BP/blocks/ores/mythril_ore.json": {
+		"data": {}
+	},
+	"BP/blocks/ores/mythril_block.json": {
 		"data": {}
 	}
 }

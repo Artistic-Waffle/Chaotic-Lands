@@ -125,24 +125,6 @@
 			"custom_commands": [],
 			"custom_components": []
 		},
-		"BP/blocks/ores/mithril_ore.json": {
-			"identifiers": [
-				"cc:mithril_ore"
-			],
-			"events": [],
-			"recipe_tags": [],
-			"custom_commands": [],
-			"custom_components": []
-		},
-		"BP/blocks/ores/mithril_block.json": {
-			"identifiers": [
-				"cc:mithril_block"
-			],
-			"events": [],
-			"recipe_tags": [],
-			"custom_commands": [],
-			"custom_components": []
-		},
 		"BP/blocks/ores/nickel_block.json": {
 			"identifiers": [
 				"cc:nickel_block"
@@ -340,6 +322,24 @@
 			"recipe_tags": [],
 			"custom_commands": [],
 			"custom_components": []
+		},
+		"BP/blocks/ores/mythril_ore.json": {
+			"identifiers": [
+				"cc:mythril_ore"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/ores/mythril_block.json": {
+			"identifiers": [
+				"cc:mythril_block"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
 		}
 	},
 	"entity": {
@@ -487,6 +487,11 @@
 	"sound_definition": {
 		"RP/ Rp/sounds/sound_definitions.json": {
 			"ids": []
+		}
+	},
+	"function": {
+		"BP/functions/ingots.mcfunction": {
+			"custom_commands": []
 		}
 	}
 }
