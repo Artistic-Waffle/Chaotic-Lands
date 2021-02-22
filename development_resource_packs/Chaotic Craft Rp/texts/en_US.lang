@@ -1,11 +1,12 @@
-##bridge-file-version: #3
-pack.name=Chaotic Craft Rp
+##bridge-file-version: #4
+#pack.name=Chaotic Craft Rp
 pack.description=Resource Pack for Chaotic Craft
 item.cc:copper_ingot=Copper Ingot
 item.cc:adamantite_ingot=Adamantite Ingot
 item.cc:amethyst_ingot=Amethyst Ingot
 item.cc:black_steel_ingot=Black Steel Ingot
 item.cc:brass_ingot=Brass Ingot
+item.cc:bronze_ingot=Bronze Ingot
 item.cc:cobalt_ingot=Cobalt Ingot
 item.cc:electrum_ingot=Electrum Ingot
 item.cc:lead_ingot=Lead Ingot
@@ -28,6 +29,7 @@ tile.cc:black_steel_block.name=Black Steel Block
 tile.cc:brass_block.name=Brass Block
 tile.cc:cobalt_block.name=Cobalt Block
 tile.cc:cobalt_ore.name=Cobalt Ore
+tile.cc:bronze_block.name=Bronze Block
 tile.cc:copper_block.name=Copper Block
 tile.cc:copper_ore.name=Copper Ore
 tile.cc:electrum_block.name=Electrum Block

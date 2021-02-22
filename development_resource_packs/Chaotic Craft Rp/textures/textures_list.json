@@ -1,4 +1,4 @@
-//bridge-file-version: #6
+//bridge-file-version: #7
 [
 	"textures/blocks/adamantite_block",
 	"textures/blocks/adamantite_ore",
@@ -55,5 +55,6 @@
 	"textures/items/tungsten_ingot",
 	"textures/items/uranium_ingot",
 	"textures/items/zinc_ingot",
+	"textures/blocks/crushing_table",
 	{}
 ]

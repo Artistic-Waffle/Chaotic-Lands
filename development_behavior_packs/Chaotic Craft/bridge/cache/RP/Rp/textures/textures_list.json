@@ -3,7 +3,7 @@
 	"file_type": "textures_list",
 	"format_version": 1,
 	"file_uuid": "4916aa9e_1a14_4dab_b343_8a52200f2d67",
-	"file_version": 6,
+	"file_version": 7,
 	"cache_content": {
 		"is_minified": true,
 		"children": [
@@ -61,7 +61,8 @@
 			"textures/items/titanium_ingot",
 			"textures/items/tungsten_ingot",
 			"textures/items/uranium_ingot",
-			"textures/items/zinc_ingot"
+			"textures/items/zinc_ingot",
+			"textures/blocks/crushing_table"
 		]
 	}
 }

@@ -1,4 +1,4 @@
-//bridge-file-version: #8
+//bridge-file-version: #9
 {
 	"resource_pack_name": "bridgeRP",
 	"texture_name": "atlas.items",
@@ -39,7 +39,7 @@
 		"silver_ingot": {
 			"textures": "textures/items/silver_ingot"
 		},
-		"steal_ingot": {
+		"steel_ingot": {
 			"textures": "textures/items/steel_ingot"
 		},
 		"tin_ingot": {
@@ -59,6 +59,9 @@
 		},
 		"aluminum_ingot": {
 			"textures": "textures/items/aluminum_ingot"
+		},
+		"bronze_ingot": {
+			"textures": "textures/items/bronze_ingot"
 		}
 	}
 }

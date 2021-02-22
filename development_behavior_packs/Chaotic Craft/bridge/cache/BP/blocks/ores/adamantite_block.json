@@ -3,10 +3,22 @@
 	"file_type": "block",
 	"format_version": 1,
 	"file_uuid": "69d4c6de_1fa5_4bd8_a07a_22caf352d100",
-	"file_version": 2,
+	"file_version": 4,
 	"cache_content": {
 		"children": [
 			{
+				"open": {
+					"format_version": "1.16.0",
+					"minecraft:block": {
+						"description": {
+							"identifier": "cc:adamantite_block"
+						},
+						"components": {
+							"minecraft:destroy_time": 26,
+							"minecraft:explosion_resistance": 20
+						}
+					}
+				},
 				"data": "1.16.0",
 				"key": "format_version"
 			},

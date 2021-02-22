@@ -1,4 +1,4 @@
-//bridge-file-version: #1
+//bridge-file-version: #4
 {
 	"format_version": [
 		1,
@@ -6,143 +6,147 @@
 		0
 	],
 	"cc:adamantite_ore": {
-		"textures": "textures/blocks/adamantite_ore",
-		"sound": "stone"
+		"sound": "stone",
+		"textures": "adamantite_ore"
 	},
 	"cc:adamantite_block": {
-		"textures": "textures/blocks/adamantite_block",
-		"sound": "metal"
+		"sound": "metal",
+		"textures": "adamantite_block"
 	},
 	"cc:aluminum_ore": {
-		"textures": "textures/block/aluminum_ore",
-		"sound": "stone"
+		"sound": "stone",
+		"textures": "aluminum_ore"
 	},
 	"cc:aluminum_block": {
-		"textures": "textures/block/aluminum_block",
-		"sound": "metal"
+		"sound": "metal",
+		"textures": "aluminum_block"
 	},
 	"cc:amethyst_ore": {
-		"textures": "textures/block/amethyst_ore",
-		"sound": "stone"
+		"textures": "amethyst_ore",
+		"sound": "shroomlight"
 	},
 	"cc:amethyst_block": {
-		"textures": "textures/block/amethyst_block",
-		"sound": "metal"
+		"sound": "shroomlight",
+		"textures": "amethyst_block"
 	},
 	"cc:black_steel_block": {
-		"textures": "textures/block/black_steel_block",
-		"sound": "stone"
+		"sound": "metal",
+		"textures": "black_steel_block"
 	},
 	"cc:brass_block": {
-		"textures": "textures/block/brass_block",
+		"sound": "metal",
+		"textures": "brass_block"
+	},
+	"cc:bronze_block": {
+		"textures": "bronze_block",
 		"sound": "metal"
 	},
 	"cc:cobalt_ore": {
-		"textures": "textures/block/cobalt_ore",
-		"sound": "stone"
+		"sound": "stone",
+		"textures": "cobalt_ore"
 	},
 	"cc:cobalt_block": {
-		"textures": "textures/block/cobalt_block",
-		"sound": "metal"
+		"sound": "metal",
+		"textures": "cobalt_block"
 	},
 	"cc:copper_ore": {
-		"textures": "textures/block/copper_ore",
-		"sound": "stone"
+		"sound": "stone",
+		"textures": "copper_ore"
 	},
 	"cc:copper_block": {
-		"textures": "textures/block/copper_block",
-		"sound": "metal"
+		"sound": "metal",
+		"textures": "copper_block"
 	},
 	"cc:electrum_ore": {
-		"textures": "textures/block/electrum_ore",
-		"sound": "stone"
+		"sound": "stone",
+		"textures": "electrum_ore"
 	},
 	"cc:electrum_block": {
-		"textures": "textures/block/electrum_block",
-		"sound": "metal"
+		"sound": "metal",
+		"textures": "electrum_block"
 	},
 	"cc:lead_ore": {
-		"textures": "textures/block/lead_ore",
+		"textures": "lead_ore",
 		"sound": "stone"
 	},
 	"cc:lead_block": {
-		"textures": "textures/block/lead_block",
+		"textures": "lead_block",
 		"sound": "metal"
 	},
 	"cc:mithril_ore": {
-		"textures": "textures/block/mithril_ore",
+		"textures": "mithril_ore",
 		"sound": "stone"
 	},
 	"cc:mithril_block": {
-		"textures": "textures/block/mithril_block",
+		"textures": "mithril_block",
 		"sound": "metal"
 	},
 	"cc:nickel_ore": {
-		"textures": "textures/block/nickel_ore",
+		"textures": "nickel_ore",
 		"sound": "stone"
 	},
 	"cc:nickel_block": {
-		"textures": "textures/block/nickel_block",
+		"textures": "nickel_block",
 		"sound": "metal"
 	},
 	"cc:platinum_ore": {
-		"textures": "textures/block/platinum_ore",
+		"textures": "platinum_ore",
 		"sound": "stone"
 	},
 	"cc:platinum_block": {
-		"textures": "textures/block/platinum_block",
+		"textures": "platinum_block",
 		"sound": "metal"
 	},
 	"cc:silver_ore": {
-		"textures": "textures/block/silver_ore",
+		"textures": "silver_ore",
 		"sound": "stone"
 	},
 	"cc:silver_block": {
-		"textures": "textures/block/silver_block",
+		"textures": "silver_block",
 		"sound": "metal"
 	},
 	"cc:steal_block": {
-		"textures": "textures/block/steal_block",
+		"textures": "steal_block",
 		"sound": "stone"
 	},
 	"cc:tin_ore": {
-		"textures": "textures/block/tin_ore",
+		"textures": "tin_ore",
 		"sound": "metal"
 	},
 	"cc:tin_block": {
-		"textures": "textures/block/tin_block",
+		"textures": "tin_block",
 		"sound": "stone"
 	},
 	"cc:titanium_ore": {
-		"textures": "textures/block/titanium_ore",
+		"textures": "titanium_ore",
 		"sound": "metal"
 	},
 	"cc:titanium_block": {
-		"textures": "textures/block/titanium_block",
+		"textures": "titanium_block",
 		"sound": "stone"
 	},
 	"cc:tungsten_ore": {
-		"textures": "textures/block/tungsten_ore",
+		"textures": "tungsten_ore",
 		"sound": "metal"
 	},
 	"cc:tungsten_block": {
-		"textures": "textures/block/tungsten_block",
+		"textures": "tungsten_block",
 		"sound": "stone"
 	},
 	"cc:uranium_ore": {
-		"textures": "textures/block/uranium_ore",
+		"textures": "uranium_ore",
 		"sound": "metal"
 	},
 	"cc:uranium_block": {
-		"textures": "textures/block/uranium_block",
+		"textures": "uranium_block",
 		"sound": "stone"
 	},
 	"cc:zinc_ore": {
-		"textures": "textures/block/zinc_ore",
+		"textures": "zinc_ore",
 		"sound": "metal"
 	},
 	"cc:zinc_block": {
-		"textures": "textures/block/zinc_block",
+		"textures": "zinc_block",
 		"sound": "stone"
 	}
 }

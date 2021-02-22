@@ -4,11 +4,11 @@
 	"minecraft:item": {
 		"description": {
 			"category": "items",
-			"identifier": "cc:steal_ingot"
+			"identifier": "cc:steel_ingot"
 		},
 		"components": {
 			"minecraft:icon": {
-				"texture": "steal_ingot"
+				"texture": "steel_ingot"
 			},
 			"minecraft:max_stack_size": 64,
 			"minecraft:should_despawn": true,
