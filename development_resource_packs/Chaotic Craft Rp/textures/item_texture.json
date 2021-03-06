@@ -1,4 +1,4 @@
-//bridge-file-version: #10
+//bridge-file-version: #12
 {
 	"resource_pack_name": "bridgeRP",
 	"texture_name": "atlas.items",
@@ -62,6 +62,27 @@
 		},
 		"bronze_ingot": {
 			"textures": "textures/items/bronze_ingot"
+		},
+		"aluminum_plate": {
+			"textures": "textures/items/aluminium_plate"
+		},
+		"brass_plate": {
+			"textures": "textures/items/brass_plate"
+		},
+		"bronze_plate": {
+			"textures": "textures/items/bronze_plate"
+		},
+		"copper_plate": {
+			"textures": "textures/items/copper_plate"
+		},
+		"lead_plate": {
+			"textures": "textures/items/lead_plate"
+		},
+		"tin_plate": {
+			"textures": "textures/items/tin_plate"
+		},
+		"tungsten": {
+			"textures": "textures/items/tungsten_plate"
 		}
 	}
 }

@@ -1,4 +1,4 @@
-//bridge-file-version: #1
+//bridge-file-version: #3
 {
 	"format_version": "1.16.100",
 	"minecraft:block": {
@@ -38,7 +38,9 @@
 				]
 			},
 			"minecraft:destroy_time": 5,
-			"minecraft:friction": 0.6
+			"minecraft:friction": 0.6,
+			"minecraft:on_interact": {},
+			"minecraft:block_light_absorption": 0.3
 		},
 		"events": {}
 	}

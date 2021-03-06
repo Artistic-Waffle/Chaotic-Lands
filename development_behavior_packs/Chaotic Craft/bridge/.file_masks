@@ -206,6 +206,16 @@
 						}
 					}
 				}
+			},
+			"309ffe36_4304_47d2_9216_72029ab810ff": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
 			}
 		}
 	},
@@ -387,6 +397,12 @@
 		"data": {}
 	},
 	"BP/blocks/ores/mythril_block.json": {
+		"data": {}
+	},
+	"BP/entities/crushing_table.json": {
+		"data": {}
+	},
+	"BP/items/aluminum_plate.json": {
 		"data": {}
 	}
 }

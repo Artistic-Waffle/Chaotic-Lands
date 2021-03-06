@@ -1,9 +1,9 @@
 {
-	"file_path": "C:\\Users\\heste\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\games\\com.mojang\\development_behavior_packs\\Chaotic Craft\\blocks\\crushing_table.json",
+	"file_path": "C:\\Users\\heste\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\games\\com.mojang\\development_behavior_packs\\Chaotic Craft\\blocks\\machines\\crushing_table.json",
 	"file_type": "block",
 	"format_version": 1,
 	"file_uuid": "67db7844_f79f_4880_9559_1878bf1d18b7",
-	"file_version": 1,
+	"file_version": 3,
 	"cache_content": {
 		"children": [
 			{
@@ -50,7 +50,9 @@
 								]
 							},
 							"minecraft:destroy_time": 5,
-							"minecraft:friction": 0.6
+							"minecraft:friction": 0.6,
+							"minecraft:on_interact": {},
+							"minecraft:block_light_absorption": 0.3
 						}
 					}
 				},
@@ -94,7 +96,9 @@
 									]
 								},
 								"minecraft:destroy_time": 5,
-								"minecraft:friction": 0.6
+								"minecraft:friction": 0.6,
+								"minecraft:on_interact": {},
+								"minecraft:block_light_absorption": 0.3
 							}
 						},
 						"key": "description",
@@ -141,47 +145,14 @@
 									]
 								},
 								"minecraft:destroy_time": 5,
-								"minecraft:friction": 0.6
+								"minecraft:friction": 0.6,
+								"minecraft:on_interact": {},
+								"minecraft:block_light_absorption": 0.3
 							}
 						},
 						"key": "components",
 						"children": [
 							{
-								"open": {
-									"minecraft:material_instances": {
-										"*": {
-											"texture": "crushing_table",
-											"render_method": "alpha_test"
-										}
-									},
-									"minecraft:geometry": "geometry.crushing_table",
-									"minecraft:entity_collision": {
-										"origin": [
-											-8,
-											0,
-											-8
-										],
-										"size": [
-											16,
-											16,
-											16
-										]
-									},
-									"minecraft:pick_collision": {
-										"origin": [
-											-8,
-											0,
-											-8
-										],
-										"size": [
-											16,
-											16,
-											16
-										]
-									},
-									"minecraft:destroy_time": 5,
-									"minecraft:friction": 0.6
-								},
 								"key": "minecraft:material_instances",
 								"children": [
 									{
@@ -201,41 +172,6 @@
 								]
 							},
 							{
-								"open": {
-									"minecraft:material_instances": {
-										"*": {
-											"texture": "crushing_table",
-											"render_method": "alpha_test"
-										}
-									},
-									"minecraft:geometry": "geometry.crushing_table",
-									"minecraft:entity_collision": {
-										"origin": [
-											-8,
-											0,
-											-8
-										],
-										"size": [
-											16,
-											16,
-											16
-										]
-									},
-									"minecraft:pick_collision": {
-										"origin": [
-											-8,
-											0,
-											-8
-										],
-										"size": [
-											16,
-											16,
-											16
-										]
-									},
-									"minecraft:destroy_time": 5,
-									"minecraft:friction": 0.6
-								},
 								"data": "geometry.crushing_table",
 								"key": "minecraft:geometry"
 							},
@@ -340,6 +276,15 @@
 							{
 								"data": "0.6",
 								"key": "minecraft:friction"
+							},
+							{
+								"key": "minecraft:on_interact",
+								"is_minified": true,
+								"children": {}
+							},
+							{
+								"data": "0.3",
+								"key": "minecraft:block_light_absorption"
 							}
 						]
 					}
