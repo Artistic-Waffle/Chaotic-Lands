@@ -1,4 +1,4 @@
-//bridge-file-version: #5
+//bridge-file-version: #6
 {
 	"resource_pack_name": "bridgeRP",
 	"texture_name": "atlas.terrain",
@@ -42,7 +42,7 @@
 			"textures": "textures/blocks/copper_block"
 		},
 		"copper_ore": {
-			"textures": "textures/blocks/cobalt_ore"
+			"textures": "textures/blocks/copper_ore"
 		},
 		"electrum_block": {
 			"textures": "textures/blocks/electrum_block"

@@ -523,6 +523,12 @@
 				"cc:copper_ingot"
 			],
 			"custom_commands": []
+		},
+		"BP/items/tin_plate.json": {
+			"identifiers": [
+				"cc:tin_plate"
+			],
+			"custom_commands": []
 		}
 	},
 	"sound_definition": {

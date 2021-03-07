@@ -226,6 +226,16 @@
 						}
 					}
 				}
+			},
+			"44addab6_754e_4d66_835d_3aee26929200": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
 			}
 		}
 	},
@@ -422,6 +432,9 @@
 		"data": {}
 	},
 	"BP/blocks/machines/liquid_tank.json": {
+		"data": {}
+	},
+	"BP/items/tin_plate.json": {
 		"data": {}
 	}
 }
