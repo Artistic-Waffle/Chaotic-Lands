@@ -1,4 +1,4 @@
-//bridge-file-version: #9
+//bridge-file-version: #10
 [
 	"textures/blocks/adamantite_block",
 	"textures/blocks/adamantite_ore",
@@ -41,6 +41,7 @@
 	"textures/items/amethyst_ingot",
 	"textures/items/black_steel_ingot",
 	"textures/items/brass_ingot",
+	"textures/items/bronze_ingot",
 	"textures/items/cobalt_ingot",
 	"textures/items/copper_ingot",
 	"textures/items/electrum_ingot",
@@ -56,6 +57,13 @@
 	"textures/items/uranium_ingot",
 	"textures/items/zinc_ingot",
 	"textures/blocks/crushing_table",
-	"textures/items/bronze_ingot",
+	"textures/blocks/liquid_tank",
+	"textures/items/aluminium_plate",
+	"textures/items/brass_plate",
+	"textures/items/bronze_plate",
+	"textures/items/copper_plate",
+	"textures/items/lead_plate",
+	"textures/items/tin_plate",
+	"textures/items/tungsten_plate",
 	{}
 ]

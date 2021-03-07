@@ -1,9 +1,9 @@
 {
-	"file_path": "C:\\Users\\heste\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\games\\com.mojang\\development_behavior_packs\\Chaotic Craft\\blocks\\machines\\crushing_table.json",
+	"file_path": "C:\\Users\\heste\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\games\\com.mojang\\development_behavior_packs\\Chaotic Craft\\blocks\\machines\\liquid_tank.json",
 	"file_type": "block",
 	"format_version": 1,
-	"file_uuid": "67db7844_f79f_4880_9559_1878bf1d18b7",
-	"file_version": 4,
+	"file_uuid": "bd367075_a7fd_4466_bf91_33191e0a76b9",
+	"file_version": 0,
 	"cache_content": {
 		"children": [
 			{
@@ -15,16 +15,16 @@
 					"format_version": "1.16.100",
 					"minecraft:block": {
 						"description": {
-							"identifier": "cc:crushing_table"
+							"identifier": "cc:liquid_tank"
 						},
 						"components": {
 							"minecraft:material_instances": {
 								"*": {
-									"texture": "crushing_table",
+									"texture": "liquid_tank",
 									"render_method": "alpha_test"
 								}
 							},
-							"minecraft:geometry": "geometry.crushing_table",
+							"minecraft:geometry": "geometry.liquid_tank",
 							"minecraft:entity_collision": {
 								"origin": [
 									-8,
@@ -60,16 +60,16 @@
 					{
 						"open": {
 							"description": {
-								"identifier": "cc:crushing_table"
+								"identifier": "cc:liquid_tank"
 							},
 							"components": {
 								"minecraft:material_instances": {
 									"*": {
-										"texture": "crushing_table",
+										"texture": "liquid_tank",
 										"render_method": "alpha_test"
 									}
 								},
-								"minecraft:geometry": "geometry.crushing_table",
+								"minecraft:geometry": "geometry.liquid_tank",
 								"minecraft:entity_collision": {
 									"origin": [
 										-8,
@@ -102,22 +102,22 @@
 						"key": "description",
 						"is_minified": true,
 						"children": {
-							"identifier": "cc:crushing_table"
+							"identifier": "cc:liquid_tank"
 						}
 					},
 					{
 						"open": {
 							"description": {
-								"identifier": "cc:crushing_table"
+								"identifier": "cc:liquid_tank"
 							},
 							"components": {
 								"minecraft:material_instances": {
 									"*": {
-										"texture": "crushing_table",
+										"texture": "liquid_tank",
 										"render_method": "alpha_test"
 									}
 								},
-								"minecraft:geometry": "geometry.crushing_table",
+								"minecraft:geometry": "geometry.liquid_tank",
 								"minecraft:entity_collision": {
 									"origin": [
 										-8,
@@ -150,33 +150,14 @@
 						"key": "components",
 						"children": [
 							{
-								"key": "minecraft:material_instances",
-								"children": [
-									{
-										"open": {
-											"*": {
-												"texture": "crushing_table",
-												"render_method": "alpha_test"
-											}
-										},
-										"key": "*",
-										"is_minified": true,
-										"children": {
-											"texture": "crushing_table",
-											"render_method": "alpha_test"
-										}
-									}
-								]
-							},
-							{
 								"open": {
 									"minecraft:material_instances": {
 										"*": {
-											"texture": "crushing_table",
+											"texture": "liquid_tank",
 											"render_method": "alpha_test"
 										}
 									},
-									"minecraft:geometry": "geometry.crushing_table",
+									"minecraft:geometry": "geometry.liquid_tank",
 									"minecraft:entity_collision": {
 										"origin": [
 											-8,
@@ -205,104 +186,133 @@
 									"minecraft:friction": 0.6,
 									"minecraft:block_light_absorption": 0.3
 								},
-								"data": "geometry.crushing_table",
+								"key": "minecraft:material_instances",
+								"children": [
+									{
+										"open": {
+											"*": {
+												"texture": "liquid_tank",
+												"render_method": "alpha_test"
+											}
+										},
+										"key": "*",
+										"is_minified": true,
+										"children": {
+											"texture": "liquid_tank",
+											"render_method": "alpha_test"
+										}
+									}
+								]
+							},
+							{
+								"open": {
+									"minecraft:material_instances": {
+										"*": {
+											"texture": "liquid_tank",
+											"render_method": "alpha_test"
+										}
+									},
+									"minecraft:geometry": "geometry.liquid_tank",
+									"minecraft:entity_collision": {
+										"origin": [
+											-8,
+											0,
+											-8
+										],
+										"size": [
+											16,
+											16,
+											16
+										]
+									},
+									"minecraft:pick_collision": {
+										"origin": [
+											-8,
+											0,
+											-8
+										],
+										"size": [
+											16,
+											16,
+											16
+										]
+									},
+									"minecraft:destroy_time": 5,
+									"minecraft:friction": 0.6,
+									"minecraft:block_light_absorption": 0.3
+								},
+								"data": "geometry.liquid_tank",
 								"key": "minecraft:geometry"
 							},
 							{
 								"key": "minecraft:entity_collision",
-								"children": [
-									{
-										"open": {
-											"origin": [
-												-8,
-												0,
-												-8
-											],
-											"size": [
-												16,
-												16,
-												16
-											]
-										},
-										"key": "origin",
-										"is_minified": true,
-										"children": [
-											-8,
-											0,
-											-8
-										]
-									},
-									{
-										"open": {
-											"origin": [
-												-8,
-												0,
-												-8
-											],
-											"size": [
-												16,
-												16,
-												16
-											]
-										},
-										"key": "size",
-										"is_minified": true,
-										"children": [
-											16,
-											16,
-											16
-										]
-									}
-								]
+								"is_minified": true,
+								"children": {
+									"origin": [
+										-8,
+										0,
+										-8
+									],
+									"size": [
+										16,
+										16,
+										16
+									]
+								}
 							},
 							{
 								"key": "minecraft:pick_collision",
-								"children": [
-									{
-										"open": {
-											"origin": [
-												-8,
-												0,
-												-8
-											],
-											"size": [
-												16,
-												16,
-												16
-											]
-										},
-										"key": "origin",
-										"is_minified": true,
-										"children": [
+								"is_minified": true,
+								"children": {
+									"origin": [
+										-8,
+										0,
+										-8
+									],
+									"size": [
+										16,
+										16,
+										16
+									]
+								}
+							},
+							{
+								"open": {
+									"minecraft:material_instances": {
+										"*": {
+											"texture": "liquid_tank",
+											"render_method": "alpha_test"
+										}
+									},
+									"minecraft:geometry": "geometry.liquid_tank",
+									"minecraft:entity_collision": {
+										"origin": [
 											-8,
 											0,
 											-8
-										]
-									},
-									{
-										"open": {
-											"origin": [
-												-8,
-												0,
-												-8
-											],
-											"size": [
-												16,
-												16,
-												16
-											]
-										},
-										"key": "size",
-										"is_minified": true,
-										"children": [
+										],
+										"size": [
 											16,
 											16,
 											16
 										]
-									}
-								]
-							},
-							{
+									},
+									"minecraft:pick_collision": {
+										"origin": [
+											-8,
+											0,
+											-8
+										],
+										"size": [
+											16,
+											16,
+											16
+										]
+									},
+									"minecraft:destroy_time": 5,
+									"minecraft:friction": 0.6,
+									"minecraft:block_light_absorption": 0.3
+								},
 								"data": "5",
 								"key": "minecraft:destroy_time"
 							},

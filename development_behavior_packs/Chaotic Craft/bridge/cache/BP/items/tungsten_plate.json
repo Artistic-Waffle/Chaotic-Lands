@@ -1,8 +1,8 @@
 {
-	"file_path": "C:\\Users\\heste\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\games\\com.mojang\\development_behavior_packs\\Chaotic Craft\\items\\copper_ingot.json",
+	"file_path": "C:\\Users\\heste\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\games\\com.mojang\\development_behavior_packs\\Chaotic Craft\\items\\tungsten_plate.json",
 	"file_type": "item",
 	"format_version": 1,
-	"file_uuid": "f1702be3_879e_48d5_9cd4_c773605dec21",
+	"file_uuid": "b9592e5f_eca1_45fe_a9a0_a3814397b0c2",
 	"file_version": 2,
 	"cache_content": {
 		"children": [
@@ -15,17 +15,19 @@
 					"format_version": "1.16.100",
 					"minecraft:item": {
 						"description": {
-							"identifier": "cc:copper_ingot",
+							"identifier": "cc:tungsten_plate",
 							"category": "items"
 						},
 						"components": {
 							"minecraft:icon": {
-								"texture": "copper_plate"
+								"texture": "tungsten_plate"
 							},
 							"minecraft:max_stack_size": 64,
 							"minecraft:should_despawn": true,
 							"minecraft:hand_equipped": false,
-							"minecraft:display_name": {}
+							"minecraft:display_name": {
+								"value": "Tungsten Plate"
+							}
 						},
 						"events": {}
 					}
@@ -35,51 +37,66 @@
 					{
 						"open": {
 							"description": {
-								"identifier": "cc:copper_ingot",
+								"identifier": "cc:tungsten_plate",
 								"category": "items"
 							},
 							"components": {
 								"minecraft:icon": {
-									"texture": "copper_plate"
+									"texture": "tungsten_plate"
 								},
 								"minecraft:max_stack_size": 64,
 								"minecraft:should_despawn": true,
 								"minecraft:hand_equipped": false,
-								"minecraft:display_name": {}
+								"minecraft:display_name": {
+									"value": "Tungsten Plate"
+								}
 							},
 							"events": {}
 						},
 						"key": "description",
 						"is_minified": true,
 						"children": {
-							"identifier": "cc:copper_ingot",
+							"identifier": "cc:tungsten_plate",
 							"category": "items"
 						}
 					},
 					{
 						"open": {
 							"description": {
-								"identifier": "cc:copper_ingot",
+								"identifier": "cc:tungsten_plate",
 								"category": "items"
 							},
 							"components": {
 								"minecraft:icon": {
-									"texture": "copper_plate"
+									"texture": "tungsten_plate"
 								},
 								"minecraft:max_stack_size": 64,
 								"minecraft:should_despawn": true,
 								"minecraft:hand_equipped": false,
-								"minecraft:display_name": {}
+								"minecraft:display_name": {
+									"value": "Tungsten Plate"
+								}
 							},
 							"events": {}
 						},
 						"key": "components",
 						"children": [
 							{
+								"open": {
+									"minecraft:icon": {
+										"texture": "tungsten_plate"
+									},
+									"minecraft:max_stack_size": 64,
+									"minecraft:should_despawn": true,
+									"minecraft:hand_equipped": false,
+									"minecraft:display_name": {
+										"value": "Tungsten Plate"
+									}
+								},
 								"key": "minecraft:icon",
 								"is_minified": true,
 								"children": {
-									"texture": "copper_plate"
+									"texture": "tungsten_plate"
 								}
 							},
 							{
@@ -95,15 +112,22 @@
 								"key": "minecraft:hand_equipped"
 							},
 							{
-								"key": "minecraft:display_name",
-								"children": [
-									{
-										"open": {},
-										"data": "Copper Ingot",
-										"key": "value",
-										"is_active": false
+								"open": {
+									"minecraft:icon": {
+										"texture": "tungsten_plate"
+									},
+									"minecraft:max_stack_size": 64,
+									"minecraft:should_despawn": true,
+									"minecraft:hand_equipped": false,
+									"minecraft:display_name": {
+										"value": "Tungsten Plate"
 									}
-								]
+								},
+								"key": "minecraft:display_name",
+								"is_minified": true,
+								"children": {
+									"value": "Tungsten Plate"
+								}
 							}
 						]
 					},

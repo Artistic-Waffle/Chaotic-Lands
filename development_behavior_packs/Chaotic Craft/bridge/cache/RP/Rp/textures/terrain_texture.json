@@ -2,8 +2,8 @@
 	"file_path": "C:\\Users\\heste\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\games\\com.mojang\\development_resource_packs\\Chaotic Craft Rp\\textures\\terrain_texture.json",
 	"file_type": "terrain_texture",
 	"format_version": 1,
-	"file_uuid": "0555fbdc_2c51_4b05_83b1_eca2a1dc89ae",
-	"file_version": 1,
+	"file_uuid": "63a16a17_1c45_43de_8de0_7af66a729bf9",
+	"file_version": 5,
 	"cache_content": {
 		"children": [
 			{
@@ -19,79 +19,6 @@
 				"key": "padding"
 			},
 			{
-				"open": {
-					"resource_pack_name": "bridgeRP",
-					"texture_name": "atlas.terrain",
-					"padding": 8,
-					"num_mip_levels": 4,
-					"texture_data": {
-						"crushing_table": {
-							"textures": "textures/blocks/crushing_table"
-						},
-						"adamantite_block": {
-							"textures": [
-								"textures/blocks/adamantite_block"
-							]
-						},
-						"adamantite_ore": {
-							"textures": [
-								"textures/blocks/adamantite_ore"
-							]
-						},
-						"aluminum_block": {
-							"textures": [
-								"textures/blocks/aluminum_block"
-							]
-						},
-						"aluminum_ore": {
-							"textures": [
-								"textures/blocks/aluminum_ore"
-							]
-						},
-						"amethyst_block": {
-							"textures": [
-								"textures/blocks/amethyst_block"
-							]
-						},
-						"amethyst_ore": {
-							"textures": [
-								"textures/blocks/amethyst_ore"
-							]
-						},
-						"black_steel_block": {},
-						"brass_block": {},
-						"bronze_block": {},
-						"cobalt_block": {},
-						"cobalt_ore": {},
-						"copper_block": {},
-						"copper_ore": {},
-						"electrum_block": {},
-						"electrum_ore": {},
-						"lead_block": {},
-						"lead_ore": {},
-						"mythril_block": {},
-						"mythril_ore": {},
-						"nickel_block": {},
-						"nickel_ore": {},
-						"platinum_block": {},
-						"platinum_ore": {},
-						"silver_block": {},
-						"silver_ore": {},
-						"steel_block": {},
-						"tin_block": {},
-						"tin_ore": {},
-						"titanium_block": {},
-						"titanium_ore": {},
-						"tungsten_block": {},
-						"tungsten_ore": {
-							"textures": {}
-						},
-						"uranium_block": {},
-						"uranium_ore": {},
-						"zinc_block": {},
-						"zinc_ore": {}
-					}
-				},
 				"data": "4",
 				"key": "num_mip_levels"
 			},
@@ -102,75 +29,376 @@
 					"padding": 8,
 					"num_mip_levels": 4,
 					"texture_data": {
+						"adamantite_block": {
+							"textures": "textures/blocks/adamantite_block"
+						},
+						"adamantite_ore": {
+							"textures": "textures/blocks/adamantite_ore"
+						},
+						"aluminum_block": {
+							"textures": "textures/blocks/aluminum_block"
+						},
+						"aluminum_ore": {
+							"textures": "textures/blocks/aluminum_ore"
+						},
+						"amethyst_block": {
+							"textures": "textures/blocks/amethyst_block"
+						},
+						"amethyst_ore": {
+							"textures": "textures/blocks/amethyst_ore"
+						},
+						"black_steel_block": {
+							"textures": "textures/blocks/black_steel_block"
+						},
+						"brass_block": {
+							"textures": "textures/blocks/brass_block"
+						},
+						"bronze_block": {
+							"textures": "textures/blocks/bronze_block"
+						},
+						"cobalt_block": {
+							"textures": "textures/blocks/cobalt_block"
+						},
+						"cobalt_ore": {
+							"textures": "textures/blocks/cobalt_ore"
+						},
+						"copper_block": {
+							"textures": "textures/blocks/copper_block"
+						},
+						"copper_ore": {
+							"textures": "textures/blocks/cobalt_ore"
+						},
+						"electrum_block": {
+							"textures": "textures/blocks/electrum_block"
+						},
+						"electrum_ore": {
+							"textures": "textures/blocks/electrum_ore"
+						},
+						"lead_block": {
+							"textures": "textures/blocks/lead_block"
+						},
+						"lead_ore": {
+							"textures": "textures/blocks/lead_ore"
+						},
+						"mythril_block": {
+							"textures": "textures/blocks/mythril_block"
+						},
+						"mythril_ore": {
+							"textures": "textures/blocks/mythril_ore"
+						},
+						"nickel_block": {
+							"textures": "textures/blocks/nickel_block"
+						},
+						"nickel_ore": {
+							"textures": "textures/blocks/nickel_ore"
+						},
+						"platinum_block": {
+							"textures": "textures/blocks/platinum_block"
+						},
+						"platinum_ore": {
+							"textures": "textures/blocks/platinum_ore"
+						},
+						"silver_block": {
+							"textures": "textures/blocks/silver_block"
+						},
+						"silver_ore": {
+							"textures": "textures/blocks/silver_ore"
+						},
+						"steel_block": {
+							"textures": "textures/blocks/steel_block"
+						},
+						"tin_block": {
+							"textures": "textures/blocks/tin_block"
+						},
+						"tin_ore": {
+							"textures": "textures/blocks/tin_ore"
+						},
+						"titanium_block": {
+							"textures": "textures/blocks/titanium_block"
+						},
+						"titanium_ore": {
+							"textures": "textures/blocks/titanium_ore"
+						},
+						"tungsten_block": {
+							"textures": "textures/blocks/tungsten_block"
+						},
+						"tungsten_ore": {
+							"textures": "textures/blocks/tungsten_ore"
+						},
+						"uranium_block": {
+							"textures": "textures/blocks/uranium_block"
+						},
+						"uranium_ore": {
+							"textures": "textures/blocks/uranium_ore"
+						},
+						"zinc_block": {
+							"textures": "textures/blocks/zinc_block"
+						},
+						"zinc_ore": {
+							"textures": "textures/blocks/zinc_ore"
+						},
 						"crushing_table": {
 							"textures": "textures/blocks/crushing_table"
 						},
-						"adamantite_block": {
-							"textures": [
-								"textures/blocks/adamantite_block"
-							]
-						},
-						"adamantite_ore": {
-							"textures": [
-								"textures/blocks/adamantite_ore"
-							]
-						},
-						"aluminum_block": {
-							"textures": [
-								"textures/blocks/aluminum_block"
-							]
-						},
-						"aluminum_ore": {
-							"textures": [
-								"textures/blocks/aluminum_ore"
-							]
-						},
-						"amethyst_block": {
-							"textures": [
-								"textures/blocks/amethyst_block"
-							]
-						},
-						"amethyst_ore": {
-							"textures": [
-								"textures/blocks/amethyst_ore"
-							]
-						},
-						"black_steel_block": {},
-						"brass_block": {},
-						"bronze_block": {},
-						"cobalt_block": {},
-						"cobalt_ore": {},
-						"copper_block": {},
-						"copper_ore": {},
-						"electrum_block": {},
-						"electrum_ore": {},
-						"lead_block": {},
-						"lead_ore": {},
-						"mythril_block": {},
-						"mythril_ore": {},
-						"nickel_block": {},
-						"nickel_ore": {},
-						"platinum_block": {},
-						"platinum_ore": {},
-						"silver_block": {},
-						"silver_ore": {},
-						"steel_block": {},
-						"tin_block": {},
-						"tin_ore": {},
-						"titanium_block": {},
-						"titanium_ore": {},
-						"tungsten_block": {},
-						"tungsten_ore": {
-							"textures": {}
-						},
-						"uranium_block": {},
-						"uranium_ore": {},
-						"zinc_block": {},
-						"zinc_ore": {}
+						"liquid_tank": {
+							"textures": "textures/blocks/liquid_tank"
+						}
 					}
 				},
 				"key": "texture_data",
 				"children": [
+					{
+						"key": "adamantite_block",
+						"is_minified": true,
+						"children": {
+							"textures": "textures/blocks/adamantite_block"
+						}
+					},
+					{
+						"key": "adamantite_ore",
+						"is_minified": true,
+						"children": {
+							"textures": "textures/blocks/adamantite_ore"
+						}
+					},
+					{
+						"key": "aluminum_block",
+						"is_minified": true,
+						"children": {
+							"textures": "textures/blocks/aluminum_block"
+						}
+					},
+					{
+						"key": "aluminum_ore",
+						"is_minified": true,
+						"children": {
+							"textures": "textures/blocks/aluminum_ore"
+						}
+					},
+					{
+						"key": "amethyst_block",
+						"is_minified": true,
+						"children": {
+							"textures": "textures/blocks/amethyst_block"
+						}
+					},
+					{
+						"key": "amethyst_ore",
+						"is_minified": true,
+						"children": {
+							"textures": "textures/blocks/amethyst_ore"
+						}
+					},
+					{
+						"key": "black_steel_block",
+						"is_minified": true,
+						"children": {
+							"textures": "textures/blocks/black_steel_block"
+						}
+					},
+					{
+						"key": "brass_block",
+						"is_minified": true,
+						"children": {
+							"textures": "textures/blocks/brass_block"
+						}
+					},
+					{
+						"key": "bronze_block",
+						"is_minified": true,
+						"children": {
+							"textures": "textures/blocks/bronze_block"
+						}
+					},
+					{
+						"key": "cobalt_block",
+						"is_minified": true,
+						"children": {
+							"textures": "textures/blocks/cobalt_block"
+						}
+					},
+					{
+						"key": "cobalt_ore",
+						"is_minified": true,
+						"children": {
+							"textures": "textures/blocks/cobalt_ore"
+						}
+					},
+					{
+						"key": "copper_block",
+						"is_minified": true,
+						"children": {
+							"textures": "textures/blocks/copper_block"
+						}
+					},
+					{
+						"key": "copper_ore",
+						"is_minified": true,
+						"children": {
+							"textures": "textures/blocks/cobalt_ore"
+						}
+					},
+					{
+						"key": "electrum_block",
+						"is_minified": true,
+						"children": {
+							"textures": "textures/blocks/electrum_block"
+						}
+					},
+					{
+						"key": "electrum_ore",
+						"is_minified": true,
+						"children": {
+							"textures": "textures/blocks/electrum_ore"
+						}
+					},
+					{
+						"key": "lead_block",
+						"is_minified": true,
+						"children": {
+							"textures": "textures/blocks/lead_block"
+						}
+					},
+					{
+						"key": "lead_ore",
+						"is_minified": true,
+						"children": {
+							"textures": "textures/blocks/lead_ore"
+						}
+					},
+					{
+						"key": "mythril_block",
+						"is_minified": true,
+						"children": {
+							"textures": "textures/blocks/mythril_block"
+						}
+					},
+					{
+						"key": "mythril_ore",
+						"is_minified": true,
+						"children": {
+							"textures": "textures/blocks/mythril_ore"
+						}
+					},
+					{
+						"key": "nickel_block",
+						"is_minified": true,
+						"children": {
+							"textures": "textures/blocks/nickel_block"
+						}
+					},
+					{
+						"key": "nickel_ore",
+						"is_minified": true,
+						"children": {
+							"textures": "textures/blocks/nickel_ore"
+						}
+					},
+					{
+						"key": "platinum_block",
+						"is_minified": true,
+						"children": {
+							"textures": "textures/blocks/platinum_block"
+						}
+					},
+					{
+						"key": "platinum_ore",
+						"is_minified": true,
+						"children": {
+							"textures": "textures/blocks/platinum_ore"
+						}
+					},
+					{
+						"key": "silver_block",
+						"is_minified": true,
+						"children": {
+							"textures": "textures/blocks/silver_block"
+						}
+					},
+					{
+						"key": "silver_ore",
+						"is_minified": true,
+						"children": {
+							"textures": "textures/blocks/silver_ore"
+						}
+					},
+					{
+						"key": "steel_block",
+						"is_minified": true,
+						"children": {
+							"textures": "textures/blocks/steel_block"
+						}
+					},
+					{
+						"key": "tin_block",
+						"is_minified": true,
+						"children": {
+							"textures": "textures/blocks/tin_block"
+						}
+					},
+					{
+						"key": "tin_ore",
+						"is_minified": true,
+						"children": {
+							"textures": "textures/blocks/tin_ore"
+						}
+					},
+					{
+						"key": "titanium_block",
+						"is_minified": true,
+						"children": {
+							"textures": "textures/blocks/titanium_block"
+						}
+					},
+					{
+						"key": "titanium_ore",
+						"is_minified": true,
+						"children": {
+							"textures": "textures/blocks/titanium_ore"
+						}
+					},
+					{
+						"key": "tungsten_block",
+						"is_minified": true,
+						"children": {
+							"textures": "textures/blocks/tungsten_block"
+						}
+					},
+					{
+						"key": "tungsten_ore",
+						"is_minified": true,
+						"children": {
+							"textures": "textures/blocks/tungsten_ore"
+						}
+					},
+					{
+						"key": "uranium_block",
+						"is_minified": true,
+						"children": {
+							"textures": "textures/blocks/uranium_block"
+						}
+					},
+					{
+						"key": "uranium_ore",
+						"is_minified": true,
+						"children": {
+							"textures": "textures/blocks/uranium_ore"
+						}
+					},
+					{
+						"key": "zinc_block",
+						"is_minified": true,
+						"children": {
+							"textures": "textures/blocks/zinc_block"
+						}
+					},
+					{
+						"key": "zinc_ore",
+						"is_minified": true,
+						"children": {
+							"textures": "textures/blocks/zinc_ore"
+						}
+					},
 					{
 						"key": "crushing_table",
 						"is_minified": true,
@@ -179,392 +407,127 @@
 						}
 					},
 					{
-						"key": "adamantite_block",
-						"children": [
-							{
-								"open": {
-									"textures": [
-										"textures/blocks/adamantite_block"
-									]
-								},
-								"key": "textures",
-								"is_minified": true,
-								"children": [
-									"textures/blocks/adamantite_block"
-								]
-							}
-						]
-					},
-					{
-						"key": "adamantite_ore",
-						"children": [
-							{
-								"open": {
-									"textures": [
-										"textures/blocks/adamantite_ore"
-									]
-								},
-								"key": "textures",
-								"is_minified": true,
-								"children": [
-									"textures/blocks/adamantite_ore"
-								]
-							}
-						]
-					},
-					{
-						"key": "aluminum_block",
-						"children": [
-							{
-								"open": {
-									"textures": [
-										"textures/blocks/aluminum_block"
-									]
-								},
-								"key": "textures",
-								"is_minified": true,
-								"children": [
-									"textures/blocks/aluminum_block"
-								]
-							}
-						]
-					},
-					{
-						"key": "aluminum_ore",
-						"children": [
-							{
-								"open": {
-									"textures": [
-										"textures/blocks/aluminum_ore"
-									]
-								},
-								"key": "textures",
-								"is_minified": true,
-								"children": [
-									"textures/blocks/aluminum_ore"
-								]
-							}
-						]
-					},
-					{
-						"key": "amethyst_block",
-						"children": [
-							{
-								"open": {
-									"textures": [
-										"textures/blocks/amethyst_block"
-									]
-								},
-								"key": "textures",
-								"is_minified": true,
-								"children": [
-									"textures/blocks/amethyst_block"
-								]
-							}
-						]
-					},
-					{
-						"key": "amethyst_ore",
-						"children": [
-							{
-								"open": {
-									"textures": [
-										"textures/blocks/amethyst_ore"
-									]
-								},
-								"key": "textures",
-								"is_minified": true,
-								"children": [
-									"textures/blocks/amethyst_ore"
-								]
-							}
-						]
-					},
-					{
 						"open": {
+							"adamantite_block": {
+								"textures": "textures/blocks/adamantite_block"
+							},
+							"adamantite_ore": {
+								"textures": "textures/blocks/adamantite_ore"
+							},
+							"aluminum_block": {
+								"textures": "textures/blocks/aluminum_block"
+							},
+							"aluminum_ore": {
+								"textures": "textures/blocks/aluminum_ore"
+							},
+							"amethyst_block": {
+								"textures": "textures/blocks/amethyst_block"
+							},
+							"amethyst_ore": {
+								"textures": "textures/blocks/amethyst_ore"
+							},
+							"black_steel_block": {
+								"textures": "textures/blocks/black_steel_block"
+							},
+							"brass_block": {
+								"textures": "textures/blocks/brass_block"
+							},
+							"bronze_block": {
+								"textures": "textures/blocks/bronze_block"
+							},
+							"cobalt_block": {
+								"textures": "textures/blocks/cobalt_block"
+							},
+							"cobalt_ore": {
+								"textures": "textures/blocks/cobalt_ore"
+							},
+							"copper_block": {
+								"textures": "textures/blocks/copper_block"
+							},
+							"copper_ore": {
+								"textures": "textures/blocks/cobalt_ore"
+							},
+							"electrum_block": {
+								"textures": "textures/blocks/electrum_block"
+							},
+							"electrum_ore": {
+								"textures": "textures/blocks/electrum_ore"
+							},
+							"lead_block": {
+								"textures": "textures/blocks/lead_block"
+							},
+							"lead_ore": {
+								"textures": "textures/blocks/lead_ore"
+							},
+							"mythril_block": {
+								"textures": "textures/blocks/mythril_block"
+							},
+							"mythril_ore": {
+								"textures": "textures/blocks/mythril_ore"
+							},
+							"nickel_block": {
+								"textures": "textures/blocks/nickel_block"
+							},
+							"nickel_ore": {
+								"textures": "textures/blocks/nickel_ore"
+							},
+							"platinum_block": {
+								"textures": "textures/blocks/platinum_block"
+							},
+							"platinum_ore": {
+								"textures": "textures/blocks/platinum_ore"
+							},
+							"silver_block": {
+								"textures": "textures/blocks/silver_block"
+							},
+							"silver_ore": {
+								"textures": "textures/blocks/silver_ore"
+							},
+							"steel_block": {
+								"textures": "textures/blocks/steel_block"
+							},
+							"tin_block": {
+								"textures": "textures/blocks/tin_block"
+							},
+							"tin_ore": {
+								"textures": "textures/blocks/tin_ore"
+							},
+							"titanium_block": {
+								"textures": "textures/blocks/titanium_block"
+							},
+							"titanium_ore": {
+								"textures": "textures/blocks/titanium_ore"
+							},
+							"tungsten_block": {
+								"textures": "textures/blocks/tungsten_block"
+							},
+							"tungsten_ore": {
+								"textures": "textures/blocks/tungsten_ore"
+							},
+							"uranium_block": {
+								"textures": "textures/blocks/uranium_block"
+							},
+							"uranium_ore": {
+								"textures": "textures/blocks/uranium_ore"
+							},
+							"zinc_block": {
+								"textures": "textures/blocks/zinc_block"
+							},
+							"zinc_ore": {
+								"textures": "textures/blocks/zinc_ore"
+							},
 							"crushing_table": {
 								"textures": "textures/blocks/crushing_table"
 							},
-							"adamantite_block": {
-								"textures": [
-									"textures/blocks/adamantite_block"
-								]
-							},
-							"adamantite_ore": {
-								"textures": [
-									"textures/blocks/adamantite_ore"
-								]
-							},
-							"aluminum_block": {
-								"textures": [
-									"textures/blocks/aluminum_block"
-								]
-							},
-							"aluminum_ore": {
-								"textures": [
-									"textures/blocks/aluminum_ore"
-								]
-							},
-							"amethyst_block": {
-								"textures": [
-									"textures/blocks/amethyst_block"
-								]
-							},
-							"amethyst_ore": {
-								"textures": [
-									"textures/blocks/amethyst_ore"
-								]
-							},
-							"black_steel_block": {},
-							"brass_block": {},
-							"bronze_block": {},
-							"cobalt_block": {},
-							"cobalt_ore": {},
-							"copper_block": {},
-							"copper_ore": {},
-							"electrum_block": {},
-							"electrum_ore": {},
-							"lead_block": {},
-							"lead_ore": {},
-							"mythril_block": {},
-							"mythril_ore": {},
-							"nickel_block": {},
-							"nickel_ore": {},
-							"platinum_block": {},
-							"platinum_ore": {},
-							"silver_block": {},
-							"silver_ore": {},
-							"steel_block": {},
-							"tin_block": {},
-							"tin_ore": {},
-							"titanium_block": {},
-							"titanium_ore": {},
-							"tungsten_block": {},
-							"tungsten_ore": {
-								"textures": {}
-							},
-							"uranium_block": {},
-							"uranium_ore": {},
-							"zinc_block": {},
-							"zinc_ore": {}
+							"liquid_tank": {
+								"textures": "textures/blocks/liquid_tank"
+							}
 						},
-						"key": "black_steel_block",
-						"is_minified": true,
-						"children": {}
-					},
-					{
-						"key": "brass_block",
-						"is_minified": true,
-						"children": {}
-					},
-					{
-						"key": "bronze_block",
-						"is_minified": true,
-						"children": {}
-					},
-					{
-						"key": "cobalt_block",
-						"is_minified": true,
-						"children": {}
-					},
-					{
-						"key": "cobalt_ore",
-						"is_minified": true,
-						"children": {}
-					},
-					{
-						"key": "copper_block",
-						"is_minified": true,
-						"children": {}
-					},
-					{
-						"key": "copper_ore",
-						"is_minified": true,
-						"children": {}
-					},
-					{
-						"key": "electrum_block",
-						"is_minified": true,
-						"children": {}
-					},
-					{
-						"key": "electrum_ore",
-						"is_minified": true,
-						"children": {}
-					},
-					{
-						"key": "lead_block",
-						"is_minified": true,
-						"children": {}
-					},
-					{
-						"key": "lead_ore",
-						"is_minified": true,
-						"children": {}
-					},
-					{
-						"key": "mythril_block",
-						"is_minified": true,
-						"children": {}
-					},
-					{
-						"key": "mythril_ore",
-						"is_minified": true,
-						"children": {}
-					},
-					{
-						"key": "nickel_block",
-						"is_minified": true,
-						"children": {}
-					},
-					{
-						"key": "nickel_ore",
-						"is_minified": true,
-						"children": {}
-					},
-					{
-						"key": "platinum_block",
-						"is_minified": true,
-						"children": {}
-					},
-					{
-						"key": "platinum_ore",
-						"is_minified": true,
-						"children": {}
-					},
-					{
-						"key": "silver_block",
-						"is_minified": true,
-						"children": {}
-					},
-					{
-						"key": "silver_ore",
-						"is_minified": true,
-						"children": {}
-					},
-					{
-						"key": "steel_block",
-						"is_minified": true,
-						"children": {}
-					},
-					{
-						"key": "tin_block",
-						"is_minified": true,
-						"children": {}
-					},
-					{
-						"key": "tin_ore",
-						"is_minified": true,
-						"children": {}
-					},
-					{
-						"key": "titanium_block",
-						"is_minified": true,
-						"children": {}
-					},
-					{
-						"key": "titanium_ore",
-						"is_minified": true,
-						"children": {}
-					},
-					{
-						"key": "tungsten_block",
-						"is_minified": true,
-						"children": {}
-					},
-					{
-						"open": {
-							"crushing_table": {
-								"textures": "textures/blocks/crushing_table"
-							},
-							"adamantite_block": {
-								"textures": [
-									"textures/blocks/adamantite_block"
-								]
-							},
-							"adamantite_ore": {
-								"textures": [
-									"textures/blocks/adamantite_ore"
-								]
-							},
-							"aluminum_block": {
-								"textures": [
-									"textures/blocks/aluminum_block"
-								]
-							},
-							"aluminum_ore": {
-								"textures": [
-									"textures/blocks/aluminum_ore"
-								]
-							},
-							"amethyst_block": {
-								"textures": [
-									"textures/blocks/amethyst_block"
-								]
-							},
-							"amethyst_ore": {
-								"textures": [
-									"textures/blocks/amethyst_ore"
-								]
-							},
-							"black_steel_block": {},
-							"brass_block": {},
-							"bronze_block": {},
-							"cobalt_block": {},
-							"cobalt_ore": {},
-							"copper_block": {},
-							"copper_ore": {},
-							"electrum_block": {},
-							"electrum_ore": {},
-							"lead_block": {},
-							"lead_ore": {},
-							"mythril_block": {},
-							"mythril_ore": {},
-							"nickel_block": {},
-							"nickel_ore": {},
-							"platinum_block": {},
-							"platinum_ore": {},
-							"silver_block": {},
-							"silver_ore": {},
-							"steel_block": {},
-							"tin_block": {},
-							"tin_ore": {},
-							"titanium_block": {},
-							"titanium_ore": {},
-							"tungsten_block": {},
-							"tungsten_ore": {
-								"textures": {}
-							},
-							"uranium_block": {},
-							"uranium_ore": {},
-							"zinc_block": {},
-							"zinc_ore": {}
-						},
-						"key": "tungsten_ore",
+						"key": "liquid_tank",
 						"is_minified": true,
 						"children": {
-							"textures": {}
+							"textures": "textures/blocks/liquid_tank"
 						}
-					},
-					{
-						"key": "uranium_block",
-						"is_minified": true,
-						"children": {}
-					},
-					{
-						"key": "uranium_ore",
-						"is_minified": true,
-						"children": {}
-					},
-					{
-						"key": "zinc_block",
-						"is_minified": true,
-						"children": {}
-					},
-					{
-						"key": "zinc_ore",
-						"is_minified": true,
-						"children": {}
 					}
 				]
 			}

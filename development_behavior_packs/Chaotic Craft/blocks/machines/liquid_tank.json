@@ -1,18 +1,18 @@
-//bridge-file-version: #4
+//bridge-file-version: #0
 {
 	"format_version": "1.16.100",
 	"minecraft:block": {
 		"description": {
-			"identifier": "cc:crushing_table"
+			"identifier": "cc:liquid_tank"
 		},
 		"components": {
 			"minecraft:material_instances": {
 				"*": {
-					"texture": "crushing_table",
+					"texture": "liquid_tank",
 					"render_method": "alpha_test"
 				}
 			},
-			"minecraft:geometry": "geometry.crushing_table",
+			"minecraft:geometry": "geometry.liquid_tank",
 			"minecraft:entity_collision": {
 				"origin": [
 					-8,

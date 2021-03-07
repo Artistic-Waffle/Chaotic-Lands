@@ -340,6 +340,24 @@
 			"recipe_tags": [],
 			"custom_commands": [],
 			"custom_components": []
+		},
+		"BP/blocks/machines/liquid_tank.json": {
+			"identifiers": [
+				"cc:liquid_tank"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
+		},
+		"BP/blocks/liquid_tank.json": {
+			"identifiers": [
+				"cc:liquid_tank"
+			],
+			"events": [],
+			"recipe_tags": [],
+			"custom_commands": [],
+			"custom_components": []
 		}
 	},
 	"entity": {
@@ -401,12 +419,6 @@
 		"BP/items/cobalt_ingot.json": {
 			"identifiers": [
 				"cc:cobalt_ingot"
-			],
-			"custom_commands": []
-		},
-		"BP/items/copper_ingot.json": {
-			"identifiers": [
-				"cc::copper_ingot"
 			],
 			"custom_commands": []
 		},
@@ -497,6 +509,18 @@
 		"BP/items/aluminum_plate.json": {
 			"identifiers": [
 				"cc:aluminum_plate"
+			],
+			"custom_commands": []
+		},
+		"BP/items/tungsten_plate.json": {
+			"identifiers": [
+				"cc:tungsten_plate"
+			],
+			"custom_commands": []
+		},
+		"BP/items/copper_ingot.json": {
+			"identifiers": [
+				"cc:copper_ingot"
 			],
 			"custom_commands": []
 		}

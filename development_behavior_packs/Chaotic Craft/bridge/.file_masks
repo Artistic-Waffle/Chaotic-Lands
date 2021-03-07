@@ -7,16 +7,6 @@
 	},
 	"BP/animation_controllers/bridge/custom_item_behavior.json": {
 		"data": {
-			"e1b21fa7_227c_4cdc_940c_f578f9c28cd7": {
-				"format_version": "1.10.0",
-				"animation_controllers": {
-					"controller.animation.bridge_custom_item_behavior": {
-						"states": {
-							"default": {}
-						}
-					}
-				}
-			},
 			"39abbcbe_38bc_4e96_a252_077e3ba94048": {
 				"format_version": "1.10.0",
 				"animation_controllers": {
@@ -216,6 +206,26 @@
 						}
 					}
 				}
+			},
+			"b9592e5f_eca1_45fe_a9a0_a3814397b0c2": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
+			},
+			"f1702be3_879e_48d5_9cd4_c773605dec21": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
 			}
 		}
 	},
@@ -223,9 +233,6 @@
 		"data": {}
 	},
 	"RP/ Rp/textures/textures_list.json": {
-		"data": {}
-	},
-	"BP/items/copper_ingot.json": {
 		"data": {}
 	},
 	"BP/items/adamantite_ingot.json": {
@@ -403,6 +410,18 @@
 		"data": {}
 	},
 	"BP/items/aluminum_plate.json": {
+		"data": {}
+	},
+	"BP/items/tungsten_plate.json": {
+		"data": {}
+	},
+	"BP/blocks/liquid_tank.json": {
+		"data": {}
+	},
+	"BP/items/copper_ingot.json": {
+		"data": {}
+	},
+	"BP/blocks/machines/liquid_tank.json": {
 		"data": {}
 	}
 }

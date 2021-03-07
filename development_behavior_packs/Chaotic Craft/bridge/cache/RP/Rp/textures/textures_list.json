@@ -3,7 +3,7 @@
 	"file_type": "textures_list",
 	"format_version": 1,
 	"file_uuid": "4916aa9e_1a14_4dab_b343_8a52200f2d67",
-	"file_version": 9,
+	"file_version": 10,
 	"cache_content": {
 		"is_minified": true,
 		"children": [
@@ -48,6 +48,7 @@
 			"textures/items/amethyst_ingot",
 			"textures/items/black_steel_ingot",
 			"textures/items/brass_ingot",
+			"textures/items/bronze_ingot",
 			"textures/items/cobalt_ingot",
 			"textures/items/copper_ingot",
 			"textures/items/electrum_ingot",
@@ -63,7 +64,14 @@
 			"textures/items/uranium_ingot",
 			"textures/items/zinc_ingot",
 			"textures/blocks/crushing_table",
-			"textures/items/bronze_ingot"
+			"textures/blocks/liquid_tank",
+			"textures/items/aluminium_plate",
+			"textures/items/brass_plate",
+			"textures/items/bronze_plate",
+			"textures/items/copper_plate",
+			"textures/items/lead_plate",
+			"textures/items/tin_plate",
+			"textures/items/tungsten_plate"
 		]
 	}
 }
