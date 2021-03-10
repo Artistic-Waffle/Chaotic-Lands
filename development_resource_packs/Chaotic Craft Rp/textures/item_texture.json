@@ -1,4 +1,4 @@
-//bridge-file-version: #12
+//bridge-file-version: #14
 {
 	"resource_pack_name": "bridgeRP",
 	"texture_name": "atlas.items",
@@ -81,8 +81,11 @@
 		"tin_plate": {
 			"textures": "textures/items/tin_plate"
 		},
-		"tungsten": {
+		"tungsten_plate": {
 			"textures": "textures/items/tungsten_plate"
+		},
+		"hammer": {
+			"textures": "textures/items/hammer"
 		}
 	}
 }

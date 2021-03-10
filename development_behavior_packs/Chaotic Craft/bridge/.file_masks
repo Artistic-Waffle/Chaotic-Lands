@@ -236,6 +236,16 @@
 						}
 					}
 				}
+			},
+			"f020026e_f950_4147_bf6e_fba721fe65e5": {
+				"format_version": "1.10.0",
+				"animation_controllers": {
+					"controller.animation.bridge_custom_item_behavior": {
+						"states": {
+							"default": {}
+						}
+					}
+				}
 			}
 		}
 	},
@@ -425,9 +435,6 @@
 	"BP/items/tungsten_plate.json": {
 		"data": {}
 	},
-	"BP/blocks/liquid_tank.json": {
-		"data": {}
-	},
 	"BP/items/copper_ingot.json": {
 		"data": {}
 	},
@@ -435,6 +442,9 @@
 		"data": {}
 	},
 	"BP/items/tin_plate.json": {
+		"data": {}
+	},
+	"BP/items/hammer.json": {
 		"data": {}
 	}
 }

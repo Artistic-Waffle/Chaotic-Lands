@@ -349,15 +349,6 @@
 			"recipe_tags": [],
 			"custom_commands": [],
 			"custom_components": []
-		},
-		"BP/blocks/liquid_tank.json": {
-			"identifiers": [
-				"cc:liquid_tank"
-			],
-			"events": [],
-			"recipe_tags": [],
-			"custom_commands": [],
-			"custom_components": []
 		}
 	},
 	"entity": {
@@ -527,6 +518,12 @@
 		"BP/items/tin_plate.json": {
 			"identifiers": [
 				"cc:tin_plate"
+			],
+			"custom_commands": []
+		},
+		"BP/items/hammer.json": {
+			"identifiers": [
+				"cc:hammer"
 			],
 			"custom_commands": []
 		}
