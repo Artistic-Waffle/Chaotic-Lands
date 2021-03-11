@@ -1,4 +1,4 @@
-//bridge-file-version: #6
+//bridge-file-version: #7
 {
 	"resource_pack_name": "bridgeRP",
 	"texture_name": "atlas.terrain",
@@ -118,6 +118,9 @@
 		},
 		"liquid_tank": {
 			"textures": "textures/blocks/liquid_tank"
+		},
+		"testing_block": {
+			"textures": "textures/blocks/testing_block"
 		}
 	}
 }

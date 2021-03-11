@@ -446,5 +446,8 @@
 	},
 	"BP/items/hammer.json": {
 		"data": {}
+	},
+	"BP/blocks/testing_block.json": {
+		"data": {}
 	}
 }

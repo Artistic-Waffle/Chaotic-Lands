@@ -1,4 +1,4 @@
-//bridge-file-version: #6
+//bridge-file-version: #7
 {
 	"format_version": [
 		1,
@@ -148,5 +148,8 @@
 	"cc:zinc_block": {
 		"textures": "zinc_block",
 		"sound": "stone"
+	},
+	"cc:testing_block": {
+		"textures": "testing_block"
 	}
 }
