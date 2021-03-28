@@ -1,4 +1,4 @@
-//bridge-file-version: #7
+//bridge-file-version: #10
 {
 	"resource_pack_name": "bridgeRP",
 	"texture_name": "atlas.terrain",
@@ -121,6 +121,9 @@
 		},
 		"testing_block": {
 			"textures": "textures/blocks/testing_block"
+		},
+		"dark_pedestal": {
+			"textures": "textures/blocks/magic/dark_pedestal"
 		}
 	}
 }

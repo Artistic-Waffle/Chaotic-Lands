@@ -2,8 +2,8 @@
 	"file_path": "C:\\Users\\heste\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\games\\com.mojang\\development_resource_packs\\Chaotic Craft Rp\\textures\\terrain_texture.json",
 	"file_type": "terrain_texture",
 	"format_version": 1,
-	"file_uuid": "63a16a17_1c45_43de_8de0_7af66a729bf9",
-	"file_version": 7,
+	"file_uuid": "25e41356_8600_4b53_8a62_02a05525c89c",
+	"file_version": 9,
 	"cache_content": {
 		"children": [
 			{
@@ -144,8 +144,11 @@
 							"textures": "textures/blocks/liquid_tank"
 						},
 						"testing_block": {
+							"textures": "textures/blocks/testing_block"
+						},
+						"dark_pedestal": {
 							"textures": [
-								"textures/blocks/testing_block"
+								"textures/blocks/magic/dark_pedestal"
 							]
 						}
 					}
@@ -230,127 +233,6 @@
 						}
 					},
 					{
-						"open": {
-							"adamantite_block": {
-								"textures": "textures/blocks/adamantite_block"
-							},
-							"adamantite_ore": {
-								"textures": "textures/blocks/adamantite_ore"
-							},
-							"aluminum_block": {
-								"textures": "textures/blocks/aluminum_block"
-							},
-							"aluminum_ore": {
-								"textures": "textures/blocks/aluminum_ore"
-							},
-							"amethyst_block": {
-								"textures": "textures/blocks/amethyst_block"
-							},
-							"amethyst_ore": {
-								"textures": "textures/blocks/amethyst_ore"
-							},
-							"black_steel_block": {
-								"textures": "textures/blocks/black_steel_block"
-							},
-							"brass_block": {
-								"textures": "textures/blocks/brass_block"
-							},
-							"bronze_block": {
-								"textures": "textures/blocks/bronze_block"
-							},
-							"cobalt_block": {
-								"textures": "textures/blocks/cobalt_block"
-							},
-							"cobalt_ore": {
-								"textures": "textures/blocks/cobalt_ore"
-							},
-							"copper_block": {
-								"textures": "textures/blocks/copper_block"
-							},
-							"copper_ore": {
-								"textures": "textures/blocks/copper_ore"
-							},
-							"electrum_block": {
-								"textures": "textures/blocks/electrum_block"
-							},
-							"electrum_ore": {
-								"textures": "textures/blocks/electrum_ore"
-							},
-							"lead_block": {
-								"textures": "textures/blocks/lead_block"
-							},
-							"lead_ore": {
-								"textures": "textures/blocks/lead_ore"
-							},
-							"mythril_block": {
-								"textures": "textures/blocks/mythril_block"
-							},
-							"mythril_ore": {
-								"textures": "textures/blocks/mythril_ore"
-							},
-							"nickel_block": {
-								"textures": "textures/blocks/nickel_block"
-							},
-							"nickel_ore": {
-								"textures": "textures/blocks/nickel_ore"
-							},
-							"platinum_block": {
-								"textures": "textures/blocks/platinum_block"
-							},
-							"platinum_ore": {
-								"textures": "textures/blocks/platinum_ore"
-							},
-							"silver_block": {
-								"textures": "textures/blocks/silver_block"
-							},
-							"silver_ore": {
-								"textures": "textures/blocks/silver_ore"
-							},
-							"steel_block": {
-								"textures": "textures/blocks/steel_block"
-							},
-							"tin_block": {
-								"textures": "textures/blocks/tin_block"
-							},
-							"tin_ore": {
-								"textures": "textures/blocks/tin_ore"
-							},
-							"titanium_block": {
-								"textures": "textures/blocks/titanium_block"
-							},
-							"titanium_ore": {
-								"textures": "textures/blocks/titanium_ore"
-							},
-							"tungsten_block": {
-								"textures": "textures/blocks/tungsten_block"
-							},
-							"tungsten_ore": {
-								"textures": "textures/blocks/tungsten_ore"
-							},
-							"uranium_block": {
-								"textures": "textures/blocks/uranium_block"
-							},
-							"uranium_ore": {
-								"textures": "textures/blocks/uranium_ore"
-							},
-							"zinc_block": {
-								"textures": "textures/blocks/zinc_block"
-							},
-							"zinc_ore": {
-								"textures": "textures/blocks/zinc_ore"
-							},
-							"crushing_table": {
-								"textures": "textures/blocks/crushing_table"
-							},
-							"liquid_tank": {
-								"textures": "textures/blocks/liquid_tank"
-							},
-							"testing_block": {
-								"textures": [
-									"textures/blocks/testing_block"
-								]
-							}
-						},
 						"key": "copper_block",
 						"is_minified": true,
 						"children": {
@@ -358,127 +240,6 @@
 						}
 					},
 					{
-						"open": {
-							"adamantite_block": {
-								"textures": "textures/blocks/adamantite_block"
-							},
-							"adamantite_ore": {
-								"textures": "textures/blocks/adamantite_ore"
-							},
-							"aluminum_block": {
-								"textures": "textures/blocks/aluminum_block"
-							},
-							"aluminum_ore": {
-								"textures": "textures/blocks/aluminum_ore"
-							},
-							"amethyst_block": {
-								"textures": "textures/blocks/amethyst_block"
-							},
-							"amethyst_ore": {
-								"textures": "textures/blocks/amethyst_ore"
-							},
-							"black_steel_block": {
-								"textures": "textures/blocks/black_steel_block"
-							},
-							"brass_block": {
-								"textures": "textures/blocks/brass_block"
-							},
-							"bronze_block": {
-								"textures": "textures/blocks/bronze_block"
-							},
-							"cobalt_block": {
-								"textures": "textures/blocks/cobalt_block"
-							},
-							"cobalt_ore": {
-								"textures": "textures/blocks/cobalt_ore"
-							},
-							"copper_block": {
-								"textures": "textures/blocks/copper_block"
-							},
-							"copper_ore": {
-								"textures": "textures/blocks/copper_ore"
-							},
-							"electrum_block": {
-								"textures": "textures/blocks/electrum_block"
-							},
-							"electrum_ore": {
-								"textures": "textures/blocks/electrum_ore"
-							},
-							"lead_block": {
-								"textures": "textures/blocks/lead_block"
-							},
-							"lead_ore": {
-								"textures": "textures/blocks/lead_ore"
-							},
-							"mythril_block": {
-								"textures": "textures/blocks/mythril_block"
-							},
-							"mythril_ore": {
-								"textures": "textures/blocks/mythril_ore"
-							},
-							"nickel_block": {
-								"textures": "textures/blocks/nickel_block"
-							},
-							"nickel_ore": {
-								"textures": "textures/blocks/nickel_ore"
-							},
-							"platinum_block": {
-								"textures": "textures/blocks/platinum_block"
-							},
-							"platinum_ore": {
-								"textures": "textures/blocks/platinum_ore"
-							},
-							"silver_block": {
-								"textures": "textures/blocks/silver_block"
-							},
-							"silver_ore": {
-								"textures": "textures/blocks/silver_ore"
-							},
-							"steel_block": {
-								"textures": "textures/blocks/steel_block"
-							},
-							"tin_block": {
-								"textures": "textures/blocks/tin_block"
-							},
-							"tin_ore": {
-								"textures": "textures/blocks/tin_ore"
-							},
-							"titanium_block": {
-								"textures": "textures/blocks/titanium_block"
-							},
-							"titanium_ore": {
-								"textures": "textures/blocks/titanium_ore"
-							},
-							"tungsten_block": {
-								"textures": "textures/blocks/tungsten_block"
-							},
-							"tungsten_ore": {
-								"textures": "textures/blocks/tungsten_ore"
-							},
-							"uranium_block": {
-								"textures": "textures/blocks/uranium_block"
-							},
-							"uranium_ore": {
-								"textures": "textures/blocks/uranium_ore"
-							},
-							"zinc_block": {
-								"textures": "textures/blocks/zinc_block"
-							},
-							"zinc_ore": {
-								"textures": "textures/blocks/zinc_ore"
-							},
-							"crushing_table": {
-								"textures": "textures/blocks/crushing_table"
-							},
-							"liquid_tank": {
-								"textures": "textures/blocks/liquid_tank"
-							},
-							"testing_block": {
-								"textures": [
-									"textures/blocks/testing_block"
-								]
-							}
-						},
 						"key": "copper_ore",
 						"is_minified": true,
 						"children": {
@@ -654,131 +415,17 @@
 						}
 					},
 					{
-						"open": {
-							"adamantite_block": {
-								"textures": "textures/blocks/adamantite_block"
-							},
-							"adamantite_ore": {
-								"textures": "textures/blocks/adamantite_ore"
-							},
-							"aluminum_block": {
-								"textures": "textures/blocks/aluminum_block"
-							},
-							"aluminum_ore": {
-								"textures": "textures/blocks/aluminum_ore"
-							},
-							"amethyst_block": {
-								"textures": "textures/blocks/amethyst_block"
-							},
-							"amethyst_ore": {
-								"textures": "textures/blocks/amethyst_ore"
-							},
-							"black_steel_block": {
-								"textures": "textures/blocks/black_steel_block"
-							},
-							"brass_block": {
-								"textures": "textures/blocks/brass_block"
-							},
-							"bronze_block": {
-								"textures": "textures/blocks/bronze_block"
-							},
-							"cobalt_block": {
-								"textures": "textures/blocks/cobalt_block"
-							},
-							"cobalt_ore": {
-								"textures": "textures/blocks/cobalt_ore"
-							},
-							"copper_block": {
-								"textures": "textures/blocks/copper_block"
-							},
-							"copper_ore": {
-								"textures": "textures/blocks/copper_ore"
-							},
-							"electrum_block": {
-								"textures": "textures/blocks/electrum_block"
-							},
-							"electrum_ore": {
-								"textures": "textures/blocks/electrum_ore"
-							},
-							"lead_block": {
-								"textures": "textures/blocks/lead_block"
-							},
-							"lead_ore": {
-								"textures": "textures/blocks/lead_ore"
-							},
-							"mythril_block": {
-								"textures": "textures/blocks/mythril_block"
-							},
-							"mythril_ore": {
-								"textures": "textures/blocks/mythril_ore"
-							},
-							"nickel_block": {
-								"textures": "textures/blocks/nickel_block"
-							},
-							"nickel_ore": {
-								"textures": "textures/blocks/nickel_ore"
-							},
-							"platinum_block": {
-								"textures": "textures/blocks/platinum_block"
-							},
-							"platinum_ore": {
-								"textures": "textures/blocks/platinum_ore"
-							},
-							"silver_block": {
-								"textures": "textures/blocks/silver_block"
-							},
-							"silver_ore": {
-								"textures": "textures/blocks/silver_ore"
-							},
-							"steel_block": {
-								"textures": "textures/blocks/steel_block"
-							},
-							"tin_block": {
-								"textures": "textures/blocks/tin_block"
-							},
-							"tin_ore": {
-								"textures": "textures/blocks/tin_ore"
-							},
-							"titanium_block": {
-								"textures": "textures/blocks/titanium_block"
-							},
-							"titanium_ore": {
-								"textures": "textures/blocks/titanium_ore"
-							},
-							"tungsten_block": {
-								"textures": "textures/blocks/tungsten_block"
-							},
-							"tungsten_ore": {
-								"textures": "textures/blocks/tungsten_ore"
-							},
-							"uranium_block": {
-								"textures": "textures/blocks/uranium_block"
-							},
-							"uranium_ore": {
-								"textures": "textures/blocks/uranium_ore"
-							},
-							"zinc_block": {
-								"textures": "textures/blocks/zinc_block"
-							},
-							"zinc_ore": {
-								"textures": "textures/blocks/zinc_ore"
-							},
-							"crushing_table": {
-								"textures": "textures/blocks/crushing_table"
-							},
-							"liquid_tank": {
-								"textures": "textures/blocks/liquid_tank"
-							},
-							"testing_block": {
-								"textures": [
-									"textures/blocks/testing_block"
-								]
-							}
-						},
 						"key": "liquid_tank",
 						"is_minified": true,
 						"children": {
 							"textures": "textures/blocks/liquid_tank"
+						}
+					},
+					{
+						"key": "testing_block",
+						"is_minified": true,
+						"children": {
+							"textures": "textures/blocks/testing_block"
 						}
 					},
 					{
@@ -898,23 +545,26 @@
 								"textures": "textures/blocks/liquid_tank"
 							},
 							"testing_block": {
+								"textures": "textures/blocks/testing_block"
+							},
+							"dark_pedestal": {
 								"textures": [
-									"textures/blocks/testing_block"
+									"textures/blocks/magic/dark_pedestal"
 								]
 							}
 						},
-						"key": "testing_block",
+						"key": "dark_pedestal",
 						"children": [
 							{
 								"open": {
 									"textures": [
-										"textures/blocks/testing_block"
+										"textures/blocks/magic/dark_pedestal"
 									]
 								},
 								"key": "textures",
 								"is_minified": true,
 								"children": [
-									"textures/blocks/testing_block"
+									"textures/blocks/magic/dark_pedestal"
 								]
 							}
 						]

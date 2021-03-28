@@ -2,8 +2,8 @@
 	"file_path": "C:\\Users\\heste\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\games\\com.mojang\\development_resource_packs\\Chaotic Craft Rp\\blocks.json",
 	"file_type": "client_block",
 	"format_version": 1,
-	"file_uuid": "d89399cf_743b_4713_a855_67c37765345c",
-	"file_version": 7,
+	"file_uuid": "1ae05077_a21c_4017_91ff_e71f1f72a072",
+	"file_version": 9,
 	"cache_content": {
 		"children": [
 			{
@@ -296,165 +296,18 @@
 				}
 			},
 			{
-				"open": {
-					"format_version": [
-						1,
-						1,
-						0
-					],
-					"cc:adamantite_ore": {
-						"sound": "stone",
-						"textures": "adamantite_ore"
-					},
-					"cc:adamantite_block": {
-						"sound": "metal",
-						"textures": "adamantite_block"
-					},
-					"cc:aluminum_ore": {
-						"sound": "stone",
-						"textures": "aluminum_ore"
-					},
-					"cc:aluminum_block": {
-						"sound": "metal",
-						"textures": "aluminum_block"
-					},
-					"cc:amethyst_ore": {
-						"textures": "amethyst_ore",
-						"sound": "shroomlight"
-					},
-					"cc:amethyst_block": {
-						"sound": "shroomlight",
-						"textures": "amethyst_block"
-					},
-					"cc:black_steel_block": {
-						"sound": "metal",
-						"textures": "black_steel_block"
-					},
-					"cc:brass_block": {
-						"sound": "metal",
-						"textures": "brass_block"
-					},
-					"cc:bronze_block": {
-						"textures": "bronze_block",
-						"sound": "metal"
-					},
-					"cc:cobalt_ore": {
-						"sound": "stone",
-						"textures": "cobalt_ore"
-					},
-					"cc:cobalt_block": {
-						"sound": "metal",
-						"textures": "cobalt_block"
-					},
-					"cc:copper_ore": {
-						"sound": "stone",
-						"textures": "copper_ore"
-					},
-					"cc:copper_block": {
-						"sound": "metal",
-						"textures": "copper_block"
-					},
-					"cc:electrum_ore": {
-						"sound": "stone",
-						"textures": "electrum_ore"
-					},
-					"cc:electrum_block": {
-						"sound": "metal",
-						"textures": "electrum_block"
-					},
-					"cc:lead_ore": {
-						"textures": "lead_ore",
-						"sound": "stone"
-					},
-					"cc:lead_block": {
-						"textures": "lead_block",
-						"sound": "metal"
-					},
-					"cc:mythril_ore": {
-						"textures": "mythril_ore",
-						"sound": "stone"
-					},
-					"cc:mythril_block": {
-						"textures": "mythril_block",
-						"sound": "metal"
-					},
-					"cc:nickel_ore": {
-						"textures": "nickel_ore",
-						"sound": "stone"
-					},
-					"cc:nickel_block": {
-						"textures": "nickel_block",
-						"sound": "metal"
-					},
-					"cc:platinum_ore": {
-						"textures": "platinum_ore",
-						"sound": "stone"
-					},
-					"cc:platinum_block": {
-						"textures": "platinum_block",
-						"sound": "metal"
-					},
-					"cc:silver_ore": {
-						"textures": "silver_ore",
-						"sound": "stone"
-					},
-					"cc:silver_block": {
-						"textures": "silver_block",
-						"sound": "metal"
-					},
-					"cc:steel_block": {
-						"textures": "steel_block",
-						"sound": "metal"
-					},
-					"cc:tin_ore": {
-						"textures": "tin_ore",
-						"sound": "metal"
-					},
-					"cc:tin_block": {
-						"textures": "tin_block",
-						"sound": "stone"
-					},
-					"cc:titanium_ore": {
-						"textures": "titanium_ore",
-						"sound": "metal"
-					},
-					"cc:titanium_block": {
-						"textures": "titanium_block",
-						"sound": "stone"
-					},
-					"cc:tungsten_ore": {
-						"textures": "tungsten_ore",
-						"sound": "metal"
-					},
-					"cc:tungsten_block": {
-						"textures": "tungsten_block",
-						"sound": "stone"
-					},
-					"cc:uranium_ore": {
-						"textures": "uranium_ore",
-						"sound": "metal"
-					},
-					"cc:uranium_block": {
-						"textures": "uranium_block",
-						"sound": "stone"
-					},
-					"cc:zinc_ore": {
-						"textures": "zinc_ore",
-						"sound": "metal"
-					},
-					"cc:zinc_block": {
-						"textures": "zinc_block",
-						"sound": "stone"
-					},
-					"cc:testing_block": {
-						"textures": {}
-					}
-				},
 				"key": "cc:zinc_block",
 				"is_minified": true,
 				"children": {
 					"textures": "zinc_block",
 					"sound": "stone"
+				}
+			},
+			{
+				"key": "cc:testing_block",
+				"is_minified": true,
+				"children": {
+					"textures": "testing_block"
 				}
 			},
 			{
@@ -609,13 +462,18 @@
 						"sound": "stone"
 					},
 					"cc:testing_block": {
-						"textures": {}
+						"textures": "testing_block"
+					},
+					"cc:dark_pedestal": {
+						"textures": "dark_pedestal",
+						"sound": "anvil"
 					}
 				},
-				"key": "cc:testing_block",
+				"key": "cc:dark_pedestal",
 				"is_minified": true,
 				"children": {
-					"textures": {}
+					"textures": "dark_pedestal",
+					"sound": "anvil"
 				}
 			}
 		]

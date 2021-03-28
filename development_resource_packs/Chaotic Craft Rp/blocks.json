@@ -1,4 +1,4 @@
-//bridge-file-version: #7
+//bridge-file-version: #9
 {
 	"format_version": [
 		1,
@@ -151,5 +151,9 @@
 	},
 	"cc:testing_block": {
 		"textures": "testing_block"
+	},
+	"cc:dark_pedestal": {
+		"textures": "dark_pedestal",
+		"sound": "anvil"
 	}
 }

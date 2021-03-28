@@ -449,5 +449,8 @@
 	},
 	"BP/blocks/testing_block.json": {
 		"data": {}
+	},
+	"BP/blocks/dark_pedestal.json": {
+		"data": {}
 	}
 }

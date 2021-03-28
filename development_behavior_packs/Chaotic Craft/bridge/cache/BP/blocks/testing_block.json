@@ -3,7 +3,7 @@
 	"file_type": "block",
 	"format_version": 1,
 	"file_uuid": "33f6fc66_1a9d_4ab4_859e_ec24e121e04d",
-	"file_version": 0,
+	"file_version": 1,
 	"cache_content": {
 		"children": [
 			{
@@ -15,7 +15,8 @@
 					"format_version": "1.16.100",
 					"minecraft:block": {
 						"description": {
-							"identifier": "cc:testing_block"
+							"identifier": "cc:testing_block",
+							"category": "items"
 						},
 						"components": {
 							"minecraft:destroy_time": 5
@@ -27,7 +28,8 @@
 					{
 						"open": {
 							"description": {
-								"identifier": "cc:testing_block"
+								"identifier": "cc:testing_block",
+								"category": "items"
 							},
 							"components": {
 								"minecraft:destroy_time": 5
@@ -36,13 +38,15 @@
 						"key": "description",
 						"is_minified": true,
 						"children": {
-							"identifier": "cc:testing_block"
+							"identifier": "cc:testing_block",
+							"category": "items"
 						}
 					},
 					{
 						"open": {
 							"description": {
-								"identifier": "cc:testing_block"
+								"identifier": "cc:testing_block",
+								"category": "items"
 							},
 							"components": {
 								"minecraft:destroy_time": 5
