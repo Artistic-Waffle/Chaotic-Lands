@@ -1,4 +1,4 @@
-# Chaotic-Lands obsoleted
+# Chaotic-Lands obsolete
 
 Updates :
   - Restarted Resouce and Behavior pack
